@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "c01",
+    "name": {
+      "en": "Arun Suri",
+      "th": "อรุณ สุริ"
+    },
+    "class_name": {
+      "en": "Vanguard",
+      "th": "แนวหน้าพิทักษ์"
+    },
+    "age": 17,
+    "nationality": "Thai",
+    "role": {
+      "en": "Wide melee cleave pushes enemies away.",
+      "th": "ฟันกว้างระยะประชิดและผลักศัตรู"
+    },
+    "element": "physical",
+    "weapon": "melee",
+    "skill": "cleave",
+    "skill_name": {
+      "en": "Crescent Cleave",
+      "th": "ฟันจันทร์เสี้ยว"
+    },
+    "skill_description": {
+      "en": "Wide melee cleave pushes enemies away.",
+      "th": "ฟันกว้างระยะประชิดและผลักศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Dawn Vanguard",
+      "th": "แนวหน้ารุ่งอรุณ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#dcac70",
+    "skin": "#b7795e",
+    "hair": "#bd8b64",
+    "recruit_at": 0,
+    "bio": {
+      "en": "Keeps the classroom register and checks every name after the fracture.",
+      "th": "ถือทะเบียนห้องและตรวจทุกชื่อหลังมิติแตก"
+    },
+    "relationship": {
+      "en": "Mei is his lab partner; Amara challenges his habit of deciding alone.",
+      "th": "เหม่ยเป็นคู่แล็บ ส่วนอมาราคอยทักนิสัยตัดสินใจคนเดียว"
+    },
+    "arc": {
+      "en": "Learns that leading means asking everyone what home should mean.",
+      "th": "เรียนรู้ว่าผู้นำต้องฟังทุกคนว่าอยากให้บ้านเป็นเช่นไร"
+    }
+  },
+  {
+    "id": "c02",
+    "name": {
+      "en": "Leila Haddad",
+      "th": "ไลลา ฮัดดัด"
+    },
+    "class_name": {
+      "en": "Aegis Knight",
+      "th": "อัศวินโล่"
+    },
+    "age": 18,
+    "nationality": "Lebanese",
+    "role": {
+      "en": "Shield yourself and stagger nearby foes; the ultimate protects allies.",
+      "th": "สร้างโล่ให้ตนเองและทำให้ศัตรูชะงัก ท่าไม้ตายคุ้มครองเพื่อน"
+    },
+    "element": "light",
+    "weapon": "melee",
+    "skill": "shield",
+    "skill_name": {
+      "en": "Shelter Aegis",
+      "th": "โล่คุ้มภัย"
+    },
+    "skill_description": {
+      "en": "Shield yourself and stagger nearby foes; the ultimate protects allies.",
+      "th": "สร้างโล่ให้ตนเองและทำให้ศัตรูชะงัก ท่าไม้ตายคุ้มครองเพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Unbroken Circle",
+      "th": "วงพิทักษ์"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 14,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#63b9af",
+    "skin": "#eac29c",
+    "hair": "#273c49",
+    "recruit_at": 1,
+    "bio": {
+      "en": "A debate captain who shields others even while frightened.",
+      "th": "กัปตันชมรมโต้วาทีที่ปกป้องเพื่อนแม้ตัวเองกลัว"
+    },
+    "relationship": {
+      "en": "Often argues with Arun but trusts his promise to count everyone.",
+      "th": "เถียงกับอรุณบ่อย แต่ไว้ใจคำสัญญาว่าจะนับทุกคน"
+    },
+    "arc": {
+      "en": "Turns obedience to royal orders into protection of ordinary people.",
+      "th": "เปลี่ยนการเชื่อฟังราชสำนักเป็นการคุ้มครองผู้คน"
+    }
+  },
+  {
+    "id": "c03",
+    "name": {
+      "en": "Rafael Costa",
+      "th": "ราฟาเอล คอสตา"
+    },
+    "class_name": {
+      "en": "Arcblade",
+      "th": "ดาบมนตรา"
+    },
+    "age": 16,
+    "nationality": "Brazilian",
+    "role": {
+      "en": "Conduct an arc of magic through several nearby foes.",
+      "th": "ส่งกระแสอาคมเชื่อมศัตรูใกล้เคียงหลายตัว"
+    },
+    "element": "arcane",
+    "weapon": "melee",
+    "skill": "arc",
+    "skill_name": {
+      "en": "Arc Cut",
+      "th": "คมอาคม"
+    },
+    "skill_description": {
+      "en": "Conduct an arc of magic through several nearby foes.",
+      "th": "ส่งกระแสอาคมเชื่อมศัตรูใกล้เคียงหลายตัว"
+    },
+    "ultimate_name": {
+      "en": "Runic Tempest",
+      "th": "พายุอักขระ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#b689cd",
+    "skin": "#9e6c55",
+    "hair": "#d2c6ac",
+    "recruit_at": 1,
+    "bio": {
+      "en": "A stage technician who finds the summoning's rhythm in rune circuitry.",
+      "th": "ช่างเวทีที่พบจังหวะของพิธีอัญเชิญในวงจรอักขระ"
+    },
+    "relationship": {
+      "en": "Shares an after-school workshop with Sofia.",
+      "th": "ทำงานในเวิร์กช็อปหลังเลิกเรียนกับโซเฟีย"
+    },
+    "arc": {
+      "en": "Stops hiding his ideas behind jokes and trusts his own inventions.",
+      "th": "เลิกซ่อนความคิดไว้หลังมุกตลกและเชื่อในงานของตัวเอง"
+    }
+  },
+  {
+    "id": "c04",
+    "name": {
+      "en": "Mei Chen",
+      "th": "เหม่ย เฉิน"
+    },
+    "class_name": {
+      "en": "Spellweaver",
+      "th": "ผู้ถักมนตรา"
+    },
+    "age": 17,
+    "nationality": "Chinese",
+    "role": {
+      "en": "Detonate magic around a distant enemy.",
+      "th": "ระเบิดเวทมนตร์รอบศัตรูระยะไกล"
+    },
+    "element": "arcane",
+    "weapon": "magic",
+    "skill": "nova",
+    "skill_name": {
+      "en": "Astral Nova",
+      "th": "ดาวระเบิด"
+    },
+    "skill_description": {
+      "en": "Detonate magic around a distant enemy.",
+      "th": "ระเบิดเวทมนตร์รอบศัตรูระยะไกล"
+    },
+    "ultimate_name": {
+      "en": "Prismatic Sky",
+      "th": "ฟ้าปริซึม"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#819bd7",
+    "skin": "#d8a27b",
+    "hair": "#82535d",
+    "recruit_at": 0,
+    "bio": {
+      "en": "A patient science-club student determined to measure impossible magic.",
+      "th": "นักเรียนชมรมวิทยาศาสตร์ผู้ตั้งใจวัดเวทมนตร์ที่เป็นไปไม่ได้"
+    },
+    "relationship": {
+      "en": "Arun is her project partner; Nadia shares her love of old maps.",
+      "th": "อรุณเป็นคู่โครงงาน นาเดียชอบแผนที่เก่าเหมือนเธอ"
+    },
+    "arc": {
+      "en": "Accepts uncertainty without abandoning the search for evidence.",
+      "th": "ยอมรับความไม่แน่นอนโดยไม่ละทิ้งการค้นหาหลักฐาน"
+    }
+  },
+  {
+    "id": "c05",
+    "name": {
+      "en": "Hana Mori",
+      "th": "ฮานะ โมริ"
+    },
+    "class_name": {
+      "en": "Rift Archer",
+      "th": "นักธนูรอยแยก"
+    },
+    "age": 18,
+    "nationality": "Japanese",
+    "role": {
+      "en": "Fire a spread of arrows into the enemy line.",
+      "th": "ยิงศรกระจายเข้าแนวศัตรู"
+    },
+    "element": "wind",
+    "weapon": "ranged",
+    "skill": "volley",
+    "skill_name": {
+      "en": "Rift Volley",
+      "th": "ศรห้วงมิติ"
+    },
+    "skill_description": {
+      "en": "Fire a spread of arrows into the enemy line.",
+      "th": "ยิงศรกระจายเข้าแนวศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Thousand Horizons",
+      "th": "พันขอบฟ้า"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#c78d7a",
+    "skin": "#b7795e",
+    "hair": "#433f4d",
+    "recruit_at": 1,
+    "bio": {
+      "en": "A quiet photographer who notices the escape routes others miss.",
+      "th": "ช่างภาพเงียบขรึมที่เห็นทางหนีซึ่งคนอื่นมองข้าม"
+    },
+    "relationship": {
+      "en": "Trades sketches with Luka during lunch.",
+      "th": "แลกภาพร่างกับลูกาช่วงพักกลางวัน"
+    },
+    "arc": {
+      "en": "Uses her observation to speak up when the group chooses danger.",
+      "th": "ใช้การสังเกตและกล้าพูดเมื่อกลุ่มกำลังเลือกทางอันตราย"
+    }
+  },
+  {
+    "id": "c06",
+    "name": {
+      "en": "Samir Khan",
+      "th": "ซามีร์ ข่าน"
+    },
+    "class_name": {
+      "en": "Beast Tamer",
+      "th": "ผู้ผูกพันอสูร"
+    },
+    "age": 16,
+    "nationality": "British Pakistani",
+    "role": {
+      "en": "Summon a beast companion that attacks independently.",
+      "th": "เรียกสหายอสูรที่โจมตีได้เอง"
+    },
+    "element": "nature",
+    "weapon": "ranged",
+    "skill": "summon",
+    "skill_name": {
+      "en": "Call Companion",
+      "th": "เรียกสหาย"
+    },
+    "skill_description": {
+      "en": "Summon a beast companion that attacks independently.",
+      "th": "เรียกสหายอสูรที่โจมตีได้เอง"
+    },
+    "ultimate_name": {
+      "en": "Wild Concord",
+      "th": "พันธสัญญาพงไพร"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#80b47d",
+    "skin": "#eac29c",
+    "hair": "#bd8b64",
+    "recruit_at": 1,
+    "bio": {
+      "en": "A volunteer at an animal shelter who refuses to call living beings tools.",
+      "th": "อาสาสมัครศูนย์สัตว์ที่ไม่ยอมเรียกสิ่งมีชีวิตว่าเครื่องมือ"
+    },
+    "relationship": {
+      "en": "Amara covered his homework when he missed school for shelter work.",
+      "th": "อมาราช่วยเรื่องการบ้านในวันที่เขาไปทำงานศูนย์สัตว์"
+    },
+    "arc": {
+      "en": "Extends compassion to the tower creatures born from broken machines.",
+      "th": "มอบเมตตาให้สิ่งมีชีวิตจากหอคอยที่เกิดจากจักรกลเสียหาย"
+    }
+  },
+  {
+    "id": "c07",
+    "name": {
+      "en": "Amara Okafor",
+      "th": "อมารา โอกาฟอร์"
+    },
+    "class_name": {
+      "en": "Sanctifier",
+      "th": "ผู้ชำระศักดิ์สิทธิ์"
+    },
+    "age": 17,
+    "nationality": "Nigerian",
+    "role": {
+      "en": "Heal the most wounded ally; the ultimate restores the party.",
+      "th": "ฟื้นฟูเพื่อนที่บาดเจ็บหนักที่สุด ท่าไม้ตายฟื้นฟูทั้งปาร์ตี้"
+    },
+    "element": "light",
+    "weapon": "magic",
+    "skill": "heal",
+    "skill_name": {
+      "en": "Restoring Light",
+      "th": "แสงฟื้นฟู"
+    },
+    "skill_description": {
+      "en": "Heal the most wounded ally; the ultimate restores the party.",
+      "th": "ฟื้นฟูเพื่อนที่บาดเจ็บหนักที่สุด ท่าไม้ตายฟื้นฟูทั้งปาร์ตี้"
+    },
+    "ultimate_name": {
+      "en": "Shared Sunrise",
+      "th": "รุ่งอรุณร่วมกัน"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 13
+    },
+    "color": "#e4c581",
+    "skin": "#9e6c55",
+    "hair": "#273c49",
+    "recruit_at": 0,
+    "bio": {
+      "en": "A first-aid volunteer who keeps asking who the kingdom has forgotten.",
+      "th": "อาสาปฐมพยาบาลที่ถามเสมอว่าราชอาณาจักรลืมใครไว้"
+    },
+    "relationship": {
+      "en": "A trusted friend of Samir, and Arun's most honest critic.",
+      "th": "เพื่อนที่ซามีร์ไว้ใจและผู้วิจารณ์อรุณอย่างตรงไปตรงมา"
+    },
+    "arc": {
+      "en": "Defends care as a choice, never a duty forced onto the gentle.",
+      "th": "ยืนยันว่าการดูแลคือทางเลือก ไม่ใช่หน้าที่ที่โยนให้คนอ่อนโยน"
+    }
+  },
+  {
+    "id": "c08",
+    "name": {
+      "en": "Nadia Petrov",
+      "th": "นาเดีย เปตรอฟ"
+    },
+    "class_name": {
+      "en": "Hexbinder",
+      "th": "ผู้ผูกคำสาป"
+    },
+    "age": 18,
+    "nationality": "Bulgarian",
+    "role": {
+      "en": "Weaken foes with a lingering curse.",
+      "th": "ทำให้ศัตรูอ่อนแอด้วยคำสาปต่อเนื่อง"
+    },
+    "element": "dark",
+    "weapon": "magic",
+    "skill": "curse",
+    "skill_name": {
+      "en": "Binding Hex",
+      "th": "คำสาปพันธนา"
+    },
+    "skill_description": {
+      "en": "Weaken foes with a lingering curse.",
+      "th": "ทำให้ศัตรูอ่อนแอด้วยคำสาปต่อเนื่อง"
+    },
+    "ultimate_name": {
+      "en": "Broken Oath",
+      "th": "สาบานที่สลาย"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#b794b4",
+    "skin": "#d8a27b",
+    "hair": "#d2c6ac",
+    "recruit_at": 2,
+    "bio": {
+      "en": "A history enthusiast who distrusts the sanctuary's missing dates.",
+      "th": "ผู้รักประวัติศาสตร์ที่สงสัยปีศักราชที่หายไปในวิหาร"
+    },
+    "relationship": {
+      "en": "Mei helps her compare legends against measurements.",
+      "th": "เหม่ยช่วยเปรียบเทียบตำนานกับผลการวัด"
+    },
+    "arc": {
+      "en": "Learns to expose a lie without treating every believer as an enemy.",
+      "th": "เรียนรู้การเปิดโปงคำโกหกโดยไม่มองผู้ศรัทธาทุกคนเป็นศัตรู"
+    }
+  },
+  {
+    "id": "c09",
+    "name": {
+      "en": "Elias Mensah",
+      "th": "อีเลียส เมนซาห์"
+    },
+    "class_name": {
+      "en": "Chronomancer",
+      "th": "นักเวทกาลเวลา"
+    },
+    "age": 16,
+    "nationality": "Ghanaian",
+    "role": {
+      "en": "Slow enemies and accelerate allied cooldown recovery.",
+      "th": "ทำให้ศัตรูช้าลงและเร่งฟื้นคูลดาวน์เพื่อน"
+    },
+    "element": "time",
+    "weapon": "magic",
+    "skill": "time",
+    "skill_name": {
+      "en": "Borrowed Moment",
+      "th": "ยืมวินาที"
+    },
+    "skill_description": {
+      "en": "Slow enemies and accelerate allied cooldown recovery.",
+      "th": "ทำให้ศัตรูช้าลงและเร่งฟื้นคูลดาวน์เพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Hour Beyond Hours",
+      "th": "กาลเหนือกาล"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#8bbbc6",
+    "skin": "#b7795e",
+    "hair": "#82535d",
+    "recruit_at": 2,
+    "bio": {
+      "en": "A chess-club newcomer who feels responsible for a missed warning.",
+      "th": "สมาชิกใหม่ชมรมหมากรุกที่โทษตัวเองเพราะเตือนไม่ทัน"
+    },
+    "relationship": {
+      "en": "Theo taught him the school's clock repair routine.",
+      "th": "ธีโอสอนเขาซ่อมนาฬิกาของโรงเรียน"
+    },
+    "arc": {
+      "en": "Accepts that saving people now matters more than undoing yesterday.",
+      "th": "ยอมรับว่าช่วยคนตอนนี้สำคัญกว่าลบวันวาน"
+    }
+  },
+  {
+    "id": "c10",
+    "name": {
+      "en": "Sofia Alvarez",
+      "th": "โซเฟีย อัลวาเรซ"
+    },
+    "class_name": {
+      "en": "Alchemist",
+      "th": "นักเล่นแร่แปรธาตุ"
+    },
+    "age": 17,
+    "nationality": "Mexican",
+    "role": {
+      "en": "Throw a poison mixture that damages an area over time.",
+      "th": "ขว้างสารพิษสร้างความเสียหายพื้นที่ต่อเนื่อง"
+    },
+    "element": "poison",
+    "weapon": "ranged",
+    "skill": "poison",
+    "skill_name": {
+      "en": "Reactive Mixture",
+      "th": "สารผสมปฏิกิริยา"
+    },
+    "skill_description": {
+      "en": "Throw a poison mixture that damages an area over time.",
+      "th": "ขว้างสารพิษสร้างความเสียหายพื้นที่ต่อเนื่อง"
+    },
+    "ultimate_name": {
+      "en": "Catalyst Rain",
+      "th": "ฝนตัวเร่ง"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#c08861",
+    "skin": "#eac29c",
+    "hair": "#433f4d",
+    "recruit_at": 2,
+    "bio": {
+      "en": "A chemistry student whose careful notes keep the road party supplied.",
+      "th": "นักเรียนเคมีที่บันทึกอย่างรอบคอบเพื่อให้ทีมเดินทางมีเสบียง"
+    },
+    "relationship": {
+      "en": "Rafael borrows her tools and always returns them repaired.",
+      "th": "ราฟาเอลยืมเครื่องมือและคืนพร้อมซ่อมให้เสมอ"
+    },
+    "arc": {
+      "en": "Challenges healers and smiths to share knowledge beyond guild walls.",
+      "th": "ชวนหมอและช่างแบ่งความรู้ให้คนพ้นกำแพงกิลด์"
+    }
+  },
+  {
+    "id": "c11",
+    "name": {
+      "en": "Theo Fischer",
+      "th": "ธีโอ ฟิชเชอร์"
+    },
+    "class_name": {
+      "en": "Artificer",
+      "th": "ช่างกลอาคม"
+    },
+    "age": 18,
+    "nationality": "German",
+    "role": {
+      "en": "Deploy a turret to hold a firing position.",
+      "th": "ตั้งป้อมยิงรักษาตำแหน่ง"
+    },
+    "element": "arcane",
+    "weapon": "ranged",
+    "skill": "turret",
+    "skill_name": {
+      "en": "Rune Turret",
+      "th": "ป้อมอักขระ"
+    },
+    "skill_description": {
+      "en": "Deploy a turret to hold a firing position.",
+      "th": "ตั้งป้อมยิงรักษาตำแหน่ง"
+    },
+    "ultimate_name": {
+      "en": "Workshop Unbound",
+      "th": "โรงงานไร้ขอบเขต"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#dcac70",
+    "skin": "#9e6c55",
+    "hair": "#bd8b64",
+    "recruit_at": 3,
+    "bio": {
+      "en": "A repair-club tinkerer who recognises service ports in holy relics.",
+      "th": "นักประดิษฐ์ชมรมซ่อมที่เห็นช่องซ่อมบำรุงในวัตถุศักดิ์สิทธิ์"
+    },
+    "relationship": {
+      "en": "Elias helps test his gadgets; Mina competes with his prototypes.",
+      "th": "อีเลียสช่วยทดสอบอุปกรณ์ มินาแข่งสร้างต้นแบบกับเขา"
+    },
+    "arc": {
+      "en": "Chooses repair over showing off an invention that could hurt others.",
+      "th": "เลือกซ่อมแซมแทนอวดสิ่งประดิษฐ์ที่อาจทำร้ายผู้อื่น"
+    }
+  },
+  {
+    "id": "c12",
+    "name": {
+      "en": "Zuri Ndlovu",
+      "th": "ซูรี เอ็นดโลวู"
+    },
+    "class_name": {
+      "en": "Void Dancer",
+      "th": "นักระบำสุญญะ"
+    },
+    "age": 16,
+    "nationality": "South African",
+    "role": {
+      "en": "Teleport forward and strike surrounding foes.",
+      "th": "วาร์ปไปด้านหน้าและโจมตีศัตรูรอบตัว"
+    },
+    "element": "void",
+    "weapon": "melee",
+    "skill": "blink",
+    "skill_name": {
+      "en": "Void Step",
+      "th": "ก้าวสุญญะ"
+    },
+    "skill_description": {
+      "en": "Teleport forward and strike surrounding foes.",
+      "th": "วาร์ปไปด้านหน้าและโจมตีศัตรูรอบตัว"
+    },
+    "ultimate_name": {
+      "en": "Dance Between Worlds",
+      "th": "ระบำระหว่างโลก"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 13,
+      "spirit": 8
+    },
+    "color": "#63b9af",
+    "skin": "#d8a27b",
+    "hair": "#273c49",
+    "recruit_at": 3,
+    "bio": {
+      "en": "A dance student who feels the gaps between ordinary footsteps.",
+      "th": "นักเรียนเต้นรำที่สัมผัสช่องว่างระหว่างก้าวเดิน"
+    },
+    "relationship": {
+      "en": "Practised a school performance with Yuna.",
+      "th": "เคยซ้อมการแสดงโรงเรียนกับยูนา"
+    },
+    "arc": {
+      "en": "Stops running from arguments and helps separated friends meet again.",
+      "th": "เลิกหนีความขัดแย้งและช่วยให้เพื่อนที่แยกกันกลับมาพบกัน"
+    }
+  },
+  {
+    "id": "c13",
+    "name": {
+      "en": "Omar Farouk",
+      "th": "โอมาร์ ฟารุก"
+    },
+    "class_name": {
+      "en": "Blood Warden",
+      "th": "ผู้พิทักษ์โลหิต"
+    },
+    "age": 17,
+    "nationality": "Egyptian",
+    "role": {
+      "en": "Drain enemy health to sustain your own.",
+      "th": "ดูดพลังชีวิตศัตรูมาฟื้นตนเอง"
+    },
+    "element": "blood",
+    "weapon": "melee",
+    "skill": "drain",
+    "skill_name": {
+      "en": "Crimson Return",
+      "th": "โลหิตย้อนคืน"
+    },
+    "skill_description": {
+      "en": "Drain enemy health to sustain your own.",
+      "th": "ดูดพลังชีวิตศัตรูมาฟื้นตนเอง"
+    },
+    "ultimate_name": {
+      "en": "Heart Unyielding",
+      "th": "ใจไม่ยอมแพ้"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 14,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#b689cd",
+    "skin": "#b7795e",
+    "hair": "#d2c6ac",
+    "recruit_at": 3,
+    "bio": {
+      "en": "A swimmer who hides injuries so the others will not worry.",
+      "th": "นักว่ายน้ำที่ซ่อนบาดแผลเพราะไม่อยากให้เพื่อนกังวล"
+    },
+    "relationship": {
+      "en": "Amara insists that he accept the help he gives everyone else.",
+      "th": "อมารายืนยันให้เขารับความช่วยเหลือเหมือนที่ช่วยคนอื่น"
+    },
+    "arc": {
+      "en": "Learns that enduring pain is different from sharing a burden.",
+      "th": "เรียนรู้ว่าทนเจ็บต่างจากแบ่งภาระร่วมกัน"
+    }
+  },
+  {
+    "id": "c14",
+    "name": {
+      "en": "Anika Rao",
+      "th": "อนิกา ราว"
+    },
+    "class_name": {
+      "en": "Runesmith",
+      "th": "ช่างตีอักขระ"
+    },
+    "age": 18,
+    "nationality": "Indian",
+    "role": {
+      "en": "Enchant your weapon and release a blade wave; the ultimate empowers allies.",
+      "th": "เสริมอาคมอาวุธและปล่อยคลื่นคมดาบ ท่าไม้ตายเสริมพลังเพื่อน"
+    },
+    "element": "arcane",
+    "weapon": "melee",
+    "skill": "enchant",
+    "skill_name": {
+      "en": "Tempered Rune",
+      "th": "อักขระหลอมคม"
+    },
+    "skill_description": {
+      "en": "Enchant your weapon and release a blade wave; the ultimate empowers allies.",
+      "th": "เสริมอาคมอาวุธและปล่อยคลื่นคมดาบ ท่าไม้ตายเสริมพลังเพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Living Forge",
+      "th": "เตาหลอมมีชีวิต"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#819bd7",
+    "skin": "#eac29c",
+    "hair": "#82535d",
+    "recruit_at": 4,
+    "bio": {
+      "en": "A design student who sees every rune as a pattern someone chose.",
+      "th": "นักเรียนออกแบบที่เห็นอักขระเป็นลวดลายที่มีคนเลือกสร้าง"
+    },
+    "relationship": {
+      "en": "Sofia and Anika built the class science-fair display.",
+      "th": "โซเฟียกับอนิกาสร้างชุดนิทรรศการวิทยาศาสตร์ของห้อง"
+    },
+    "arc": {
+      "en": "Makes weapons that defend lives instead of serving royal prestige.",
+      "th": "สร้างอาวุธเพื่อป้องกันชีวิตแทนสร้างชื่อให้ราชสำนัก"
+    }
+  },
+  {
+    "id": "c15",
+    "name": {
+      "en": "Luka Kovac",
+      "th": "ลูกา โควัช"
+    },
+    "class_name": {
+      "en": "Stormcaller",
+      "th": "ผู้เรียกพายุ"
+    },
+    "age": 16,
+    "nationality": "Croatian",
+    "role": {
+      "en": "Lightning chains pull clustered foes toward you and bind them.",
+      "th": "โซ่สายฟ้าดึงกลุ่มศัตรูเข้าหาตนและตรึงไว้"
+    },
+    "element": "lightning",
+    "weapon": "magic",
+    "skill": "chain",
+    "skill_name": {
+      "en": "Chain Lightning",
+      "th": "สายฟ้าเชื่อม"
+    },
+    "skill_description": {
+      "en": "Lightning chains pull clustered foes toward you and bind them.",
+      "th": "โซ่สายฟ้าดึงกลุ่มศัตรูเข้าหาตนและตรึงไว้"
+    },
+    "ultimate_name": {
+      "en": "Eye of the Storm",
+      "th": "ดวงตาพายุ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#c78d7a",
+    "skin": "#9e6c55",
+    "hair": "#433f4d",
+    "recruit_at": 4,
+    "bio": {
+      "en": "A weather watcher whose sketches predict the ember storms.",
+      "th": "ผู้ชอบดูอากาศที่ภาพร่างทำนายพายุถ่านเพลิง"
+    },
+    "relationship": {
+      "en": "Hana keeps a shared travel notebook with him.",
+      "th": "ฮานะทำสมุดเดินทางร่วมกับเขา"
+    },
+    "arc": {
+      "en": "Speaks honestly about fear rather than pretending danger is exciting.",
+      "th": "พูดถึงความกลัวตรงไปตรงมาแทนแสร้งว่าภัยอันตรายน่าตื่นเต้น"
+    }
+  },
+  {
+    "id": "c16",
+    "name": {
+      "en": "Isabel Santos",
+      "th": "อิซาเบล ซานโตส"
+    },
+    "class_name": {
+      "en": "Flame Herald",
+      "th": "ผู้นำสารเพลิง"
+    },
+    "age": 17,
+    "nationality": "Filipino",
+    "role": {
+      "en": "Ignite a field that burns enemies over time.",
+      "th": "สร้างพื้นที่เพลิงเผาศัตรูต่อเนื่อง"
+    },
+    "element": "fire",
+    "weapon": "magic",
+    "skill": "fire",
+    "skill_name": {
+      "en": "Flame Wake",
+      "th": "รอยเพลิง"
+    },
+    "skill_description": {
+      "en": "Ignite a field that burns enemies over time.",
+      "th": "สร้างพื้นที่เพลิงเผาศัตรูต่อเนื่อง"
+    },
+    "ultimate_name": {
+      "en": "Phoenix Horizon",
+      "th": "ขอบฟ้าฟีนิกซ์"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#80b47d",
+    "skin": "#d8a27b",
+    "hair": "#bd8b64",
+    "recruit_at": 4,
+    "bio": {
+      "en": "A outspoken team captain who was separated while helping refugees.",
+      "th": "กัปตันทีมกล้าพูดที่พลัดหลงขณะช่วยผู้ลี้ภัย"
+    },
+    "relationship": {
+      "en": "Rivals Leila in debate, but refuses to leave her behind.",
+      "th": "เป็นคู่แข่งโต้วาทีกับไลลา แต่ไม่ยอมทิ้งเธอ"
+    },
+    "arc": {
+      "en": "Finds a form of courage that can apologise and change its mind.",
+      "th": "พบความกล้าที่ขอโทษและเปลี่ยนใจได้"
+    }
+  },
+  {
+    "id": "c17",
+    "name": {
+      "en": "Freya Lind",
+      "th": "เฟรยา ลินด์"
+    },
+    "class_name": {
+      "en": "Frost Weaver",
+      "th": "ผู้ถักเหมันต์"
+    },
+    "age": 18,
+    "nationality": "Swedish",
+    "role": {
+      "en": "Freeze enemies in place with an icy burst.",
+      "th": "ระเบิดน้ำแข็งตรึงศัตรู"
+    },
+    "element": "ice",
+    "weapon": "magic",
+    "skill": "freeze",
+    "skill_name": {
+      "en": "Winter Thread",
+      "th": "ด้ายเหมันต์"
+    },
+    "skill_description": {
+      "en": "Freeze enemies in place with an icy burst.",
+      "th": "ระเบิดน้ำแข็งตรึงศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Still White World",
+      "th": "โลกขาวสงบ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#e4c581",
+    "skin": "#b7795e",
+    "hair": "#273c49",
+    "recruit_at": 5,
+    "bio": {
+      "en": "A methodical pianist who freezes panic into small workable steps.",
+      "th": "นักเปียโนมีระบบที่แบ่งความตื่นกลัวเป็นขั้นตอนรับมือ"
+    },
+    "relationship": {
+      "en": "Yuna played duets with her before the summoning.",
+      "th": "ยูนาเคยเล่นเพลงคู่กับเธอก่อนถูกอัญเชิญ"
+    },
+    "arc": {
+      "en": "Lets herself grieve instead of holding every feeling still.",
+      "th": "ยอมให้ตัวเองเศร้าแทนแช่แข็งทุกความรู้สึก"
+    }
+  },
+  {
+    "id": "c18",
+    "name": {
+      "en": "Kenji Tan",
+      "th": "เคนจิ ตัน"
+    },
+    "class_name": {
+      "en": "Shadow Strider",
+      "th": "ผู้ย่างเงา"
+    },
+    "age": 16,
+    "nationality": "Singaporean",
+    "role": {
+      "en": "Hide briefly, then deliver an empowered strike.",
+      "th": "ซ่อนตัวชั่วครู่แล้วโจมตีรุนแรง"
+    },
+    "element": "dark",
+    "weapon": "melee",
+    "skill": "stealth",
+    "skill_name": {
+      "en": "Vanishing Edge",
+      "th": "คมหายเงา"
+    },
+    "skill_description": {
+      "en": "Hide briefly, then deliver an empowered strike.",
+      "th": "ซ่อนตัวชั่วครู่แล้วโจมตีรุนแรง"
+    },
+    "ultimate_name": {
+      "en": "Nightfall Strike",
+      "th": "คมรัตติกาล"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 13,
+      "spirit": 8
+    },
+    "color": "#b794b4",
+    "skin": "#eac29c",
+    "hair": "#d2c6ac",
+    "recruit_at": 5,
+    "bio": {
+      "en": "A library volunteer who slipped out of the royal escort to find evidence.",
+      "th": "อาสาห้องสมุดที่หนีขบวนราชสำนักเพื่อหาหลักฐาน"
+    },
+    "relationship": {
+      "en": "Nadia trusts him with the pages she cannot publish yet.",
+      "th": "นาเดียไว้ใจให้เขาเก็บหน้าบันทึกที่ยังเผยแพร่ไม่ได้"
+    },
+    "arc": {
+      "en": "Trades solitary suspicion for trust earned through shared discoveries.",
+      "th": "เปลี่ยนความระแวงลำพังเป็นความไว้วางใจจากการค้นพบร่วมกัน"
+    }
+  },
+  {
+    "id": "c19",
+    "name": {
+      "en": "Amina Diallo",
+      "th": "อามินา ดิอัลโล"
+    },
+    "class_name": {
+      "en": "Dragon Pact",
+      "th": "พันธสัญญามังกร"
+    },
+    "age": 17,
+    "nationality": "Senegalese",
+    "role": {
+      "en": "Lunge with draconic force; the ultimate adds a piercing fire breath.",
+      "th": "พุ่งโจมตีด้วยพลังมังกร ท่าไม้ตายเพิ่มลมหายใจเพลิงทะลวง"
+    },
+    "element": "fire",
+    "weapon": "magic",
+    "skill": "dragon",
+    "skill_name": {
+      "en": "Dragon Breath",
+      "th": "ลมหายใจมังกร"
+    },
+    "skill_description": {
+      "en": "Lunge with draconic force; the ultimate adds a piercing fire breath.",
+      "th": "พุ่งโจมตีด้วยพลังมังกร ท่าไม้ตายเพิ่มลมหายใจเพลิงทะลวง"
+    },
+    "ultimate_name": {
+      "en": "Wings Remembered",
+      "th": "ปีกแห่งความทรงจำ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#8bbbc6",
+    "skin": "#9e6c55",
+    "hair": "#82535d",
+    "recruit_at": 6,
+    "bio": {
+      "en": "A mural artist whose dragon pact answers an unfinished drawing.",
+      "th": "ศิลปินจิตรกรรมที่พันธสัญญามังกรตอบภาพที่ยังวาดไม่จบ"
+    },
+    "relationship": {
+      "en": "Zuri helped her paint the classroom's festival banner.",
+      "th": "ซูรีช่วยเธอวาดป้ายเทศกาลของห้อง"
+    },
+    "arc": {
+      "en": "Insists that a pact must let both sides say no.",
+      "th": "ยืนยันว่าพันธสัญญาต้องยอมให้ทั้งสองฝ่ายปฏิเสธได้"
+    }
+  },
+  {
+    "id": "c20",
+    "name": {
+      "en": "Noah Williams",
+      "th": "โนอาห์ วิลเลียมส์"
+    },
+    "class_name": {
+      "en": "Oracle",
+      "th": "ผู้พยากรณ์"
+    },
+    "age": 18,
+    "nationality": "Canadian",
+    "role": {
+      "en": "Predict a defensive opening and expose a foe; the ultimate shields allies.",
+      "th": "คาดการณ์จังหวะป้องกันและเปิดจุดอ่อนศัตรู ท่าไม้ตายสร้างโล่ให้เพื่อน"
+    },
+    "element": "light",
+    "weapon": "magic",
+    "skill": "foresight",
+    "skill_name": {
+      "en": "Foresight",
+      "th": "นิมิตล่วงหน้า"
+    },
+    "skill_description": {
+      "en": "Predict a defensive opening and expose a foe; the ultimate shields allies.",
+      "th": "คาดการณ์จังหวะป้องกันและเปิดจุดอ่อนศัตรู ท่าไม้ตายสร้างโล่ให้เพื่อน"
+    },
+    "ultimate_name": {
+      "en": "A Future Shared",
+      "th": "อนาคตร่วมกัน"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 13
+    },
+    "color": "#c08861",
+    "skin": "#d8a27b",
+    "hair": "#433f4d",
+    "recruit_at": 6,
+    "bio": {
+      "en": "A student counsellor aide overwhelmed by glimpses of possible futures.",
+      "th": "ผู้ช่วยที่ปรึกษานักเรียนที่หนักใจจากภาพอนาคตหลายทาง"
+    },
+    "relationship": {
+      "en": "Omar listens to him when the visions become too loud.",
+      "th": "โอมาร์รับฟังเขาเมื่อนิมิตดังเกินไป"
+    },
+    "arc": {
+      "en": "Trusts friends to choose a future no prediction can promise.",
+      "th": "ไว้ใจเพื่อนให้เลือกอนาคตที่คำพยากรณ์รับรองไม่ได้"
+    }
+  },
+  {
+    "id": "c21",
+    "name": {
+      "en": "Yuna Park",
+      "th": "ยูนา พัก"
+    },
+    "class_name": {
+      "en": "Resonance Bard",
+      "th": "กวีเสียงกังวาน"
+    },
+    "age": 16,
+    "nationality": "Korean",
+    "role": {
+      "en": "Heal and strengthen allies through an anthem.",
+      "th": "ฟื้นฟูและเสริมพลังเพื่อนด้วยบทเพลง"
+    },
+    "element": "sound",
+    "weapon": "magic",
+    "skill": "anthem",
+    "skill_name": {
+      "en": "Resonant Anthem",
+      "th": "เพลงกังวาน"
+    },
+    "skill_description": {
+      "en": "Heal and strengthen allies through an anthem.",
+      "th": "ฟื้นฟูและเสริมพลังเพื่อนด้วยบทเพลง"
+    },
+    "ultimate_name": {
+      "en": "Thirty Voices",
+      "th": "สามสิบเสียง"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 13
+    },
+    "color": "#dcac70",
+    "skin": "#b7795e",
+    "hair": "#bd8b64",
+    "recruit_at": 6,
+    "bio": {
+      "en": "A songwriter keeping the names of lost classmates in a melody.",
+      "th": "นักแต่งเพลงที่เก็บชื่อเพื่อนที่พลัดหลงไว้ในทำนอง"
+    },
+    "relationship": {
+      "en": "Freya is her duet partner; Zuri choreographed their festival song.",
+      "th": "เฟรยาเป็นคู่เล่นเพลง ซูรีออกแบบท่าเต้นเพลงเทศกาล"
+    },
+    "arc": {
+      "en": "Makes room for every voice rather than demanding perfect harmony.",
+      "th": "เปิดพื้นที่ให้ทุกเสียงแทนบังคับให้สอดประสานไร้ที่ติ"
+    }
+  },
+  {
+    "id": "c22",
+    "name": {
+      "en": "Ines Moreau",
+      "th": "อิเนส โมโร"
+    },
+    "class_name": {
+      "en": "Spirit Medium",
+      "th": "ผู้สื่อวิญญาณ"
+    },
+    "age": 17,
+    "nationality": "French",
+    "role": {
+      "en": "Call spirits to attack and distract opponents.",
+      "th": "เรียกวิญญาณโจมตีและเบี่ยงเบนศัตรู"
+    },
+    "element": "spirit",
+    "weapon": "magic",
+    "skill": "spirits",
+    "skill_name": {
+      "en": "Guiding Spirits",
+      "th": "วิญญาณนำทาง"
+    },
+    "skill_description": {
+      "en": "Call spirits to attack and distract opponents.",
+      "th": "เรียกวิญญาณโจมตีและเบี่ยงเบนศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Ancestral Passage",
+      "th": "ทางบรรพชน"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 13
+    },
+    "color": "#63b9af",
+    "skin": "#eac29c",
+    "hair": "#273c49",
+    "recruit_at": 7,
+    "bio": {
+      "en": "A theatre student who learns to listen to the archive's recorded dead.",
+      "th": "นักเรียนละครที่เรียนรู้การฟังผู้ตายซึ่งบันทึกไว้ในหอจดหมายเหตุ"
+    },
+    "relationship": {
+      "en": "Rafael designed the lights for her last school play.",
+      "th": "ราฟาเอลออกแบบไฟให้ละครโรงเรียนครั้งล่าสุดของเธอ"
+    },
+    "arc": {
+      "en": "Honours memory without allowing old voices to command the living.",
+      "th": "เคารพความทรงจำโดยไม่ให้เสียงอดีตสั่งชีวิตปัจจุบัน"
+    }
+  },
+  {
+    "id": "c23",
+    "name": {
+      "en": "Diego Silva",
+      "th": "ดิเอโก ซิลวา"
+    },
+    "class_name": {
+      "en": "Gunlancer",
+      "th": "ทวนปืนโบราณ"
+    },
+    "age": 18,
+    "nationality": "Portuguese",
+    "role": {
+      "en": "Shoot a piercing bolt through a line of enemies.",
+      "th": "ยิงกระสุนทะลุศัตรูเป็นแนว"
+    },
+    "element": "physical",
+    "weapon": "ranged",
+    "skill": "pierce",
+    "skill_name": {
+      "en": "Piercing Bolt",
+      "th": "กระสุนทะลวง"
+    },
+    "skill_description": {
+      "en": "Shoot a piercing bolt through a line of enemies.",
+      "th": "ยิงกระสุนทะลุศัตรูเป็นแนว"
+    },
+    "ultimate_name": {
+      "en": "Meridian Salvo",
+      "th": "ระดมยิงเมอริเดียน"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#b689cd",
+    "skin": "#9e6c55",
+    "hair": "#d2c6ac",
+    "recruit_at": 7,
+    "bio": {
+      "en": "A robotics student who refuses to trust a weapon without understanding it.",
+      "th": "นักเรียนหุ่นยนต์ที่ไม่ยอมเชื่ออาวุธโดยไม่เข้าใจมัน"
+    },
+    "relationship": {
+      "en": "Mina is his robotics teammate and frequent critic.",
+      "th": "มินาเป็นเพื่อนร่วมหุ่นยนต์และคนที่ทักเขาบ่อย"
+    },
+    "arc": {
+      "en": "Rebuilds a guard machine as a tool ordinary people can maintain.",
+      "th": "สร้างจักรกลยามใหม่ให้เป็นเครื่องมือที่คนทั่วไปดูแลได้"
+    }
+  },
+  {
+    "id": "c24",
+    "name": {
+      "en": "Mina Rahman",
+      "th": "มินา เราะห์มาน"
+    },
+    "class_name": {
+      "en": "Mechanist",
+      "th": "ผู้ควบคุมจักรกล"
+    },
+    "age": 16,
+    "nationality": "Bangladeshi",
+    "role": {
+      "en": "Deploy a drone that assists allies autonomously.",
+      "th": "ปล่อยโดรนช่วยเหลือเพื่อนอัตโนมัติ"
+    },
+    "element": "lightning",
+    "weapon": "ranged",
+    "skill": "drone",
+    "skill_name": {
+      "en": "Repair Drone",
+      "th": "โดรนซ่อมแซม"
+    },
+    "skill_description": {
+      "en": "Deploy a drone that assists allies autonomously.",
+      "th": "ปล่อยโดรนช่วยเหลือเพื่อนอัตโนมัติ"
+    },
+    "ultimate_name": {
+      "en": "Machine Choir",
+      "th": "บทเพลงจักรกล"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#819bd7",
+    "skin": "#d8a27b",
+    "hair": "#82535d",
+    "recruit_at": 7,
+    "bio": {
+      "en": "A robotics coder who finds compassion in a damaged service machine.",
+      "th": "นักเขียนโปรแกรมหุ่นยนต์ที่พบเมตตาในจักรกลบริการเสียหาย"
+    },
+    "relationship": {
+      "en": "Competes with Theo and builds with Diego.",
+      "th": "แข่งกับธีโอและสร้างงานกับดิเอโก"
+    },
+    "arc": {
+      "en": "Recognises Aster as a person without pretending they are the same.",
+      "th": "ยอมรับแอสเตอร์เป็นบุคคลโดยไม่แสร้งว่าทั้งคู่เหมือนกัน"
+    }
+  },
+  {
+    "id": "c25",
+    "name": {
+      "en": "Talia Rosen",
+      "th": "ทาเลีย โรเซน"
+    },
+    "class_name": {
+      "en": "Verdant Druid",
+      "th": "ดรูอิดพงไพร"
+    },
+    "age": 17,
+    "nationality": "Israeli",
+    "role": {
+      "en": "Root foes in damaging brambles; the ultimate regenerates allies.",
+      "th": "ตรึงศัตรูในพงหนามสร้างความเสียหาย ท่าไม้ตายฟื้นฟูเพื่อน"
+    },
+    "element": "nature",
+    "weapon": "magic",
+    "skill": "roots",
+    "skill_name": {
+      "en": "Living Roots",
+      "th": "รากมีชีวิต"
+    },
+    "skill_description": {
+      "en": "Root foes in damaging brambles; the ultimate regenerates allies.",
+      "th": "ตรึงศัตรูในพงหนามสร้างความเสียหาย ท่าไม้ตายฟื้นฟูเพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Forest Remembers",
+      "th": "ป่าจดจำ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#c78d7a",
+    "skin": "#b7795e",
+    "hair": "#433f4d",
+    "recruit_at": 8,
+    "bio": {
+      "en": "A school-garden caretaker helping displaced villages grow food again.",
+      "th": "ผู้ดูแลสวนโรงเรียนที่ช่วยหมู่บ้านผู้พลัดถิ่นปลูกอาหารใหม่"
+    },
+    "relationship": {
+      "en": "Samir shares her belief that care requires patient daily work.",
+      "th": "ซามีร์เชื่อเหมือนเธอว่าการดูแลต้องทำอย่างอดทนทุกวัน"
+    },
+    "arc": {
+      "en": "Connects rebuilding the barrier with rebuilding the land below it.",
+      "th": "เชื่อมการซ่อมม่านฟ้าเข้ากับการฟื้นแผ่นดินใต้ม่าน"
+    }
+  },
+  {
+    "id": "c26",
+    "name": {
+      "en": "Mateo Ruiz",
+      "th": "มาเตโอ รุยซ์"
+    },
+    "class_name": {
+      "en": "Soul Reaper",
+      "th": "ผู้เกี่ยววิญญาณ"
+    },
+    "age": 18,
+    "nationality": "Chilean",
+    "role": {
+      "en": "Deliver a powerful blow against wounded enemies.",
+      "th": "โจมตีรุนแรงใส่ศัตรูที่บาดเจ็บ"
+    },
+    "element": "dark",
+    "weapon": "melee",
+    "skill": "execute",
+    "skill_name": {
+      "en": "Soul Sever",
+      "th": "ตัดพันธะวิญญาณ"
+    },
+    "skill_description": {
+      "en": "Deliver a powerful blow against wounded enemies.",
+      "th": "โจมตีรุนแรงใส่ศัตรูที่บาดเจ็บ"
+    },
+    "ultimate_name": {
+      "en": "Last Mercy",
+      "th": "เมตตาสุดท้าย"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#80b47d",
+    "skin": "#eac29c",
+    "hair": "#bd8b64",
+    "recruit_at": 8,
+    "bio": {
+      "en": "A reserved runner who worries that his new power ends things too easily.",
+      "th": "นักวิ่งเก็บตัวที่กลัวพลังใหม่ทำให้ทุกอย่างจบง่ายเกินไป"
+    },
+    "relationship": {
+      "en": "Elias stays with him after training rather than demanding answers.",
+      "th": "อีเลียสอยู่เป็นเพื่อนหลังฝึกโดยไม่บังคับให้ตอบ"
+    },
+    "arc": {
+      "en": "Turns execution into mercy for beings trapped in corrupted towers.",
+      "th": "เปลี่ยนการประหารเป็นเมตตาต่อสิ่งมีชีวิตติดในหอคอยเสียหาย"
+    }
+  },
+  {
+    "id": "c27",
+    "name": {
+      "en": "Asha Mwangi",
+      "th": "อาชา มวังกี"
+    },
+    "class_name": {
+      "en": "Astral Monk",
+      "th": "นักพรตดวงดาว"
+    },
+    "age": 16,
+    "nationality": "Kenyan",
+    "role": {
+      "en": "Unleash a rapid sequence of close-range strikes.",
+      "th": "ปล่อยชุดหมัดระยะใกล้ต่อเนื่อง"
+    },
+    "element": "arcane",
+    "weapon": "melee",
+    "skill": "flurry",
+    "skill_name": {
+      "en": "Astral Flurry",
+      "th": "หมัดดารารัว"
+    },
+    "skill_description": {
+      "en": "Unleash a rapid sequence of close-range strikes.",
+      "th": "ปล่อยชุดหมัดระยะใกล้ต่อเนื่อง"
+    },
+    "ultimate_name": {
+      "en": "Constellation Fist",
+      "th": "หมัดกลุ่มดาว"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 13,
+      "spirit": 8
+    },
+    "color": "#e4c581",
+    "skin": "#9e6c55",
+    "hair": "#273c49",
+    "recruit_at": 8,
+    "bio": {
+      "en": "A martial-arts student who keeps the group's breathing steady.",
+      "th": "นักเรียนศิลปะการต่อสู้ที่ช่วยให้กลุ่มหายใจอย่างสงบ"
+    },
+    "relationship": {
+      "en": "Omar and Asha challenge each other without hiding exhaustion.",
+      "th": "โอมาร์กับอาชาท้าทายกันโดยไม่ซ่อนความเหนื่อย"
+    },
+    "arc": {
+      "en": "Learns to stand down when winning would injure someone she loves.",
+      "th": "เรียนรู้การยอมถอยเมื่อชัยชนะจะทำร้ายคนที่รัก"
+    }
+  },
+  {
+    "id": "c28",
+    "name": {
+      "en": "Pavel Novak",
+      "th": "พาเวล โนวัค"
+    },
+    "class_name": {
+      "en": "Gravity Knight",
+      "th": "อัศวินแรงโน้มถ่วง"
+    },
+    "age": 17,
+    "nationality": "Czech",
+    "role": {
+      "en": "Pull nearby enemies into a crushing gravity well.",
+      "th": "ดึงศัตรูใกล้เคียงเข้าบ่อแรงโน้มถ่วง"
+    },
+    "element": "gravity",
+    "weapon": "melee",
+    "skill": "gravity",
+    "skill_name": {
+      "en": "Gravity Well",
+      "th": "บ่อแรงโน้มถ่วง"
+    },
+    "skill_description": {
+      "en": "Pull nearby enemies into a crushing gravity well.",
+      "th": "ดึงศัตรูใกล้เคียงเข้าบ่อแรงโน้มถ่วง"
+    },
+    "ultimate_name": {
+      "en": "Falling Heaven",
+      "th": "สวรรค์ร่วงหล่น"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 14,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#b794b4",
+    "skin": "#d8a27b",
+    "hair": "#d2c6ac",
+    "recruit_at": 9,
+    "bio": {
+      "en": "A physics enthusiast studying the tower's strange weightless stairways.",
+      "th": "ผู้ชอบฟิสิกส์ที่ศึกษาบันไดไร้น้ำหนักประหลาดในหอคอย"
+    },
+    "relationship": {
+      "en": "Mei helps check his equations; Hana photographs the evidence.",
+      "th": "เหม่ยช่วยตรวจสมการ ฮานะถ่ายหลักฐาน"
+    },
+    "arc": {
+      "en": "Shares knowledge freely after seeing secrecy repeat the ancient collapse.",
+      "th": "แบ่งความรู้หลังเห็นว่าความลับทำให้หายนะเก่ากลับมา"
+    }
+  },
+  {
+    "id": "c29",
+    "name": {
+      "en": "Salma Benali",
+      "th": "ซัลมา เบนาลี"
+    },
+    "class_name": {
+      "en": "Celestial Scribe",
+      "th": "อาลักษณ์ฟ้า"
+    },
+    "age": 18,
+    "nationality": "Moroccan",
+    "role": {
+      "en": "Draw a lingering glyph trap and shield yourself.",
+      "th": "วาดกับดักอักขระต่อเนื่องและสร้างโล่ให้ตนเอง"
+    },
+    "element": "arcane",
+    "weapon": "magic",
+    "skill": "glyph",
+    "skill_name": {
+      "en": "Celestial Glyph",
+      "th": "อักขระฟ้า"
+    },
+    "skill_description": {
+      "en": "Draw a lingering glyph trap and shield yourself.",
+      "th": "วาดกับดักอักขระต่อเนื่องและสร้างโล่ให้ตนเอง"
+    },
+    "ultimate_name": {
+      "en": "Rewrite the Sky",
+      "th": "เขียนฟ้าใหม่"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#8bbbc6",
+    "skin": "#b7795e",
+    "hair": "#82535d",
+    "recruit_at": 9,
+    "bio": {
+      "en": "An editor of the school journal who can rewrite the barrier's living script.",
+      "th": "บรรณาธิการวารสารโรงเรียนที่เขียนอักขระมีชีวิตของม่านฟ้าใหม่ได้"
+    },
+    "relationship": {
+      "en": "Nadia supplies sources and refuses to let her omit inconvenient facts.",
+      "th": "นาเดียให้ข้อมูลและไม่ยอมให้เธอทิ้งข้อเท็จจริงที่ไม่น่าฟัง"
+    },
+    "arc": {
+      "en": "Writes a new covenant with consent rather than replacing one ruler with another.",
+      "th": "เขียนข้อตกลงใหม่ด้วยความยินยอมแทนเปลี่ยนผู้ปกครองคนหนึ่งเป็นอีกคน"
+    }
+  },
+  {
+    "id": "c30",
+    "name": {
+      "en": "Jules Laurent",
+      "th": "จูลส์ โลรองต์"
+    },
+    "class_name": {
+      "en": "Wildblade",
+      "th": "ดาบพงไพร"
+    },
+    "age": 16,
+    "nationality": "Belgian",
+    "role": {
+      "en": "Trade safety for a burst of furious attacks.",
+      "th": "แลกความปลอดภัยกับการโจมตีคลุ้มคลั่ง"
+    },
+    "element": "physical",
+    "weapon": "melee",
+    "skill": "frenzy",
+    "skill_name": {
+      "en": "Wild Frenzy",
+      "th": "คมคลั่งพงไพร"
+    },
+    "skill_description": {
+      "en": "Trade safety for a burst of furious attacks.",
+      "th": "แลกความปลอดภัยกับการโจมตีคลุ้มคลั่ง"
+    },
+    "ultimate_name": {
+      "en": "Freedom's Edge",
+      "th": "คมอิสรภาพ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 13,
+      "spirit": 8
+    },
+    "color": "#c08861",
+    "skin": "#eac29c",
+    "hair": "#433f4d",
+    "recruit_at": 10,
+    "bio": {
+      "en": "A restless student who followed the royal machine to keep the others free.",
+      "th": "นักเรียนอยู่ไม่สุขที่ตามจักรกลราชสำนักไปเพื่อให้เพื่อนเป็นอิสระ"
+    },
+    "relationship": {
+      "en": "Leila mistakes their absence for betrayal until she hears their account.",
+      "th": "ไลลาเข้าใจการหายตัวว่าเป็นการทรยศจนได้ฟังเรื่องทั้งหมด"
+    },
+    "arc": {
+      "en": "Returns to ask forgiveness and insists freedom includes accountability.",
+      "th": "กลับมาขออภัยและยืนยันว่าอิสรภาพต้องมีความรับผิดชอบ"
+    }
+  },
+  {
+    "id": "n01",
+    "name": {
+      "en": "Sera Ashward",
+      "th": "เซรา แอชวาร์ด"
+    },
+    "class_name": {
+      "en": "Oathkeeper",
+      "th": "ผู้รักษาคำสัตย์"
+    },
+    "age": 27,
+    "nationality": "human",
+    "role": {
+      "en": "Shield yourself and stagger nearby foes; the ultimate protects allies.",
+      "th": "สร้างโล่ให้ตนเองและทำให้ศัตรูชะงัก ท่าไม้ตายคุ้มครองเพื่อน"
+    },
+    "element": "light",
+    "weapon": "melee",
+    "skill": "shield",
+    "skill_name": {
+      "en": "Shelter Aegis",
+      "th": "โล่คุ้มภัย"
+    },
+    "skill_description": {
+      "en": "Shield yourself and stagger nearby foes; the ultimate protects allies.",
+      "th": "สร้างโล่ให้ตนเองและทำให้ศัตรูชะงัก ท่าไม้ตายคุ้มครองเพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Unbroken Circle",
+      "th": "วงพิทักษ์"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 14,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#63b9af",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 1,
+    "bio": {
+      "en": "A royal knight who breaks an unjust order to protect the summoned students.",
+      "th": "อัศวินราชสำนักที่ฝ่าคำสั่งอยุติธรรมเพื่อคุ้มครองนักเรียนที่ถูกอัญเชิญ"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "human"
+  },
+  {
+    "id": "n02",
+    "name": {
+      "en": "Ilyen Reed",
+      "th": "อิลเยน รีด"
+    },
+    "class_name": {
+      "en": "Grove Ranger",
+      "th": "ผู้พิทักษ์พงไม้"
+    },
+    "age": 30,
+    "nationality": "elf",
+    "role": {
+      "en": "Fire a spread of arrows into the enemy line.",
+      "th": "ยิงศรกระจายเข้าแนวศัตรู"
+    },
+    "element": "wind",
+    "weapon": "ranged",
+    "skill": "volley",
+    "skill_name": {
+      "en": "Rift Volley",
+      "th": "ศรห้วงมิติ"
+    },
+    "skill_description": {
+      "en": "Fire a spread of arrows into the enemy line.",
+      "th": "ยิงศรกระจายเข้าแนวศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Thousand Horizons",
+      "th": "พันขอบฟ้า"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#b689cd",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 2,
+    "bio": {
+      "en": "An elven road guide whose village survives beneath the first tower.",
+      "th": "ผู้นำทางเอลฟ์จากหมู่บ้านที่ดิ้นรนอยู่ใต้หอคอยแรก"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "elf"
+  },
+  {
+    "id": "n03",
+    "name": {
+      "en": "Borun Emberhand",
+      "th": "โบรุน เอมเบอร์แฮนด์"
+    },
+    "class_name": {
+      "en": "Forgekeeper",
+      "th": "ผู้รักษาเตาหลอม"
+    },
+    "age": 33,
+    "nationality": "dwarf",
+    "role": {
+      "en": "Enchant your weapon and release a blade wave; the ultimate empowers allies.",
+      "th": "เสริมอาคมอาวุธและปล่อยคลื่นคมดาบ ท่าไม้ตายเสริมพลังเพื่อน"
+    },
+    "element": "arcane",
+    "weapon": "melee",
+    "skill": "enchant",
+    "skill_name": {
+      "en": "Tempered Rune",
+      "th": "อักขระหลอมคม"
+    },
+    "skill_description": {
+      "en": "Enchant your weapon and release a blade wave; the ultimate empowers allies.",
+      "th": "เสริมอาคมอาวุธและปล่อยคลื่นคมดาบ ท่าไม้ตายเสริมพลังเพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Living Forge",
+      "th": "เตาหลอมมีชีวิต"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 13,
+      "dexterity": 8,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#819bd7",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 4,
+    "bio": {
+      "en": "A dwarven smith preserving repair traditions dismissed as ancient superstition.",
+      "th": "ช่างตีเหล็กคนแคระที่รักษาวิธีซ่อมซึ่งถูกดูแคลนว่าเป็นความเชื่อเก่า"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "dwarf"
+  },
+  {
+    "id": "n04",
+    "name": {
+      "en": "Nyra of Tides",
+      "th": "ไนราแห่งกระแสน้ำ"
+    },
+    "class_name": {
+      "en": "Tidekeeper",
+      "th": "ผู้รักษากระแสน้ำ"
+    },
+    "age": 36,
+    "nationality": "merfolk",
+    "role": {
+      "en": "Freeze enemies in place with an icy burst.",
+      "th": "ระเบิดน้ำแข็งตรึงศัตรู"
+    },
+    "element": "ice",
+    "weapon": "magic",
+    "skill": "freeze",
+    "skill_name": {
+      "en": "Winter Thread",
+      "th": "ด้ายเหมันต์"
+    },
+    "skill_description": {
+      "en": "Freeze enemies in place with an icy burst.",
+      "th": "ระเบิดน้ำแข็งตรึงศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Still White World",
+      "th": "โลกขาวสงบ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#c78d7a",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 6,
+    "bio": {
+      "en": "A merfolk keeper protecting both the archive and the coast's displaced families.",
+      "th": "ผู้รักษาหอจดหมายเหตุเผ่าทะเลผู้ปกป้องครอบครัวที่อพยพจากชายฝั่ง"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "merfolk"
+  },
+  {
+    "id": "n05",
+    "name": {
+      "en": "Vel Mosswake",
+      "th": "เวล มอสเวก"
+    },
+    "class_name": {
+      "en": "Trail Warden",
+      "th": "ผู้พิทักษ์เส้นทาง"
+    },
+    "age": 39,
+    "nationality": "beastkin",
+    "role": {
+      "en": "Root foes in damaging brambles; the ultimate regenerates allies.",
+      "th": "ตรึงศัตรูในพงหนามสร้างความเสียหาย ท่าไม้ตายฟื้นฟูเพื่อน"
+    },
+    "element": "nature",
+    "weapon": "ranged",
+    "skill": "roots",
+    "skill_name": {
+      "en": "Living Roots",
+      "th": "รากมีชีวิต"
+    },
+    "skill_description": {
+      "en": "Root foes in damaging brambles; the ultimate regenerates allies.",
+      "th": "ตรึงศัตรูในพงหนามสร้างความเสียหาย ท่าไม้ตายฟื้นฟูเพื่อน"
+    },
+    "ultimate_name": {
+      "en": "Forest Remembers",
+      "th": "ป่าจดจำ"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#80b47d",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 8,
+    "bio": {
+      "en": "A beastkin guide who leads frost refugees through roads absent from royal maps.",
+      "th": "ผู้นำทางเผ่าอสูรที่นำผู้ลี้ภัยเหมันต์ผ่านทางที่ไม่มีในแผนที่หลวง"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "beastkin"
+  },
+  {
+    "id": "n06",
+    "name": {
+      "en": "Ossian Vale",
+      "th": "ออสเซียน เวล"
+    },
+    "class_name": {
+      "en": "Echo Archivist",
+      "th": "ผู้เก็บบันทึกเสียงสะท้อน"
+    },
+    "age": 42,
+    "nationality": "shade",
+    "role": {
+      "en": "Call spirits to attack and distract opponents.",
+      "th": "เรียกวิญญาณโจมตีและเบี่ยงเบนศัตรู"
+    },
+    "element": "spirit",
+    "weapon": "magic",
+    "skill": "spirits",
+    "skill_name": {
+      "en": "Guiding Spirits",
+      "th": "วิญญาณนำทาง"
+    },
+    "skill_description": {
+      "en": "Call spirits to attack and distract opponents.",
+      "th": "เรียกวิญญาณโจมตีและเบี่ยงเบนศัตรู"
+    },
+    "ultimate_name": {
+      "en": "Ancestral Passage",
+      "th": "ทางบรรพชน"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 13
+    },
+    "color": "#e4c581",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 6,
+    "bio": {
+      "en": "A living shade who remembers the catastrophe but refuses to dictate the future.",
+      "th": "เงามีชีวิตที่จำหายนะได้แต่ไม่ยอมกำหนดอนาคตให้ผู้อื่น"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "shade"
+  },
+  {
+    "id": "n07",
+    "name": {
+      "en": "Edda Snowglass",
+      "th": "เอดดา สโนว์กลาส"
+    },
+    "class_name": {
+      "en": "Sky Mender",
+      "th": "ผู้เยียวยาฟ้า"
+    },
+    "age": 45,
+    "nationality": "winged",
+    "role": {
+      "en": "Heal the most wounded ally; the ultimate restores the party.",
+      "th": "ฟื้นฟูเพื่อนที่บาดเจ็บหนักที่สุด ท่าไม้ตายฟื้นฟูทั้งปาร์ตี้"
+    },
+    "element": "light",
+    "weapon": "magic",
+    "skill": "heal",
+    "skill_name": {
+      "en": "Restoring Light",
+      "th": "แสงฟื้นฟู"
+    },
+    "skill_description": {
+      "en": "Heal the most wounded ally; the ultimate restores the party.",
+      "th": "ฟื้นฟูเพื่อนที่บาดเจ็บหนักที่สุด ท่าไม้ตายฟื้นฟูทั้งปาร์ตี้"
+    },
+    "ultimate_name": {
+      "en": "Shared Sunrise",
+      "th": "รุ่งอรุณร่วมกัน"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 13,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 13
+    },
+    "color": "#b794b4",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 8,
+    "bio": {
+      "en": "A winged healer who lost her home when the barrier redirected the storm.",
+      "th": "ผู้เยียวยามีปีกที่เสียบ้านเมื่อม่านฟ้าเปลี่ยนทิศพายุ"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "winged"
+  },
+  {
+    "id": "n08",
+    "name": {
+      "en": "Aster-9",
+      "th": "แอสเตอร์-9"
+    },
+    "class_name": {
+      "en": "Meridian Steward",
+      "th": "ผู้ดูแลเมอริเดียน"
+    },
+    "age": 48,
+    "nationality": "synthetic",
+    "role": {
+      "en": "Deploy a drone that assists allies autonomously.",
+      "th": "ปล่อยโดรนช่วยเหลือเพื่อนอัตโนมัติ"
+    },
+    "element": "lightning",
+    "weapon": "ranged",
+    "skill": "drone",
+    "skill_name": {
+      "en": "Repair Drone",
+      "th": "โดรนซ่อมแซม"
+    },
+    "skill_description": {
+      "en": "Deploy a drone that assists allies autonomously.",
+      "th": "ปล่อยโดรนช่วยเหลือเพื่อนอัตโนมัติ"
+    },
+    "ultimate_name": {
+      "en": "Machine Choir",
+      "th": "บทเพลงจักรกล"
+    },
+    "passive": {
+      "en": "Battle practice improves with allocated attributes and skill ranks.",
+      "th": "ประสบการณ์ต่อสู้พัฒนาได้ด้วยการจัดสรรค่าสถานะและระดับทักษะ"
+    },
+    "stats": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 8,
+      "vitality": 9,
+      "agility": 8,
+      "spirit": 8
+    },
+    "color": "#8bbbc6",
+    "skin": "#bc8b71",
+    "hair": "#756b70",
+    "recruit_at": 10,
+    "bio": {
+      "en": "An ancient service intelligence choosing to help freely after centuries of compulsory duty.",
+      "th": "ปัญญาประดิษฐ์บริการโบราณที่เลือกช่วยด้วยใจหลังถูกบังคับมาหลายศตวรรษ"
+    },
+    "relationship": {
+      "en": "An ally of the thirty, joining on their own terms.",
+      "th": "สหายของสามสิบคนที่เลือกเข้าร่วมด้วยเงื่อนไขของตน"
+    },
+    "arc": {
+      "en": "Helps shape a future where the world's people can choose for themselves.",
+      "th": "ร่วมสร้างอนาคตที่ผู้คนในโลกเลือกด้วยตนเองได้"
+    },
+    "race": "synthetic"
+  }
+]

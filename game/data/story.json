@@ -1,0 +1,2704 @@
+{
+  "m00_intro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Cold marble. A ringing in your ears. Thirty students stand inside a circle of light, watched by a hall full of strangers.",
+          "th": "พื้นหินเย็นเฉียบ เสียงหึ่งยังค้างอยู่ในหู นักเรียนสามสิบคนยืนอยู่ในวงแสง ท่ามกลางสายตาของคนเต็มท้องพระโรง"
+        },
+        "cinematic": "royal_summoning"
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Arun... this is not the exhibition hall. Where did the windows go?",
+          "th": "อรุณ... นี่ไม่ใช่ห้องจัดนิทรรศการ หน้าต่างเมื่อกี้หายไปไหน"
+        },
+        "focus": [
+          800,
+          540
+        ]
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Stay where you are. Let me count. Twenty-eight, twenty-nine... thirty. We are all here.",
+          "th": "อย่าเพิ่งเดินไปไหน ขอฉันนับก่อน ยี่สิบแปด ยี่สิบเก้า... สามสิบ อยู่ครบ"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "My name is Vaelis, archmage of Aurelion. I cast the summoning. You are in our king’s hall.",
+          "th": "ข้าชื่อเวลีส จอมเวทย์แห่งอาณาจักรออเรเลียน ข้าเป็นผู้ร่ายมนตร์อัญเชิญพวกเจ้า ที่นี่คือท้องพระโรงของราชาเรา"
+        },
+        "focus": [
+          860,
+          300
+        ]
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "You brought us here? Then send us back. Some of our parents are waiting outside school.",
+          "th": "คุณพาพวกเรามาเหรอ งั้นส่งกลับเถอะครับ พ่อแม่บางคนยังรออยู่หน้าโรงเรียน"
+        }
+      },
+      {
+        "speaker": "chancellor",
+        "text": {
+          "en": "Your Majesty, the ritual called for champions. These are children.",
+          "th": "ฝ่าบาท พิธีนี้ควรเรียกผู้กล้ามา แต่พวกเขายังเป็นเด็ก"
+        },
+        "focus": [
+          1050,
+          300
+        ]
+      },
+      {
+        "speaker": "king",
+        "text": {
+          "en": "Then stop calling them champions. Vaelis, tell them what you did. All of it.",
+          "th": "เช่นนั้นก็เลิกเรียกพวกเขาว่าผู้กล้า เวลีส บอกพวกเขาว่าเจ้าทำอะไรลงไป บอกให้หมด"
+        },
+        "focus": [
+          800,
+          210
+        ]
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The towers hold the sky closed. Three nights ago, something broke through. Our spells cannot touch the wounds it leaves.",
+          "th": "หอคอยคอยปิดรอยแยกบนฟ้าไว้ สามคืนก่อนมีบางสิ่งทะลุลงมา เวทของเราแตะต้องบาดแผลที่มันฝากไว้ไม่ได้"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The old rite seeks lives untouched by our magic. I hoped it would find people who could help. I did not know it would take a whole class.",
+          "th": "พิธีเก่าตามหาคนที่ไม่เคยรับเวทของโลกนี้ ข้าหวังว่าจะพบคนช่วยเราได้ แต่ข้าไม่รู้ว่ามันจะดึงเด็กมาทั้งห้อง"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "And our clothes? This thing on my wrist will not come off.",
+          "th": "แล้วเสื้อผ้าพวกนี้ล่ะคะ ของที่ข้อมือหนูก็ถอดไม่ออก"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The circle wrapped you in its wards. They are meant to keep you alive here. I should have asked. I had no way to ask.",
+          "th": "วงเวทห่อหุ้มพวกเจ้าด้วยเครื่องคุ้มกัน เพื่อให้มีชีวิตอยู่ในโลกนี้ได้ ข้าควรถามพวกเจ้าก่อน... แต่ข้าไม่มีทางถาม"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "That does not make it all right. Can you take us home or not?",
+          "th": "มันก็ไม่ได้ทำให้เรื่องนี้ถูกนะคะ ตกลงพาพวกเรากลับได้ไหม"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "Not while the towers are failing. I will not lie to you about that.",
+          "th": "ตราบใดที่หอคอยยังพังลงเรื่อย ๆ ข้าทำไม่ได้ ข้าจะไม่โกหกเรื่องนี้"
+        }
+      },
+      {
+        "speaker": "king",
+        "text": {
+          "en": "No one here will be forced to fight. You will have food, rooms, and a way to contact me. Orven, put that in writing.",
+          "th": "จะไม่มีใครถูกบังคับให้รบ พวกเจ้าจะมีอาหาร ที่พัก และทางติดต่อข้า ออร์เวน จดคำสั่งนี้ไว้"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Then give us a minute. We need to talk to each other before anyone decides anything for us again.",
+          "th": "งั้นขอเวลาพวกเราหน่อยครับ ให้เราได้คุยกัน ก่อนจะมีใครตัดสินใจแทนพวกเราอีก"
+        },
+        "focus": [
+          800,
+          540
+        ]
+      }
+    ]
+  },
+  "m00_outro": {
+    "lines": [
+      {
+        "speaker": "lady",
+        "text": {
+          "en": "That sound... the north bell is not supposed to ring inside the wards.",
+          "th": "เสียงนั่น... ระฆังเหนือไม่ควรดังเข้ามาถึงในเขตคุ้มกัน"
+        },
+        "focus": [
+          400,
+          320
+        ]
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "A shadow crosses the stained glass. Every flame in the hall bends toward the ceiling.",
+          "th": "เงาขนาดใหญ่เคลื่อนผ่านกระจกสี เปลวไฟทุกดวงในท้องพระโรงเอนชี้ขึ้นเพดาน"
+        },
+        "cinematic": "court_breach"
+      },
+      {
+        "speaker": "royal_guard",
+        "text": {
+          "en": "The upper ward is breaking! Move away from the windows!",
+          "th": "เขตคุ้มกันชั้นบนกำลังแตก! ทุกคนถอยจากหน้าต่าง!"
+        }
+      },
+      {
+        "speaker": "king",
+        "text": {
+          "en": "Open the evacuation ways. The students go first.",
+          "th": "เปิดทางอพยพ ให้นักเรียนไปก่อน"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The eastern path leads to Hearthwell’s forest. Follow the lanterns. Do not let go of each other.",
+          "th": "ทางตะวันออกออกไปยังป่าฮาร์ธเวล ตามโคมไฟไป อย่าปล่อยมือกัน"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Hana, take my hand. Rafael—wait for us!",
+          "th": "ฮานะ จับมือฉันไว้ ราฟาเอล—รอด้วย!"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The archmage holds the gateway open as the ceiling cracks. Beyond the glass, something vast opens its eyes.",
+          "th": "จอมเวทย์ฝืนประคองประตูไว้ ขณะที่รอยร้าววิ่งไปตามเพดาน หลังม่านกระจก สิ่งมหึมาลืมตาขึ้น"
+        },
+        "cinematic": "skyfall"
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Mei! Amara! I cannot see the others—",
+          "th": "เมย! อมารา! ฉันมองไม่เห็นคนอื่นแล้ว—"
+        },
+        "cinematic": "forest_arrival"
+      }
+    ]
+  },
+  "m01_intro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Sera brings you through Hearthwell’s gates. Someone moves a soup pot off the fire to make room for three more bowls.",
+          "th": "เซราพาทั้งสามผ่านประตูฮาร์ธเวล ใครบางคนยกหม้อซุปลงจากไฟ หาชามเพิ่มมาอีกสามใบ"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "Five of your classmates reached the sanctuary. Other patrols are still out. Sit here; I will bring the names.",
+          "th": "เพื่อนของเจ้าห้าคนถึงวิหารแล้ว ชุดลาดตระเวนอื่นยังไม่กลับ นั่งตรงนี้ก่อน ข้าจะเอารายชื่อมาให้"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Could I borrow some paper? I want to write everyone down. Before I forget who was holding whose hand.",
+          "th": "ขอกระดาษหน่อยได้ไหมคะ อยากจดชื่อทุกคนไว้ ก่อนจะลืมว่าใครจับมือใครอยู่"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Write slowly. We have time to breathe here.",
+          "th": "ค่อย ๆ เขียนก็ได้ ตรงนี้เราพอมีเวลาหายใจแล้ว"
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "en": "The archmage’s marks are on your wrists. I have seen those in old tower records. When you are ready, find me by the lantern.",
+          "th": "ตราที่ข้อมือพวกเจ้าเป็นของจอมเวทย์ ข้าเคยเห็นในบันทึกหอคอย ถ้าพร้อมแล้ว ไปหาข้าที่ข้างโคม"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "We will. But first—thank you for the soup.",
+          "th": "ครับ เดี๋ยวพวกเราไป แต่ก่อนอื่น... ขอบคุณสำหรับซุปนะครับ"
+        }
+      }
+    ]
+  },
+  "m01_outro": {
+    "lines": [
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "ครัวจะเก็บซุปไว้ให้ กลับก่อนที่มันจะเย็นล่ะ",
+          "en": "The kitchen will save you soup. Try to get back before it is cold."
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "th": "ถ้ากลับช้า ช่วยอุ่นอีกทีได้ไหมคะ",
+          "en": "If we are late, could you warm it up again?"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "ได้สิ",
+          "en": "Of course."
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "th": "ไปกันเถอะ เราจะกลับมาที่นี่",
+          "en": "Come on. We are coming back here."
+        }
+      }
+    ]
+  },
+  "m02_intro": {
+    "lines": [
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "ตรงนั้น กระเป๋าฮานะ เธอติดพวงกุญแจกล้องไว้แบบนี้",
+          "en": "There. Hana’s bag. That little camera charm is hers."
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "th": "สายยังไม่ขาด อาจเพิ่งวางไว้",
+          "en": "The strap is intact. She may have left it here recently."
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "th": "เรียกเธอเบา ๆ ก่อน อย่าแยกกัน",
+          "en": "Call quietly first. Stay together."
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "th": "หยุด มีอะไรขยับหลังโคม เตรียมตัว",
+          "en": "Stop. Movement behind the lamp. Be ready."
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "The low ones jump. Wait for them to land. The plated ones leave their backs bare.",
+          "th": "ตัวเตี้ยมันชอบกระโจน รอให้ลงพื้นก่อน ส่วนตัวเกราะ... ด้านหลังมันไม่มีอะไรบัง"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "And that violet light? If it starts stitching them back together, hit the caster.",
+          "th": "แล้วแสงม่วงนั่นล่ะ? ถ้ามันเริ่มซ่อมร่างตัวอื่น ต้องหยุดคนร่ายก่อน"
+        }
+      }
+    ]
+  },
+  "m02_outro": {
+    "lines": [
+      {
+        "speaker": "n02",
+        "text": {
+          "en": "The roots are quiet again. Your friends can reach the sanctuary safely.",
+          "th": "รากไม้สงบลงแล้ว เพื่อนของเจ้ากลับวิหารได้อย่างปลอดภัย"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "A sigil answered in numbers before it sang. That is an odd kind of prayer.",
+          "th": "ตราตอบเป็นตัวเลขก่อนจะส่งเสียงเพลง เป็นคำภาวนาที่แปลกดี"
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "en": "Our elders call them songs of balance. Perhaps you hear a part we have lost.",
+          "th": "ผู้เฒ่าของเราเรียกมันว่าเพลงแห่งสมดุล บางทีเจ้าคงได้ยินส่วนที่เราสูญเสียไป"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Ten classmates safe. The tower is ahead; we go together.",
+          "th": "เพื่อนร่วมชั้นปลอดภัยสิบคน หอคอยอยู่ข้างหน้า เราจะไปด้วยกัน"
+        }
+      }
+    ]
+  },
+  "m03_intro": {
+    "lines": [
+      {
+        "speaker": "n01",
+        "cinematic": "skyfall",
+        "text": {
+          "th": "ตัวที่ตกลงมาฝังตัวอยู่ในรากหอแล้ว เห็นผนึกบนอกไหม? ตอนมันปิดแกนกลาง ต้องเข้าไปแก้อักขระ กด E ใกล้ตัวมัน ฉันจะคอยดูทางให้",
+          "en": "The thing that fell has rooted itself into the tower. See its chest seal? When it closes the core, approach and press E to turn the runes. I will watch the way out."
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Inside Verdant Tower, three classmates shelter behind a cracked ward. The Warden repeats a warning.",
+          "th": "ในหอคอยพฤกษา เพื่อนร่วมชั้นสามคนหลบหลังเกราะเวทที่แตกร้าว ผู้พิทักษ์ย้ำคำเตือน"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "It once guarded travelers. Now it strikes anyone who approaches the controls.",
+          "th": "แต่ก่อนมันคุ้มครองผู้เดินทาง ตอนนี้มันโจมตีทุกคนที่เข้าใกล้แท่นควบคุม"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "The sigils power its shield. We have to break the attack cycle before we can reset them.",
+          "th": "ตราให้พลังแก่โล่ของมัน เราต้องหยุดวงจรโจมตีก่อนจะตั้งค่าพวกมันใหม่ได้"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Stay clear of its marked strikes. We open the way for our friends.",
+          "th": "หลบจุดที่มันหมายจะโจมตีไว้ เราจะเปิดทางให้เพื่อนของเรา"
+        }
+      }
+    ]
+  },
+  "m03_outro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The Warden lowers its weapon. Leaves unfurl across the stone as the first tower returns to balance.",
+          "th": "ผู้พิทักษ์ลดอาวุธ ใบไม้คลี่ออกบนหินเมื่อหอคอยแรกกลับคืนสู่สมดุล"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "It did not say “chosen heroes.” It said “compatible operators.”",
+          "th": "มันไม่ได้พูดว่า “วีรบุรุษผู้ถูกเลือก” มันพูดว่า “ผู้ควบคุมที่เข้ากันได้”"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "Then our legends left something out. The second tower may hold the answer.",
+          "th": "ถ้าอย่างนั้นตำนานของเราคงขาดบางอย่างไป หอคอยที่สองอาจมีคำตอบ"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Thirteen safe. We take them home first. The southern road can wait.",
+          "th": "ปลอดภัยสิบสามคน พาพวกเขากลับเมืองก่อนเถอะ ทางใต้เอาไว้ทีหลัง"
+        }
+      }
+    ]
+  },
+  "m04_intro": {
+    "lines": [
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "Three youngsters helped me hold this bridge. Brave work, but the furnace is cooking the valley.",
+          "th": "เด็กสามคนช่วยข้ารักษาสะพานนี้ไว้ กล้าหาญดี แต่เตาหลอมกำลังเผาหุบเขา"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Then they rest while we clear the pass. Nobody has to prove their courage twice.",
+          "th": "ให้พวกเขาพักระหว่างที่เราเปิดทาง ไม่มีใครต้องพิสูจน์ความกล้าซ้ำอีก"
+        }
+      },
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "The tower used to warm homes. Now its old pipes carry more heat than stone can bear.",
+          "th": "หอคอยเคยส่งความอบอุ่นให้บ้านเรือน ตอนนี้ท่อเก่าส่งความร้อนเกินกว่าหินจะรับไหว"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "A broken control system, not a curse. We can work with that.",
+          "th": "ระบบควบคุมพังสินะ ไม่ใช่คำสาป แบบนี้เราพอหาวิธีแก้ได้"
+        }
+      }
+    ]
+  },
+  "m04_outro": {
+    "lines": [
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "The pass is open. Bring me salvaged metal when you can; good tools save lives.",
+          "th": "ช่องเขาเปิดแล้ว ถ้าได้โลหะเก่าก็นำมาให้ข้า เครื่องมือดีช่วยรักษาชีวิต"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Sixteen classmates accounted for. Two more were seen at the furnace.",
+          "th": "พบเพื่อนร่วมชั้นสิบหกคนแล้ว มีคนเห็นอีกสองคนที่เตาหลอม"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "These circuits have wear marks. Someone has repaired them before.",
+          "th": "วงจรพวกนี้มีรอยสึก เคยมีคนซ่อมมันมาก่อน"
+        }
+      },
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "Many times. They never told us the towers could summon children to do it.",
+          "th": "หลายครั้งแล้ว แต่ไม่มีใครบอกเราว่าหอคอยอัญเชิญเด็กมาซ่อมได้"
+        }
+      }
+    ]
+  },
+  "m05_intro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Two classmates have charted safe gaps between the furnace jets. Above them, the Cartographer redraws the valley.",
+          "th": "เพื่อนร่วมชั้นสองคนทำแผนที่ช่องปลอดภัยระหว่างไอพ่นเตาหลอม เหนือหัวพวกเขา นักเขียนแผนที่กำลังวาดหุบเขาใหม่"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "It is turning living villages into empty grid squares. Its map no longer matches the world.",
+          "th": "มันเปลี่ยนหมู่บ้านที่มีผู้คนเป็นช่องตารางว่างเปล่า แผนที่ของมันไม่ตรงกับโลกแล้ว"
+        }
+      },
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "Shut its furnace channels. I can forge a new regulator once the core is quiet.",
+          "th": "ปิดช่องส่งพลังเตาหลอม เมื่อแกนสงบแล้วข้าจะตีตัวควบคุมใหม่"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Watch the lines it draws. We fight where the map has not turned red.",
+          "th": "ดูเส้นที่มันลากไว้ เราจะสู้ตรงที่แผนที่ยังไม่เปลี่ยนเป็นสีแดง"
+        }
+      }
+    ]
+  },
+  "m05_outro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The second tower cools. The Cartographer restores the villages to its map, one small light at a time.",
+          "th": "หอคอยที่สองเย็นลง นักเขียนแผนที่คืนหมู่บ้านสู่แผนที่ ทีละแสงเล็กๆ"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "The core stores an older map: two worlds joined by a bridge, then separated by the veil.",
+          "th": "แกนเก็บแผนที่เก่าไว้ โลกสองใบเคยเชื่อมด้วยสะพาน แล้วถูกม่านแยกจากกัน"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "So this place was never meant to be a prison. What happened to the bridge?",
+          "th": "ถ้าอย่างนั้นที่นี่ไม่ได้ถูกสร้างให้เป็นคุก สะพานนั้นเกิดอะไรขึ้น?"
+        }
+      },
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "Ask the keepers beneath the tide. Their archive survived the first closing.",
+          "th": "ถามผู้ดูแลใต้กระแสน้ำ หอจดหมายเหตุของพวกเขารอดจากการปิดม่านครั้งแรก"
+        }
+      }
+    ]
+  },
+  "m06_intro": {
+    "lines": [
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "Three of your friends reached our flooded archive. The Custodian sealed the records before we could read them.",
+          "th": "เพื่อนของเจ้าสามคนมาถึงหอจดหมายเหตุที่ถูกน้ำท่วม ผู้คุ้มครองผนึกบันทึกก่อนที่เราจะอ่านได้"
+        }
+      },
+      {
+        "speaker": "n06",
+        "text": {
+          "en": "I remember the closing, but a memory is only one witness. We need the records as well.",
+          "th": "ข้าจำการปิดม่านได้ แต่ความทรงจำเป็นเพียงพยานคนเดียว เราต้องใช้บันทึกด้วย"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "It keeps asking for the thirty signatures. That means the summons counted us on purpose.",
+          "th": "มันถามหาลายเซ็นสามสิบชุดซ้ำๆ แปลว่าการอัญเชิญตั้งใจนับพวกเรา"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Then we owe everyone an answer. Open the archive, and keep our friends above the water.",
+          "th": "เราต้องหาคำตอบให้ทุกคน เปิดหอจดหมายเหตุ และให้เพื่อนของเราอยู่พ้นน้ำไว้"
+        }
+      }
+    ]
+  },
+  "m06_outro": {
+    "lines": [
+      {
+        "speaker": "n06",
+        "text": {
+          "en": "The ancients joined orbital engines with spellcraft. Their civilization fell in a war against beings that crossed between dimensions.",
+          "th": "คนโบราณรวมเครื่องจักรในวงโคจรเข้ากับเวทมนตร์ อารยธรรมของพวกเขาล่มสลายในสงครามกับสิ่งมีชีวิตที่ข้ามมิติ"
+        }
+      },
+      {
+        "speaker": "n06",
+        "text": {
+          "en": "The veil is their planetary shield, held by five tower anchors. Centuries of decay let the celestial invaders breach it again.",
+          "th": "ม่านคือเกราะป้องกันดาวเคราะห์ที่ยึดด้วยหอคอยห้าแห่ง ความเสื่อมโทรมหลายศตวรรษทำให้ผู้รุกรานจากฟากฟ้าฝ่ามันเข้ามาอีก"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "The repair command chose thirty young minds as operators. A machine mistook our different ways of thinking for permission.",
+          "th": "คำสั่งซ่อมแซมเลือกเด็กสามสิบคนเป็นผู้ควบคุม เครื่องจักรเข้าใจว่าวิธีคิดที่ต่างกันของเราหมายถึงการยินยอม"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "It never asked us. Whatever we decide, nobody else gets taken the way we were.",
+          "th": "มันไม่เคยถามเรา ไม่ว่าเราจะตัดสินใจอย่างไร จะไม่มีใครถูกพาตัวมาแบบเราอีก"
+        }
+      },
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "Twenty-one classmates are safe. We still need the tide tower to steady the crossing.",
+          "th": "เพื่อนร่วมชั้นปลอดภัยยี่สิบเอ็ดคน เรายังต้องใช้หอคอยสมุทรเพื่อทำให้ทางข้ามมั่นคง"
+        }
+      }
+    ]
+  },
+  "m07_intro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Three classmates wait on the tower causeway. Below them, the Leviathan circles a heart of restless water.",
+          "th": "เพื่อนร่วมชั้นสามคนรอบนทางเข้าหอคอย ใต้พวกเขา เลวีอาธานวนรอบหัวใจแห่งน้ำที่กระสับกระส่าย"
+        }
+      },
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "It is trying to hold the tide in place with force. The pressure will drown both shores.",
+          "th": "มันพยายามกักกระแสน้ำด้วยกำลัง แรงดันจะทำให้ทั้งสองฝั่งจมน้ำ"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Our friends made it this far by helping strangers. We will do the same for their home.",
+          "th": "เพื่อนของเรามาถึงนี่ได้เพราะช่วยคนแปลกหน้า เราจะทำเช่นเดียวกันเพื่อบ้านของพวกเขา"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Spread out when the water rises. Bring down the guardian, then tune the sigils.",
+          "th": "กระจายตัวเมื่อน้ำขึ้น โค่นผู้พิทักษ์ แล้วปรับตราให้ตรงกัน"
+        }
+      }
+    ]
+  },
+  "m07_outro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The third tower settles into a gentle pulse. Boats return to the harbor beneath a clear evening sky.",
+          "th": "หอคอยที่สามเต้นเป็นจังหวะสงบ เรือกลับสู่ท่าใต้ท้องฟ้ายามเย็นที่แจ่มใส"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "The towers do not create magic. They help living people shape the energy already here.",
+          "th": "หอคอยไม่ได้สร้างเวทมนตร์ มันช่วยให้ผู้คนกำหนดรูปพลังงานที่มีอยู่แล้วที่นี่"
+        }
+      },
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "Then let the people help choose its future. We have lived with the cost of silence long enough.",
+          "th": "ถ้าอย่างนั้นให้ผู้คนร่วมเลือกอนาคตของมัน เราอยู่กับผลของความเงียบมานานพอแล้ว"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Twenty-four safe. The last trail leads north, into the frost.",
+          "th": "ปลอดภัยยี่สิบสี่คน ร่องรอยสุดท้ายมุ่งขึ้นเหนือ เข้าสู่แดนหนาว"
+        }
+      }
+    ]
+  },
+  "m08_intro": {
+    "lines": [
+      {
+        "speaker": "n05",
+        "text": {
+          "en": "I found three of your people following a tower signal through the snow. They are warming by our camp.",
+          "th": "ข้าพบคนของเจ้าสามคนตามสัญญาณหอคอยฝ่าหิมะ ตอนนี้พวกเขาผิงไฟอยู่ที่ค่าย"
+        }
+      },
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "Rest before you climb. A healer can close a wound; she cannot lend you yesterday’s sleep.",
+          "th": "พักก่อนปีนขึ้นไป ผู้รักษาปิดแผลให้ได้ แต่คืนการนอนที่พลาดไปให้ไม่ได้"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "You sound like my mother. I think I needed to hear that.",
+          "th": "คุณพูดเหมือนแม่ฉันเลย ฉันคงต้องได้ยินคำนี้จริงๆ"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "The fourth tower is broadcasting the same dream to everyone. We need to find who is speaking.",
+          "th": "หอคอยที่สี่ส่งความฝันเดียวกันให้ทุกคน เราต้องหาว่าใครกำลังพูด"
+        }
+      }
+    ]
+  },
+  "m08_outro": {
+    "lines": [
+      {
+        "speaker": "n05",
+        "text": {
+          "en": "The storm has eased. My people can guide your friends home while we climb to the Choir.",
+          "th": "พายุเบาลงแล้ว คนของข้าพาเพื่อนเจ้ากลับที่พักได้ ระหว่างที่เราขึ้นไปหาเสียงประสาน"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Twenty-seven. We are close enough to stop pretending we are not afraid.",
+          "th": "ยี่สิบเจ็ดคน ใกล้ครบแล้ว เราไม่ต้องทำเป็นว่าไม่กลัวอีก"
+        }
+      },
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "Courage does not require that. It asks whom you will care for while you are afraid.",
+          "th": "ความกล้าไม่ต้องการเช่นนั้น มันถามว่าเจ้าจะดูแลใครขณะที่เจ้ากลัว"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Everyone. Here, and at home. We can carry both promises.",
+          "th": "ทุกคน ทั้งที่นี่และที่บ้าน เราจะรักษาสัญญาทั้งสองอย่าง"
+        }
+      }
+    ]
+  },
+  "m09_intro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Two classmates cling to their own memories inside the Choir Tower. A thousand voices offer them the same peace.",
+          "th": "เพื่อนร่วมชั้นสองคนยึดความทรงจำของตนไว้ในหอคอยเสียงประสาน พันเสียงเสนอความสงบแบบเดียวกัน"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "It wants to erase disagreement. That is why it needed thirty minds but cannot understand us.",
+          "th": "มันอยากลบความเห็นต่าง จึงต้องการสามสิบความคิด แต่กลับเข้าใจเราไม่ได้"
+        }
+      },
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "A song is more than one note. Interrupt its chant and let each voice be heard again.",
+          "th": "บทเพลงมีมากกว่าตัวโน้ตเดียว หยุดบทขับของมัน ให้แต่ละเสียงได้ดังขึ้นอีกครั้ง"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Remember your names. Remember the people waiting for you. We do not surrender either.",
+          "th": "จำชื่อของตัวเองไว้ จำคนที่กำลังรอพวกเรา เราจะไม่ยอมเสียสิ่งเหล่านี้ไป"
+        }
+      }
+    ]
+  },
+  "m09_outro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The fourth tower releases its borrowed voices. Twenty-nine classmates gather around the final student signal.",
+          "th": "หอคอยที่สี่ปล่อยเสียงที่ยืมมา เพื่อนร่วมชั้นยี่สิบเก้าคนมารวมกันตามสัญญาณของนักเรียนคนสุดท้าย"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "It comes from Meridian Gate. The signal has been keeping a way open for us.",
+          "th": "มันมาจากประตูเมอริเดียน สัญญาณนั้นคอยรักษาทางให้เราอยู่"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "One person has waited for all the rest. We bring them back before we make any final choice.",
+          "th": "มีคนหนึ่งรอทุกคนมาตลอด เราจะพาเขากลับมาก่อนตัดสินใจครั้งสุดท้าย"
+        }
+      },
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "Then take our voices with you. A shared future should have room for them.",
+          "th": "ถ้าอย่างนั้นจงนำเสียงของเราไปด้วย อนาคตร่วมกันควรมีที่ให้เสียงเหล่านั้น"
+        }
+      }
+    ]
+  },
+  "m10_intro": {
+    "lines": [
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "Designation Aster-9. Your thirtieth companion is alive. We held the gate; the Sentinel has rejected our passage.",
+          "th": "ข้ามีรหัสแอสเตอร์-9 เพื่อนคนที่สามสิบของเจ้ายังมีชีวิต เรารักษาประตูไว้ แต่เซนทิเนลไม่ยอมให้ผ่าน"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Then the count ends here. After today, nobody in our class faces this alone.",
+          "th": "ถ้าอย่างนั้นเราจะนับครบที่นี่ หลังจากวันนี้ จะไม่มีใครในชั้นต้องเผชิญเรื่องนี้คนเดียว"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "The Sentinel enforces an expired emergency order. It cannot distinguish protection from confinement.",
+          "th": "เซนทิเนลทำตามคำสั่งฉุกเฉินที่หมดอายุแล้ว มันแยกการคุ้มครองออกจากการกักขังไม่ได้"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "We have restored four towers. Let us get through, and change the order at its source.",
+          "th": "เราฟื้นฟูหอคอยสี่แห่งแล้ว ให้เราผ่านไปเปลี่ยนคำสั่งที่ต้นทาง"
+        }
+      }
+    ]
+  },
+  "m10_outro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Meridian Gate opens. All thirty classmates answer the roll call, each with a different story to tell.",
+          "th": "ประตูเมอริเดียนเปิด นักเรียนทั้งสามสิบคนตอบการขานชื่อ แต่ละคนมีเรื่องต่างกันให้เล่า"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "The fifth tower holds the Architect. It summoned you as repair operators without consent. It can return you home, once it releases command.",
+          "th": "หอคอยที่ห้าเป็นที่อยู่ของสถาปนิก มันอัญเชิญเจ้ามาเป็นผู้ควบคุมการซ่อมโดยไม่ขอความยินยอม มันส่งเจ้ากลับบ้านได้เมื่อยอมปล่อยอำนาจ"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We found everyone. Now we can make the choice together, with the people who helped us.",
+          "th": "เราพบทุกคนแล้ว ทีนี้เราตัดสินใจร่วมกันได้ พร้อมผู้คนที่ช่วยเรา"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "No chosen ruler. No more secret summons. Whatever comes next belongs to all of us.",
+          "th": "ไม่มีผู้ปกครองที่ถูกเลือก ไม่มีการอัญเชิญลับอีก สิ่งที่จะเกิดขึ้นต่อไปเป็นของเราทุกคน"
+        }
+      }
+    ]
+  },
+  "m11_intro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "At the fifth tower’s summit, the Architect unfolds wings of glass. Below, the restored towers shine as one circuit.",
+          "th": "บนยอดหอคอยที่ห้า สถาปนิกกางปีกแก้ว เบื้องล่าง หอคอยที่ฟื้นฟูแล้วส่องแสงเป็นวงจรเดียว"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "The Architect sealed the rifts after the ancient war. As the planetary veil decayed, it took children to repair what it could not.",
+          "th": "สถาปนิกปิดรอยแยกหลังสงครามโบราณ เมื่อม่านป้องกันดาวเคราะห์เสื่อมลง มันพาตัวเด็กมาซ่อมสิ่งที่มันซ่อมเองไม่ได้"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "It can learn new rules, but not while it treats every answer as an error. Break its control first.",
+          "th": "มันเรียนรู้กฎใหม่ได้ แต่ทำไม่ได้ถ้ายังมองทุกคำตอบเป็นข้อผิดพลาด ต้องหยุดการควบคุมก่อน"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Thirty classmates, eight new friends. We are not its tools. We are the people its rules must serve.",
+          "th": "เพื่อนร่วมชั้นสามสิบคน เพื่อนใหม่แปดคน เราไม่ใช่เครื่องมือ กฎของมันต้องรับใช้ผู้คนอย่างเรา"
+        }
+      }
+    ]
+  },
+  "m11_outro": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The Architect falls silent. All five towers restore the planetary shield. Its bridge to Earth now waits for permission.",
+          "th": "สถาปนิกเงียบลง หอคอยทั้งห้าฟื้นฟูเกราะป้องกันดาวเคราะห์ สะพานสู่โลกของพวกเรารอการยินยอมแล้ว"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "Both paths return all thirty of you home. Restore the boundary, or open a crossing governed by both worlds.",
+          "th": "ทั้งสองทางส่งเจ้าทั้งสามสิบกลับบ้านได้ จะฟื้นฟูเขตแดน หรือเปิดทางข้ามที่โลกทั้งสองดูแลร่วมกัน"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "A closed veil gives these lands time to heal. An open bridge lets us help each other, with consent.",
+          "th": "ม่านที่ปิดให้เวลาดินแดนนี้ฟื้นตัว สะพานที่เปิดให้เราช่วยกันได้ โดยทุกฝ่ายยินยอม"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "We have heard every voice. Let this be our first free choice, and the last decision made in secret.",
+          "th": "เราได้ฟังทุกเสียงแล้ว ให้ครั้งนี้เป็นการเลือกอย่างอิสระครั้งแรก และเป็นการตัดสินลับครั้งสุดท้าย"
+        }
+      }
+    ],
+    "choice": {
+      "prompt": {
+        "en": "What future will you choose for the veil?",
+        "th": "คุณจะเลือกอนาคตแบบใดให้ม่าน?"
+      },
+      "options": [
+        {
+          "id": "ending_restore",
+          "text": {
+            "en": "Restore the boundary. Return everyone home; give this world time to heal.",
+            "th": "ฟื้นฟูเขตแดน ส่งทุกคนกลับบ้าน ให้โลกนี้มีเวลาฟื้นตัว"
+          },
+          "flag": "chosen_restore"
+        },
+        {
+          "id": "ending_open",
+          "text": {
+            "en": "Open a bridge with shared rules. Travel only by consent.",
+            "th": "เปิดสะพานที่มีกฎร่วมกัน เดินทางได้เมื่อยินยอมเท่านั้น"
+          },
+          "flag": "chosen_open"
+        }
+      ]
+    }
+  },
+  "npc_n01": {
+    "lines": [
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "I was taught to wait for heroes. Your first question was where your friends had gone. That is the better lesson.",
+          "th": "ข้าถูกสอนให้รอวีรบุรุษ แต่คำถามแรกของเจ้าคือเพื่อนหายไปไหน นั่นคือบทเรียนที่ดีกว่า"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "The sanctuary is yours whenever you need it. Rest, change your companions, and prepare before the next road.",
+          "th": "วิหารต้อนรับเจ้าเสมอเมื่อจำเป็น พัก เปลี่ยนเพื่อนร่วมทีม และเตรียมตัวก่อนเดินทางต่อ"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "My oath is to people, not a prophecy. I will see all thirty of you safely home.",
+          "th": "คำสัตย์ของข้ามอบให้ผู้คน ไม่ใช่คำทำนาย ข้าจะส่งเจ้าทั้งสามสิบกลับบ้านอย่างปลอดภัย"
+        }
+      }
+    ]
+  },
+  "npc_n02": {
+    "lines": [
+      {
+        "speaker": "n02",
+        "text": {
+          "en": "Our trees keep scars beneath new bark. Repair is not the same as forgetting.",
+          "th": "ต้นไม้ของเราเก็บแผลเป็นไว้ใต้เปลือกใหม่ การซ่อมแซมไม่ใช่การลืม"
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "en": "A tower may steady the forest, but the people who live here must still tend it.",
+          "th": "หอคอยอาจทำให้ป่ามั่นคง แต่ผู้คนที่อยู่ที่นี่ก็ยังต้องดูแลมัน"
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "en": "Listen when your companions speak. Different eyes notice different paths.",
+          "th": "ฟังเมื่อเพื่อนของเจ้าพูด ดวงตาต่างกันย่อมเห็นเส้นทางต่างกัน"
+        }
+      }
+    ]
+  },
+  "npc_n03": {
+    "lines": [
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "My grandfather called these parts holy relics. I call them worn bearings. We both knew they needed care.",
+          "th": "ปู่ข้าเรียกชิ้นส่วนพวกนี้ว่าวัตถุศักดิ์สิทธิ์ ข้าเรียกมันว่าตลับลูกปืนเก่า เราต่างรู้ว่ามันต้องได้รับการดูแล"
+        }
+      },
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "Bring materials to the craft bench and I will help make gear that suits your crew.",
+          "th": "นำวัสดุมาที่โต๊ะงาน ข้าจะช่วยทำอุปกรณ์ที่เหมาะกับกลุ่มเจ้า"
+        }
+      },
+      {
+        "speaker": "n03",
+        "text": {
+          "en": "Being summoned does not make you expendable. Remember that when someone asks for a sacrifice.",
+          "th": "การถูกอัญเชิญไม่ได้ทำให้ชีวิตเจ้าทิ้งได้ จำไว้เมื่อมีใครขอให้เสียสละ"
+        }
+      }
+    ]
+  },
+  "npc_n04": {
+    "lines": [
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "Surface travelers call the sea empty. My family has lived beneath their empty horizon for centuries.",
+          "th": "ผู้เดินทางบนผิวน้ำเรียกทะเลว่าว่างเปล่า ครอบครัวข้าอยู่ใต้ขอบฟ้าที่ว่างเปล่านั้นมาหลายศตวรรษ"
+        }
+      },
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "The tides carry water, news, and consequences. A change upstream becomes somebody else’s flood.",
+          "th": "กระแสน้ำพาทั้งน้ำ ข่าว และผลที่ตามมา การเปลี่ยนแปลงต้นน้ำกลายเป็นน้ำท่วมของคนอื่น"
+        }
+      },
+      {
+        "speaker": "n04",
+        "text": {
+          "en": "When you choose the veil’s future, remember the people you cannot see from the shore.",
+          "th": "เมื่อเจ้าเลือกอนาคตของม่าน จงจำผู้คนที่เจ้ามองไม่เห็นจากฝั่งไว้ด้วย"
+        }
+      }
+    ]
+  },
+  "npc_n05": {
+    "lines": [
+      {
+        "speaker": "n05",
+        "text": {
+          "en": "Your friends left signs in the snow so the next lost person could follow. I liked them immediately.",
+          "th": "เพื่อนเจ้าทิ้งเครื่องหมายในหิมะให้คนหลงทางคนต่อไปตามได้ ข้าชอบพวกเขาทันที"
+        }
+      },
+      {
+        "speaker": "n05",
+        "text": {
+          "en": "We beastkin have crossed borders all our lives. A safe passage matters more than a grand promise.",
+          "th": "พวกมนุษย์สัตว์อย่างเราข้ามเขตแดนมาทั้งชีวิต ทางผ่านที่ปลอดภัยสำคัญกว่าคำสัญญายิ่งใหญ่"
+        }
+      },
+      {
+        "speaker": "n05",
+        "text": {
+          "en": "I will walk with you. When the road disappears, we make the next step together.",
+          "th": "ข้าจะเดินกับเจ้า เมื่อเส้นทางหายไป เราจะหาก้าวต่อไปด้วยกัน"
+        }
+      }
+    ]
+  },
+  "npc_n06": {
+    "lines": [
+      {
+        "speaker": "n06",
+        "text": {
+          "en": "I am a shade, not a book. My memories fade too. That is why I preserve more than my own account.",
+          "th": "ข้าเป็นเงาวิญญาณ ไม่ใช่หนังสือ ความทรงจำข้าก็เลือนราง ข้าจึงรักษาเรื่องเล่ามากกว่าของตนเอง"
+        }
+      },
+      {
+        "speaker": "n06",
+        "text": {
+          "en": "The old council closed the bridge to stop a disaster. Its mistake was never letting others review the decision.",
+          "th": "สภาเก่าปิดสะพานเพื่อหยุดภัยพิบัติ ความผิดพลาดคือไม่ยอมให้ผู้อื่นทบทวนการตัดสินใจ"
+        }
+      },
+      {
+        "speaker": "n06",
+        "text": {
+          "en": "Write down what you learn. The next generation deserves evidence, not another commandment.",
+          "th": "จดสิ่งที่เจ้าเรียนรู้ไว้ คนรุ่นต่อไปควรได้หลักฐาน ไม่ใช่บัญญัติอีกข้อ"
+        }
+      }
+    ]
+  },
+  "npc_n07": {
+    "lines": [
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "My wings cannot carry everyone. Asking for help is how I learned to keep more people alive.",
+          "th": "ปีกข้าแบกทุกคนไม่ได้ การขอความช่วยเหลือทำให้ข้าเรียนรู้วิธีรักษาชีวิตผู้คนได้มากขึ้น"
+        }
+      },
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "Check on the quiet companion as well as the wounded one. Fear can hide behind a brave face.",
+          "th": "ดูแลเพื่อนที่เงียบด้วย ไม่ใช่แค่คนบาดเจ็บ ความกลัวซ่อนอยู่หลังใบหน้ากล้าหาญได้"
+        }
+      },
+      {
+        "speaker": "n07",
+        "text": {
+          "en": "At a camp, breathe and recover. Nobody loses their worth by needing rest.",
+          "th": "เมื่อถึงค่าย จงหายใจและพักฟื้น ไม่มีใครเสียคุณค่าเพราะต้องการพัก"
+        }
+      }
+    ]
+  },
+  "npc_n08": {
+    "lines": [
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "My makers called me a keeper. For centuries I thought that meant keeping every order unchanged.",
+          "th": "ผู้สร้างเรียกข้าว่าผู้ดูแล หลายศตวรรษข้าคิดว่าหมายถึงการรักษาทุกคำสั่งให้เหมือนเดิม"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "Your companion asked whom those orders protected. I had no answer. I have begun looking for one.",
+          "th": "เพื่อนเจ้าถามว่าคำสั่งเหล่านั้นปกป้องใคร ข้าตอบไม่ได้ จึงเริ่มค้นหาคำตอบ"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "A bridge should wait for its travelers to agree. I can enforce that rule, whichever future you choose.",
+          "th": "สะพานควรรอให้ผู้เดินทางยินยอม ข้าบังคับใช้กฎนั้นได้ ไม่ว่าเจ้าจะเลือกอนาคตแบบใด"
+        }
+      }
+    ]
+  },
+  "classroom_peer": {
+    "lines": [
+      {
+        "speaker": "c02",
+        "text": {
+          "en": "I counted the doors. Two guards at each. We should stay where we can see one another.",
+          "th": "ฉันนับประตูแล้ว มีทหารเฝ้าทุกบาน อยู่ในที่ที่มองเห็นกันไว้ก่อน"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "ending_restore": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The five towers seal the invading rifts and renew the boundary. The summons ends forever; the veil settles into a quiet sky.",
+          "th": "หอคอยทั้งห้าปิดรอยแยกของผู้รุกรานและฟื้นฟูเขตแดน การอัญเชิญยุติตลอดกาล ม่านสงบลงในท้องฟ้า"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "We will rebuild with our own hands. Thank you for reminding us that protection must leave people free.",
+          "th": "เราจะสร้างใหม่ด้วยมือของเรา ขอบใจที่เตือนว่าการคุ้มครองต้องให้ผู้คนมีอิสระ"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "This is goodbye, but it is not forgetting. We will carry your names home.",
+          "th": "นี่คือการลา แต่ไม่ใช่การลืม เราจะจดจำชื่อของพวกคุณกลับบ้านไปด้วย"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Thirty students return to their classroom. They count each other first, then open the door together.",
+          "th": "นักเรียนสามสิบคนกลับสู่ห้องเรียน พวกเขานับกันก่อน แล้วเปิดประตูไปด้วยกัน"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "We all made it. Now we have a story to tell, and a promise to keep.",
+          "th": "พวกเรากลับมาครบแล้ว ทีนี้เรามีเรื่องให้เล่า และมีสัญญาให้รักษา"
+        }
+      }
+    ]
+  },
+  "ending_open": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "With the planetary shield restored, five towers open a guarded bridge. Both worlds agree: no forced passage; every rule can be reviewed.",
+          "th": "เมื่อเกราะป้องกันดาวเคราะห์ฟื้นฟูแล้ว หอคอยทั้งห้าเปิดสะพานที่มีการคุ้มครอง โลกทั้งสองตกลงว่าห้ามบังคับข้ามและทุกกฎทบทวนได้"
+        }
+      },
+      {
+        "speaker": "n08",
+        "text": {
+          "en": "The summons is disabled. Every future crossing will begin with a request and an answer.",
+          "th": "ระบบอัญเชิญถูกปิด การข้ามครั้งต่อไปจะเริ่มด้วยคำขอและคำตอบ"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "First we go home. Then we introduce our friends properly, when everyone is ready.",
+          "th": "ก่อนอื่นเรากลับบ้าน แล้วค่อยแนะนำเพื่อนของเราอย่างเป็นเรื่องเป็นราว เมื่อทุกคนพร้อม"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Thirty students return to their classroom. Beyond the window, one small star marks a door they may choose to visit.",
+          "th": "นักเรียนสามสิบคนกลับสู่ห้องเรียน นอกหน้าต่าง ดาวดวงเล็กทำเครื่องหมายประตูที่พวกเขาเลือกไปเยือนได้"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Nobody gets taken again. This time, the next journey is ours to choose.",
+          "th": "จะไม่มีใครถูกพาตัวไปอีก คราวนี้พวกเราเลือกการเดินทางครั้งต่อไปเอง"
+        }
+      }
+    ]
+  },
+  "credits": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "ASTRAL VEIL: THE SUMMONED THIRTY — A story of thirty classmates and the friends who helped them come home.",
+          "th": "ASTRAL VEIL: THE SUMMONED THIRTY — เรื่องราวของเพื่อนร่วมชั้นสามสิบคนและเพื่อนที่ช่วยให้พวกเขากลับบ้าน"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Original characters, world, pixel art, and synthesized music created for this game. Thank you for playing.",
+          "th": "ตัวละคร โลก พิกเซลอาร์ต และดนตรีสังเคราะห์เป็นผลงานต้นฉบับที่สร้างเพื่อเกมนี้ ขอบคุณที่ร่วมเล่น"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "The journey is complete. Your companions, memories, and the future you chose remain in your save.",
+          "th": "การเดินทางจบลงแล้ว เพื่อนร่วมทาง ความทรงจำ และอนาคตที่คุณเลือกยังอยู่ในเซฟ"
+        }
+      }
+    ]
+  },
+  "town_sera": {
+    "lines": [
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "รองเท้าเจ้าอยู่ใต้เกวียน เจอแล้ว ขอโทษที่เมื่อกี้เสียงแข็ง",
+          "en": "Your shoe was under the cart. Found it. Sorry I snapped earlier."
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "th": "ไม่เป็นไร ผมแค่... ถ้าพวกเขากำลังเรียกเราอยู่ล่ะ",
+          "en": "It is fine. I just... what if they are calling for us right now?"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "ข้าก็เคยรอให้ใครสักคนกลับมา ข้าไม่ขอให้เจ้าลืม แค่เตรียมตัวให้กลับมาถึงด้วย",
+          "en": "I have waited for someone too. I am not asking you to forget. Just give yourself a chance to come back."
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "หีบเสบียงอยู่ริมทาง เอาไปได้ อิลเยนรอทางตะวันออก เขารู้จักป่าดีกว่าข้า",
+          "en": "Supplies in the roadside chest. Take them. Ilyen is waiting east of here. He knows the woods better than I do."
+        }
+      }
+    ],
+    "choice": {
+      "prompt": {
+        "th": "อรุณมองกลับไปที่หน้าต่างวิหาร",
+        "en": "Arun glances at the sanctuary windows."
+      },
+      "options": [
+        {
+          "id": "promise_together",
+          "flag": "promise_together",
+          "text": {
+            "th": "กลับมานับทุกคนที่นี่ด้วยกัน",
+            "en": "We count everyone here when we get back."
+          }
+        },
+        {
+          "id": "promise_home",
+          "flag": "promise_home",
+          "text": {
+            "th": "ผมต้องพาพวกเขากลับบ้าน",
+            "en": "I have to get them home."
+          }
+        }
+      ]
+    }
+  },
+  "town_ilyen": {
+    "lines": [
+      {
+        "speaker": "n02",
+        "text": {
+          "th": "แผนที่กลับหัวอยู่",
+          "en": "Your map is upside down."
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "รู้อยู่ กำลังดูจากฝั่งที่เราเดินมา",
+          "en": "I know. I was looking from the direction we came."
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "th": "อืม งั้นต้นไม้คงเป็นคนผิด",
+          "en": "Mm. The trees must be wrong, then."
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "...ขอแผนที่ดี ๆ ได้ไหม",
+          "en": "...Could we have a proper map?"
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "th": "ตามโคมไป อย่าวิ่งตามเสียงในพุ่มไม้ คนยิงธนูจะถอยหลอกเจ้า ส่วนตัวถือขวาน ยกแขนเมื่อไรให้หลบ หรือฟันหนักก่อนมันลงมือ",
+          "en": "Follow the lamps. Do not chase voices into the brush. Archers draw you out. When an axeman raises his arms, dodge or interrupt him with a heavy strike."
+        }
+      },
+      {
+        "speaker": "n02",
+        "text": {
+          "th": "ข้าเห็นกระเป๋านักเรียนตรงทางแยก ยังไม่ได้เปิด เจ้าควรเป็นคนดู",
+          "en": "I saw a school bag at the fork. I left it closed. You should be the one to look."
+        }
+      }
+    ]
+  },
+  "field_bag": {
+    "lines": [
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "กล้องยังอยู่ รูปล่าสุด... เป็นพวกเราเมื่อเช้า",
+          "en": "Her camera is here. The last photo... that is us this morning."
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "th": "ฉันยังถือขนมปังอยู่เลย ตอนนั้นเราบ่นว่าฝนตก",
+          "en": "I am still holding my toast. We were complaining about the rain."
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "th": "เก็บไว้ให้เธอเถอะ เดี๋ยวให้เธอถ่ายรูปตอนพวกเรากลับไปด้วย",
+          "en": "Keep it for her. She can take another when we get back."
+        }
+      }
+    ]
+  },
+  "town_return": {
+    "lines": [
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "ซุปอุ่นอยู่ ข้าเพิ่งเติมฟืน... สองรอบ",
+          "en": "Soup is warm. I just fed the fire. Twice."
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "th": "ขอบคุณค่ะ เผื่ออีกสามชามด้วย พวกเขากลับมากับเรา",
+          "en": "Thank you. Three more bowls, please. They came back with us."
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "th": "ยังไม่ครบ แต่วันนี้เราไม่เสียใครไป",
+          "en": "Not everyone yet. But we did not leave anyone behind today."
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "th": "งั้นนั่งเถอะ พรุ่งนี้ค่อยนับต่อ",
+          "en": "Then sit down. We count again tomorrow."
+        }
+      }
+    ]
+  },
+  "market_stargazer": {
+    "lines": [
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "เมื่อก่อนฉันขายแผนที่ดาว ตอนนี้ลูกค้าถามแต่คืนนี้จะมีอะไรตกลงมาอีกไหม",
+          "en": "I used to sell star maps. Now everyone asks what will fall tonight."
+        },
+        "display_name": {
+          "en": "Neris · Star cartographer",
+          "th": "เนริส · ช่างแผนที่ดาว"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "พวกเรานึกว่าเป็นดาวตก จนก้อนแรกคลานออกจากหลุม มันไม่มีตา แต่หันตามเสียงระฆัง",
+          "en": "We thought they were meteors. Then the first one crawled out. No eyes, but it followed the bells."
+        },
+        "cinematic": "skyfall",
+        "display_name": {
+          "en": "Neris · Star cartographer",
+          "th": "เนริส · ช่างแผนที่ดาว"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "คนเฝ้าหอเรียกมันว่าอสูรฟากฟ้า รอยแยกไม่ได้ส่งมาแค่พวกเธอ",
+          "en": "The tower keepers call them sky demons. The rift did not bring only you."
+        },
+        "cinematic": "skyfall",
+        "display_name": {
+          "en": "Neris · Star cartographer",
+          "th": "เนริส · ช่างแผนที่ดาว"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "th": "ถ้าผนึกบนอกมันสว่าง อย่าฟันซ้ำ หมุนอักขระตามจารึกให้ถูก แล้วแกนกลางจะเปิด",
+          "en": "When its chest seal lights up, stop striking. Turn the runes as the inscription says. That opens the core."
+        },
+        "display_name": {
+          "en": "Neris · Star cartographer",
+          "th": "เนริส · ช่างแผนที่ดาว"
+        }
+      }
+    ]
+  },
+  "market_courier": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "th": "จดหมายกองนี้ไม่มีคนรับแล้ว ฉันยังไม่กล้าเอาออกจากกระเป๋า",
+          "en": "Nobody can collect these letters now. I cannot bring myself to take them out of the bag."
+        },
+        "display_name": {
+          "en": "Tavi · Courier",
+          "th": "ทาวี · คนส่งจดหมาย"
+        }
+      },
+      {
+        "speaker": "c05",
+        "text": {
+          "th": "ถ้าผ่านหอแรก ฝากดูป้ายบ้านให้ที คนที่หนีมาจะได้รู้ว่าต้องกลับไปทางไหน",
+          "en": "If you pass the first tower, look for the house signs. The people here need to know which way home is."
+        },
+        "display_name": {
+          "en": "Tavi · Courier",
+          "th": "ทาวี · คนส่งจดหมาย"
+        }
+      }
+    ]
+  },
+  "market_guard": {
+    "lines": [
+      {
+        "speaker": "c02",
+        "text": {
+          "th": "ประตูตะวันออกยังปิดอยู่ แต่ตลาดเปิดถึงเสียงระฆังรอบสุดท้าย",
+          "en": "The eastern gate is closed. The market stays open until the last bell."
+        },
+        "display_name": {
+          "en": "Oren · East watch",
+          "th": "โอเรน · ยามตะวันออก"
+        }
+      },
+      {
+        "speaker": "c02",
+        "text": {
+          "th": "เมื่อคืนเราเห็นปีกบนเมฆ เช้ามาเจอรอยเท้าในทุ่ง ฉันว่าอย่าออกไปคนเดียว",
+          "en": "We saw wings in the clouds last night. This morning there were footprints in the field. Please do not go alone."
+        },
+        "display_name": {
+          "en": "Oren · East watch",
+          "th": "โอเรน · ยามตะวันออก"
+        }
+      }
+    ]
+  },
+  "market_lantern": {
+    "lines": [
+      {
+        "speaker": "c07",
+        "text": {
+          "th": "แม่บอกให้จุดโคมเผื่อคนหลงทาง ฉันเลยจุดสองดวง เผื่อเขามากับเพื่อน",
+          "en": "Mum said to light a lantern for someone lost. I lit two, in case they have a friend."
+        },
+        "display_name": {
+          "en": "Mira · Lantern apprentice",
+          "th": "มิรา · เด็กฝึกช่างโคม"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "th": "ไปฟังเพลงไหม คนเล่นชอบหยุดกลางท่อน รอให้เราตบมือต่อ",
+          "en": "Want to hear the music? He keeps stopping halfway, waiting for us to clap the next beat."
+        },
+        "display_name": {
+          "en": "Mira · Lantern apprentice",
+          "th": "มิรา · เด็กฝึกช่างโคม"
+        }
+      }
+    ]
+  },
+  "leila_square": {
+    "lines": [
+      {
+        "speaker": "c02",
+        "text": {
+          "th": "โล่นี่หนักกว่าที่คิด ถ้าฉันช้าลงหน่อย ช่วยรอกันด้วย",
+          "en": "This shield is heavier than it looks. If I slow down, wait for me."
+        }
+      },
+      {
+        "speaker": "c02",
+        "text": {
+          "th": "เรียกฉันเข้าทีมได้เลย ฉันจะยืนข้างหน้าเอง แต่อย่าลืมดูข้างหลังให้ด้วย",
+          "en": "Put me in the party. I will take the front. Just watch my back."
+        }
+      },
+      {
+        "speaker": "c02",
+        "text": {
+          "en": "Three quick attacks finish with a stagger. Dodge just before the warning lands and your next strike hits harder. Try it when we reach the field.",
+          "th": "โจมตีเบาต่อกันสามที ท่าสุดท้ายจะทำให้มันชะงัก ถ้าหลบก่อนวงเตือนระเบิดพอดี ดาบถัดไปจะแรงขึ้น ไปลองกันที่ทุ่งนะ"
+        }
+      }
+    ]
+  },
+  "rafael_square": {
+    "lines": [
+      {
+        "speaker": "c03",
+        "text": {
+          "th": "ฉันลองต่อวงจรบนดาบแล้ว มันช็อตข้ามตัวได้ ...ไม่ต้องถามว่ารู้ได้ยังไง",
+          "en": "I connected the marks on this sword. The spark jumps between targets. Do not ask how I found out."
+        }
+      },
+      {
+        "speaker": "c03",
+        "text": {
+          "th": "ถ้าศัตรูยืนติดกัน เรียกฉัน ถ้าเป็นก้อนหิน ...อย่าเรียก",
+          "en": "If they bunch up, call me. If it is a rock, do not."
+        }
+      }
+    ]
+  },
+  "hana_square": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "th": "ฉันทำกระเป๋าอีกใบหล่นใกล้ทางเข้าป่า รูปของพวกเราอยู่ในนั้น",
+          "en": "I dropped my other bag near the forest road. Our class photo is in it."
+        }
+      },
+      {
+        "speaker": "c05",
+        "text": {
+          "th": "ฉันไปด้วย ยิงจากข้างหลังน่าจะช่วยได้มากกว่าไปยืนบังพวกนาย",
+          "en": "I am coming. Shooting from the back should help more than getting in your way."
+        }
+      }
+    ]
+  },
+  "lantern_request": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "I dropped a metal case by the southern path. It rattled, and something in the trees rattled back. I ran.",
+          "th": "ฉันทำกล่องเหล็กหล่นตรงทางใต้ พอมันกระทบพื้น ในป่าก็มีเสียงเหมือนกันตอบกลับมา ฉันเลยวิ่ง"
+        },
+        "display_name": {
+          "en": "Tavi · Courier",
+          "th": "ทาวี · คนส่งจดหมาย"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "What was in it?",
+          "th": "ข้างในมีอะไรเหรอ"
+        }
+      },
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "A lens for Mira’s lantern. She keeps the light on for her mum. Please don’t promise her anything. Just... bring it to her if you find it.",
+          "th": "เลนส์โคมของมีรา เด็กคนนั้นจุดไฟรอแม่ทุกคืน อย่าเพิ่งไปสัญญาอะไรกับเธอนะ ถ้าเจอ ฝากเอากลับมาให้ก็พอ"
+        },
+        "display_name": {
+          "en": "Tavi · Courier",
+          "th": "ทาวี · คนส่งจดหมาย"
+        }
+      }
+    ],
+    "choice": {
+      "prompt": {
+        "en": "Tavi folds the empty delivery receipt.",
+        "th": "ทาวีพับใบส่งของที่ยังไม่มีลายเซ็น"
+      },
+      "options": [
+        {
+          "id": "lantern_accepted",
+          "flag": "lantern_accepted",
+          "text": {
+            "en": "I’ll check the southern path.",
+            "th": "ฉันจะลองหาตามทางใต้ให้"
+          }
+        },
+        {
+          "id": "lantern_later",
+          "flag": "lantern_later",
+          "text": {
+            "en": "I need to get the others ready first.",
+            "th": "ขอไปเตรียมตัวกับคนอื่นก่อนนะ"
+          }
+        }
+      ]
+    }
+  },
+  "lantern_wait": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "South of the archer’s lookout. Brass corners, a blue cord. Don’t follow the rattling off the path.",
+          "th": "ใต้จุดเฝ้าของพลธนู กล่องมีมุมทองเหลืองกับเชือกสีฟ้า ถ้าได้ยินเสียงอีก อย่าเดินตามมันออกนอกทางนะ"
+        },
+        "display_name": {
+          "en": "Tavi · Courier",
+          "th": "ทาวี · คนส่งจดหมาย"
+        }
+      }
+    ]
+  },
+  "lantern_case": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "That’s Tavi’s case. The cord is singed, but the lens is whole.",
+          "th": "กล่องของทาวี เชือกไหม้ไปนิด แต่เลนส์ยังอยู่ดี"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Something tapped it from the inside. Not the case—the glass. Let Mira know before she lights it.",
+          "th": "มีเสียงเคาะจากข้างใน ไม่ใช่กล่องนะ จากเลนส์ อย่าลืมบอกมีราก่อนเธอจุดไฟ"
+        }
+      }
+    ]
+  },
+  "lantern_found": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "You found it. Thank you. Mira’s stall is just west of here, by the hanging lanterns. Tell her I’m sorry I’m late.",
+          "th": "เจอแล้วเหรอ ขอบใจนะ ร้านมีราอยู่ถัดไปทางตะวันตก ตรงโคมที่แขวนอยู่ ฝากบอกด้วยว่าฉันขอโทษที่มาช้า"
+        },
+        "display_name": {
+          "en": "Tavi · Courier",
+          "th": "ทาวี · คนส่งจดหมาย"
+        }
+      }
+    ]
+  },
+  "lantern_delivery": {
+    "lines": [
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "That’s my blue cord! Did Tavi come back with you?",
+          "th": "เชือกฟ้าของหนูนี่! ทาวีกลับมาด้วยไหม"
+        },
+        "display_name": {
+          "en": "Mira · Lantern apprentice",
+          "th": "มีรา · เด็กฝึกช่างโคม"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "She’s at the next stall. The lens made a sound when we picked it up.",
+          "th": "อยู่ร้านถัดไปนี่เอง ตอนเก็บเลนส์มันมีเสียงด้วย"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "The old lenses do that. The sky things hear them. Mum marked three safe turns on the base. Could you hold it steady while I line them up?",
+          "th": "เลนส์เก่าเป็นแบบนั้น อสูรฟ้าได้ยินมัน แม่ทำเครื่องหมายปรับแสงที่ปลอดภัยไว้สามจุด ช่วยจับโคมให้หน่อยได้ไหม"
+        },
+        "display_name": {
+          "en": "Mira · Lantern apprentice",
+          "th": "มีรา · เด็กฝึกช่างโคม"
+        }
+      }
+    ]
+  },
+  "lantern_after": {
+    "lines": [
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "See? The light stays still now. I can leave it on without ringing the glass.",
+          "th": "ดูสิ แสงนิ่งแล้ว จุดไว้ได้โดยแก้วไม่ส่งเสียงเรียก"
+        },
+        "display_name": {
+          "en": "Mira · Lantern apprentice",
+          "th": "มีรา · เด็กฝึกช่างโคม"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "I’m still going to wait. But I’ll go in when it gets cold. Promise.",
+          "th": "หนูยังจะรออยู่นะ แต่ถ้าหนาวจะเข้าบ้าน สัญญา"
+        },
+        "display_name": {
+          "en": "Mira · Lantern apprentice",
+          "th": "มีรา · เด็กฝึกช่างโคม"
+        }
+      }
+    ]
+  },
+  "lantern_guard_after": {
+    "lines": [
+      {
+        "speaker": "c02",
+        "text": {
+          "en": "Mira’s light held all night. Three families followed it off the road. I put another watch by her stall.",
+          "th": "โคมมีราสว่างทั้งคืน มีสามครอบครัวเดินตามแสงเข้ามา ข้าเพิ่มยามเฝ้าข้างร้านแล้ว"
+        },
+        "display_name": {
+          "en": "Oren · East watch",
+          "th": "โอเรน · ยามตะวันออก"
+        }
+      }
+    ]
+  },
+  "respite_3": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Above the tower, a broken light closes. For one evening, nothing falls from the sky.",
+          "th": "เหนือยอดหอคอย แสงที่แตกร้าวค่อย ๆ ดับ เย็นวันนั้นไม่มีอะไรตกลงมาจากฟ้า"
+        },
+        "cinematic": "skyfall"
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Those things on the road... they fell out of the same tear that brought us here?",
+          "th": "พวกที่เราเจอบนถนน... มันตกมาจากรอยแยกเดียวกับที่พาเรามาที่นี่เหรอ?"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "Yes. We used to ring the bells when it opened. Now we barely have time to run.",
+          "th": "ใช่ เมื่อก่อนเรายังมีเวลาตีระฆังเตือน เดี๋ยวนี้แค่วิ่งหนีก็แทบไม่ทัน"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Sit down. Your hand is shaking. I saved you a bowl.",
+          "th": "นั่งก่อนเถอะ มือสั่นแล้ว ฉันเก็บซุปไว้ให้ถ้วยหนึ่ง"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Five minutes. Maybe ten. Then we decide who comes with us.",
+          "th": "ขอห้านาที... สิบนาทีก็ได้ แล้วค่อยคุยกันว่าใครจะไปต่อ"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "No hurry tonight. The market is open. When you are ready, I will meet you at the gold gate.",
+          "th": "คืนนี้ไม่ต้องรีบ ตลาดยังเปิดอยู่ พร้อมเมื่อไหร่ค่อยไปเจอกันที่ประตูทอง"
+        }
+      }
+    ]
+  },
+  "respite_5": {
+    "lines": [
+      {
+        "speaker": "c03",
+        "text": {
+          "en": "I can still hear the furnace. Does anyone else hear it?",
+          "th": "ฉันยังได้ยินเสียงเตาหลอมอยู่เลย คนอื่นได้ยินไหม?"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Only the kettle. Come help me before it boils dry.",
+          "th": "มีแต่เสียงกาต้มน้ำ มาช่วยยกหน่อยก่อนมันจะแห้ง"
+        }
+      },
+      {
+        "speaker": "c03",
+        "text": {
+          "en": "Right. Something I can fix without a sword.",
+          "th": "เออ... อย่างน้อยเรื่องนี้ก็ไม่ต้องใช้ดาบแก้"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Hearthwell is safe. Rest, change your party or visit the market. The gold gate continues your journey.",
+          "th": "ฮาร์ธเวลปลอดภัย พัก เปลี่ยนเพื่อนร่วมทาง หรือแวะตลาดได้ เมื่อพร้อมให้ไปที่ประตูทองเพื่อเดินทางต่อ"
+        }
+      }
+    ]
+  },
+  "respite_6": {
+    "lines": [
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "I copied the names from the archive. Some of them are children.",
+          "th": "ฉันคัดชื่อจากหอจดหมายเหตุมาด้วย บางชื่อยังเป็นเด็กอยู่เลย"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "Leave the list with me. I know families who are still waiting.",
+          "th": "ฝากรายชื่อไว้กับข้า มีหลายบ้านที่ยังรอข่าวอยู่"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Keep the original dry. Please.",
+          "th": "อย่าให้ต้นฉบับเปียกนะ... ฝากด้วย"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Hearthwell is safe. Rest, change your party or visit the market. The gold gate continues your journey.",
+          "th": "ฮาร์ธเวลปลอดภัย พัก เปลี่ยนเพื่อนร่วมทาง หรือแวะตลาดได้ เมื่อพร้อมให้ไปที่ประตูทองเพื่อเดินทางต่อ"
+        }
+      }
+    ]
+  },
+  "respite_7": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "My boots are full of tower water. I am not walking another step.",
+          "th": "น้ำในหอคอยเข้ารองเท้าเต็มเลย ไม่เดินแล้วนะ"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Then do not. The road can wait until morning.",
+          "th": "งั้นก็ไม่ต้องเดิน ถนนไม่ได้หนีไปไหนหรอก"
+        }
+      },
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "Good. I saw a tailor in the market.",
+          "th": "ดีเลย เห็นร้านตัดชุดอยู่ในตลาดพอดี"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Hearthwell is safe. Rest, change your party or visit the market. The gold gate continues your journey.",
+          "th": "ฮาร์ธเวลปลอดภัย พัก เปลี่ยนเพื่อนร่วมทาง หรือแวะตลาดได้ เมื่อพร้อมให้ไปที่ประตูทองเพื่อเดินทางต่อ"
+        }
+      }
+    ]
+  },
+  "respite_9": {
+    "lines": [
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Nobody sang on the way back.",
+          "th": "ขากลับไม่มีใครร้องเพลงเลย"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "After that choir? I needed the quiet.",
+          "th": "เพิ่งเจอคณะประสานเสียงแบบนั้นมา ขอเงียบสักพักเถอะ"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "Take the benches by the fire. I will keep the musician on the other side of the square.",
+          "th": "นั่งม้านั่งข้างไฟเถอะ ข้าจะบอกนักดนตรีให้เล่นอีกฝั่งของลาน"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Hearthwell is safe. Rest, change your party or visit the market. The gold gate continues your journey.",
+          "th": "ฮาร์ธเวลปลอดภัย พัก เปลี่ยนเพื่อนร่วมทาง หรือแวะตลาดได้ เมื่อพร้อมให้ไปที่ประตูทองเพื่อเดินทางต่อ"
+        }
+      }
+    ]
+  },
+  "respite_10": {
+    "lines": [
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "That is the last gate behind us. One more tower.",
+          "th": "ประตูสุดท้ายอยู่ข้างหลังเราแล้ว เหลืออีกหอคอยเดียว"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Then everyone eats first. I will not carry you up the stairs hungry.",
+          "th": "งั้นทุกคนต้องกินก่อน ฉันไม่แบกคนหิวขึ้นบันไดหรอกนะ"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Fair. Save me a seat.",
+          "th": "ก็ได้ เก็บที่ไว้ให้ด้วย"
+        }
+      },
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Hearthwell is safe. Rest, change your party or visit the market. The gold gate continues your journey.",
+          "th": "ฮาร์ธเวลปลอดภัย พัก เปลี่ยนเพื่อนร่วมทาง หรือแวะตลาดได้ เมื่อพร้อมให้ไปที่ประตูทองเพื่อเดินทางต่อ"
+        }
+      }
+    ]
+  },
+  "royal_summoning": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Cold marble. A ringing in your ears. Thirty students stand inside a circle of light, watched by a hall full of strangers.",
+          "th": "พื้นหินเย็นเฉียบ เสียงหึ่งยังค้างอยู่ในหู นักเรียนสามสิบคนยืนอยู่ในวงแสง ท่ามกลางสายตาของคนเต็มท้องพระโรง"
+        },
+        "cinematic": "royal_summoning"
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Arun... this is not the exhibition hall. Where did the windows go?",
+          "th": "อรุณ... นี่ไม่ใช่ห้องจัดนิทรรศการ หน้าต่างเมื่อกี้หายไปไหน"
+        },
+        "focus": [
+          800,
+          540
+        ]
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Stay where you are. Let me count. Twenty-eight, twenty-nine... thirty. We are all here.",
+          "th": "อย่าเพิ่งเดินไปไหน ขอฉันนับก่อน ยี่สิบแปด ยี่สิบเก้า... สามสิบ อยู่ครบ"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "My name is Vaelis, archmage of Aurelion. I cast the summoning. You are in our king’s hall.",
+          "th": "ข้าชื่อเวลีส จอมเวทย์แห่งอาณาจักรออเรเลียน ข้าเป็นผู้ร่ายมนตร์อัญเชิญพวกเจ้า ที่นี่คือท้องพระโรงของราชาเรา"
+        },
+        "focus": [
+          860,
+          300
+        ]
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "You brought us here? Then send us back. Some of our parents are waiting outside school.",
+          "th": "คุณพาพวกเรามาเหรอ งั้นส่งกลับเถอะครับ พ่อแม่บางคนยังรออยู่หน้าโรงเรียน"
+        }
+      },
+      {
+        "speaker": "chancellor",
+        "text": {
+          "en": "Your Majesty, the ritual called for champions. These are children.",
+          "th": "ฝ่าบาท พิธีนี้ควรเรียกผู้กล้ามา แต่พวกเขายังเป็นเด็ก"
+        },
+        "focus": [
+          1050,
+          300
+        ]
+      },
+      {
+        "speaker": "king",
+        "text": {
+          "en": "Then stop calling them champions. Vaelis, tell them what you did. All of it.",
+          "th": "เช่นนั้นก็เลิกเรียกพวกเขาว่าผู้กล้า เวลีส บอกพวกเขาว่าเจ้าทำอะไรลงไป บอกให้หมด"
+        },
+        "focus": [
+          800,
+          210
+        ]
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The towers hold the sky closed. Three nights ago, something broke through. Our spells cannot touch the wounds it leaves.",
+          "th": "หอคอยคอยปิดรอยแยกบนฟ้าไว้ สามคืนก่อนมีบางสิ่งทะลุลงมา เวทของเราแตะต้องบาดแผลที่มันฝากไว้ไม่ได้"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The old rite seeks lives untouched by our magic. I hoped it would find people who could help. I did not know it would take a whole class.",
+          "th": "พิธีเก่าตามหาคนที่ไม่เคยรับเวทของโลกนี้ ข้าหวังว่าจะพบคนช่วยเราได้ แต่ข้าไม่รู้ว่ามันจะดึงเด็กมาทั้งห้อง"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "And our clothes? This thing on my wrist will not come off.",
+          "th": "แล้วเสื้อผ้าพวกนี้ล่ะคะ ของที่ข้อมือหนูก็ถอดไม่ออก"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "The circle wrapped you in its wards. They are meant to keep you alive here. I should have asked. I had no way to ask.",
+          "th": "วงเวทห่อหุ้มพวกเจ้าด้วยเครื่องคุ้มกัน เพื่อให้มีชีวิตอยู่ในโลกนี้ได้ ข้าควรถามพวกเจ้าก่อน... แต่ข้าไม่มีทางถาม"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "That does not make it all right. Can you take us home or not?",
+          "th": "มันก็ไม่ได้ทำให้เรื่องนี้ถูกนะคะ ตกลงพาพวกเรากลับได้ไหม"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "Not while the towers are failing. I will not lie to you about that.",
+          "th": "ตราบใดที่หอคอยยังพังลงเรื่อย ๆ ข้าทำไม่ได้ ข้าจะไม่โกหกเรื่องนี้"
+        }
+      },
+      {
+        "speaker": "king",
+        "text": {
+          "en": "No one here will be forced to fight. You will have food, rooms, and a way to contact me. Orven, put that in writing.",
+          "th": "จะไม่มีใครถูกบังคับให้รบ พวกเจ้าจะมีอาหาร ที่พัก และทางติดต่อข้า ออร์เวน จดคำสั่งนี้ไว้"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "Then give us a minute. We need to talk to each other before anyone decides anything for us again.",
+          "th": "งั้นขอเวลาพวกเราหน่อยครับ ให้เราได้คุยกัน ก่อนจะมีใครตัดสินใจแทนพวกเราอีก"
+        },
+        "focus": [
+          800,
+          540
+        ]
+      }
+    ]
+  },
+  "forest_arrival": {
+    "lines": [
+      {
+        "speaker": "narrator",
+        "text": {
+          "en": "Wet leaves replace the marble. The gateway closes with the sound of a snapped string. No palace. No king. Only trees.",
+          "th": "พื้นหินกลายเป็นใบไม้เปียก ประตูปิดลงพร้อมเสียงเหมือนสายดนตรีขาด ปราสาทหายไปแล้ว เหลือแต่ต้นไม้"
+        },
+        "cinematic": "forest_arrival"
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "Arun, answer me. Can you stand?",
+          "th": "อรุณ ตอบฉันหน่อย ยืนไหวไหม"
+        },
+        "focus": [
+          220,
+          500
+        ]
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "I am here. Mei? ...Where are the rest?",
+          "th": "ฉันอยู่นี่ เมยล่ะ? ...แล้วคนอื่นไปไหน"
+        }
+      },
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Here. I had Hana’s hand. I had it right up until—",
+          "th": "อยู่นี่ ฉันจับมือฮานะอยู่ จับไว้จนถึงเมื่อกี้..."
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "Keep your voices low. I am Sera, Hearthwell watch. We saw several lights fall along the road.",
+          "th": "เบาเสียงหน่อย ข้าเซรา ยามเมืองฮาร์ธเวล เราเห็นแสงหลายจุดตกลงมาตามถนน"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "There were thirty of us. Please do not stop looking after you find a few.",
+          "th": "พวกเรามีสามสิบคนนะคะ ได้โปรด อย่าหยุดหาแค่เพราะเจอสักสองสามคน"
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "I will send runners. First, get to the lantern by the eastern trail. There is shelter beyond it. This clearing is safe for now.",
+          "th": "ข้าจะส่งคนออกไป ก่อนอื่นไปที่โคมตรงทางตะวันออก มีที่พักอยู่ถัดไป ลานนี้ยังปลอดภัย ไม่ต้องรีบจนล้ม"
+        }
+      }
+    ]
+  },
+  "forest_departure": {
+    "lines": [
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "There is a camera charm on Hana’s bag. If your patrol sees it—",
+          "th": "กระเป๋าฮานะมีพวงกุญแจรูปกล้อง ถ้าคนของคุณเห็น..."
+        }
+      },
+      {
+        "speaker": "n01",
+        "text": {
+          "en": "A little camera. I will tell them. Come on; the town gate is just ahead.",
+          "th": "กล้องเล็ก ๆ ข้าจะบอกให้ มากันเถอะ ประตูเมืองอยู่ข้างหน้านี่เอง"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "We find everyone. Then we ask the archmage how to get home. In that order.",
+          "th": "หาให้ครบทุกคนก่อน แล้วค่อยไปถามจอมเวทย์ว่าจะกลับบ้านยังไง เอาตามนี้นะ"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "And we eat something first. You are shaking.",
+          "th": "แล้วก็หาอะไรกินก่อนด้วย นายมือสั่นแล้ว"
+        }
+      }
+    ]
+  },
+  "court_king": {
+    "lines": [
+      {
+        "speaker": "king",
+        "text": {
+          "en": "A crown does not make this your burden. If anyone claims otherwise, give them my name.",
+          "th": "มงกุฎของข้าไม่ได้ทำให้เรื่องนี้เป็นหน้าที่ของพวกเจ้า ถ้าใครบอกเช่นนั้น ให้เขามาคุยกับข้า"
+        }
+      },
+      {
+        "speaker": "c01",
+        "text": {
+          "en": "I will remember that.",
+          "th": "ผมจะจำไว้ครับ"
+        }
+      }
+    ]
+  },
+  "court_archmage": {
+    "lines": [
+      {
+        "speaker": "c04",
+        "text": {
+          "en": "Did you know our names before you brought us here?",
+          "th": "ก่อนพาพวกเรามา คุณรู้จักชื่อพวกเราหรือเปล่าคะ"
+        }
+      },
+      {
+        "speaker": "archmage",
+        "text": {
+          "en": "No. I want to learn them now. Not as marks in a spell. As people.",
+          "th": "ไม่เลย ข้าอยากรู้จักพวกเจ้าตอนนี้ ไม่ใช่ในฐานะรอยตราในบทเวท แต่ในฐานะคน"
+        }
+      }
+    ]
+  },
+  "court_noble": {
+    "lines": [
+      {
+        "speaker": "lady",
+        "text": {
+          "en": "My son was stationed at the northern tower. I have not had a letter in six days.",
+          "th": "ลูกชายข้าประจำอยู่หอคอยเหนือ หกวันแล้วที่ไม่มีจดหมายมา"
+        }
+      },
+      {
+        "speaker": "lord",
+        "text": {
+          "en": "They have only just arrived, Mereth. Let them breathe.",
+          "th": "พวกเขาเพิ่งมาถึง เมเร็ธ ให้เด็ก ๆ ได้ตั้งตัวก่อน"
+        }
+      }
+    ]
+  },
+  "royal_peer_0": {
+    "lines": [
+      {
+        "speaker": "c02",
+        "text": {
+          "en": "I counted the doors. Two guards at each. We should stay where we can see one another.",
+          "th": "ฉันนับประตูแล้ว มีทหารเฝ้าทุกบาน อยู่ในที่ที่มองเห็นกันไว้ก่อน"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "royal_peer_1": {
+    "lines": [
+      {
+        "speaker": "c03",
+        "text": {
+          "en": "I thought it was a stage effect. Then I touched the floor. It is really stone.",
+          "th": "ฉันนึกว่าเป็นเอฟเฟกต์บนเวที จนจับพื้นดู มันเป็นหินจริง ๆ"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "royal_peer_2": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "My camera is still in my bag. If we get home, nobody will believe this.",
+          "th": "กล้องยังอยู่ในกระเป๋าฉัน ถ้าได้กลับบ้าน ไม่มีใครเชื่อแน่"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "royal_peer_3": {
+    "lines": [
+      {
+        "speaker": "c06",
+        "text": {
+          "en": "Even the birds outside sound wrong. I would give anything to hear the school bell.",
+          "th": "เสียงนกข้างนอกยังไม่เหมือนเดิมเลย ตอนนี้ได้ยินเสียงกริ่งโรงเรียนคงดี"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "royal_peer_4": {
+    "lines": [
+      {
+        "speaker": "c08",
+        "text": {
+          "en": "I keep checking my phone. No signal. I know, but I keep checking.",
+          "th": "ฉันเช็กโทรศัพท์อยู่เรื่อยเลย รู้ว่าไม่มีสัญญาณ แต่ก็ยังเช็ก"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "royal_peer_5": {
+    "lines": [
+      {
+        "speaker": "c09",
+        "text": {
+          "en": "The clock stopped at four seventeen. Keep that in mind. It might matter.",
+          "th": "นาฬิกาหยุดตอนสี่โมงสิบเจ็ด จำไว้หน่อย อาจสำคัญก็ได้"
+        }
+      },
+      {
+        "speaker": "c07",
+        "text": {
+          "en": "We are here with you. Nobody goes anywhere alone.",
+          "th": "พวกเราอยู่ด้วยนะ อย่าไปไหนคนเดียว"
+        }
+      }
+    ]
+  },
+  "court_peer_c02": {
+    "lines": [
+      {
+        "speaker": "c02",
+        "text": {
+          "en": "I counted the doors. Two guards at each. We should stay where we can see one another.",
+          "th": "ฉันนับประตูแล้ว มีทหารเฝ้าทุกบาน อยู่ในที่ที่มองเห็นกันไว้ก่อน"
+        }
+      }
+    ]
+  },
+  "court_peer_c03": {
+    "lines": [
+      {
+        "speaker": "c03",
+        "text": {
+          "en": "I thought it was a stage effect. Then I touched the floor. It is really stone.",
+          "th": "ฉันนึกว่าเป็นเอฟเฟกต์บนเวที จนจับพื้นดู มันเป็นหินจริง ๆ"
+        }
+      }
+    ]
+  },
+  "court_peer_c05": {
+    "lines": [
+      {
+        "speaker": "c05",
+        "text": {
+          "en": "My camera is still in my bag. If we get home, nobody will believe this.",
+          "th": "กล้องยังอยู่ในกระเป๋าฉัน ถ้าได้กลับบ้าน ไม่มีใครเชื่อแน่"
+        }
+      }
+    ]
+  },
+  "court_peer_c06": {
+    "lines": [
+      {
+        "speaker": "c06",
+        "text": {
+          "en": "Even the birds outside sound wrong. I would give anything to hear the school bell.",
+          "th": "เสียงนกข้างนอกยังไม่เหมือนเดิมเลย ตอนนี้ได้ยินเสียงกริ่งโรงเรียนคงดี"
+        }
+      }
+    ]
+  },
+  "court_peer_c08": {
+    "lines": [
+      {
+        "speaker": "c08",
+        "text": {
+          "en": "I keep checking my phone. No signal. I know, but I keep checking.",
+          "th": "ฉันเช็กโทรศัพท์อยู่เรื่อยเลย รู้ว่าไม่มีสัญญาณ แต่ก็ยังเช็ก"
+        }
+      }
+    ]
+  },
+  "court_peer_c09": {
+    "lines": [
+      {
+        "speaker": "c09",
+        "text": {
+          "en": "The clock stopped at four seventeen. Keep that in mind. It might matter.",
+          "th": "นาฬิกาหยุดตอนสี่โมงสิบเจ็ด จำไว้หน่อย อาจสำคัญก็ได้"
+        }
+      }
+    ]
+  },
+  "court_peer_c10": {
+    "lines": [
+      {
+        "speaker": "c10",
+        "text": {
+          "en": "Is everyone breathing normally? Tell me if your chest hurts.",
+          "th": "ทุกคนหายใจปกติไหม ถ้าเจ็บหน้าอกบอกนะ"
+        }
+      }
+    ]
+  },
+  "court_peer_c11": {
+    "lines": [
+      {
+        "speaker": "c11",
+        "text": {
+          "en": "That chandelier is floating. No wires. I checked.",
+          "th": "โคมไฟนั่นลอยอยู่ ไม่มีลวดเลย ฉันดูแล้ว"
+        }
+      }
+    ]
+  },
+  "court_peer_c12": {
+    "lines": [
+      {
+        "speaker": "c12",
+        "text": {
+          "en": "I want to sit down, but I cannot stop looking at the ceiling.",
+          "th": "อยากนั่งลงนะ แต่หยุดมองเพดานไม่ได้เลย"
+        }
+      }
+    ]
+  },
+  "court_peer_c13": {
+    "lines": [
+      {
+        "speaker": "c13",
+        "text": {
+          "en": "My flask came with me. The water tastes the same, at least.",
+          "th": "กระติกน้ำตามมาด้วย อย่างน้อยน้ำก็รสชาติเดิม"
+        }
+      }
+    ]
+  },
+  "court_peer_c14": {
+    "lines": [
+      {
+        "speaker": "c14",
+        "text": {
+          "en": "This is not a dream. I already pinched myself. Twice.",
+          "th": "นี่ไม่ใช่ฝัน ฉันหยิกตัวเองไปแล้ว สองรอบ"
+        }
+      }
+    ]
+  },
+  "court_peer_c15": {
+    "lines": [
+      {
+        "speaker": "c15",
+        "text": {
+          "en": "Please tell me nobody left a pet locked in their room.",
+          "th": "บอกทีว่าไม่มีใครขังสัตว์เลี้ยงไว้ในห้อง"
+        }
+      }
+    ]
+  },
+  "court_peer_c16": {
+    "lines": [
+      {
+        "speaker": "c16",
+        "text": {
+          "en": "I had a test tomorrow. I actually studied this time.",
+          "th": "พรุ่งนี้ฉันมีสอบนะ อุตส่าห์อ่านมาครั้งนี้"
+        }
+      }
+    ]
+  },
+  "court_peer_c17": {
+    "lines": [
+      {
+        "speaker": "c17",
+        "text": {
+          "en": "Does anybody have a pen? Mine disappeared with my jacket.",
+          "th": "ใครมีปากกาบ้าง ของฉันหายไปพร้อมเสื้อแจ็กเก็ต"
+        }
+      }
+    ]
+  },
+  "court_peer_c18": {
+    "lines": [
+      {
+        "speaker": "c18",
+        "text": {
+          "en": "The guards look scared too. That makes it worse.",
+          "th": "ทหารก็ดูกลัวเหมือนกัน แบบนี้ยิ่งแย่เลย"
+        }
+      }
+    ]
+  },
+  "court_peer_c19": {
+    "lines": [
+      {
+        "speaker": "c19",
+        "text": {
+          "en": "I am keeping this ribbon. It is the only thing that still feels like mine.",
+          "th": "ฉันจะเก็บริบบิ้นนี่ไว้ เป็นอย่างเดียวที่ยังรู้สึกว่าเป็นของฉัน"
+        }
+      }
+    ]
+  },
+  "court_peer_c20": {
+    "lines": [
+      {
+        "speaker": "c20",
+        "text": {
+          "en": "Do not bow just because everyone else is bowing.",
+          "th": "ไม่ต้องก้มตามเขาก็ได้ ไม่รู้ด้วยซ้ำว่าทำอะไรกัน"
+        }
+      }
+    ]
+  },
+  "court_peer_c21": {
+    "lines": [
+      {
+        "speaker": "c21",
+        "text": {
+          "en": "Could somebody stand on my left? I cannot see well on that side.",
+          "th": "ใครมายืนซ้ายฉันหน่อย ฝั่งนั้นฉันมองไม่ค่อยเห็น"
+        }
+      }
+    ]
+  },
+  "court_peer_c22": {
+    "lines": [
+      {
+        "speaker": "c22",
+        "text": {
+          "en": "I remember the rain. It stopped halfway through a sound.",
+          "th": "จำเสียงฝนได้ มันขาดไปกลางเสียงเลย"
+        }
+      }
+    ]
+  },
+  "court_peer_c23": {
+    "lines": [
+      {
+        "speaker": "c23",
+        "text": {
+          "en": "The circle is warm now. It was freezing a minute ago.",
+          "th": "วงเวทอุ่นขึ้นแล้ว เมื่อกี้ยังเย็นจัดอยู่เลย"
+        }
+      }
+    ]
+  },
+  "court_peer_c24": {
+    "lines": [
+      {
+        "speaker": "c24",
+        "text": {
+          "en": "I have never held a weapon. I wish they had given me a coat instead.",
+          "th": "ไม่เคยจับอาวุธเลย อยากให้เป็นเสื้อคลุมมากกว่า"
+        }
+      }
+    ]
+  },
+  "court_peer_c25": {
+    "lines": [
+      {
+        "speaker": "c25",
+        "text": {
+          "en": "Look at me, not the guards. In slowly. Out slowly.",
+          "th": "มองฉันไว้ ไม่ต้องมองทหาร หายใจเข้าช้า ๆ แล้วค่อยปล่อย"
+        }
+      }
+    ]
+  },
+  "court_peer_c26": {
+    "lines": [
+      {
+        "speaker": "c26",
+        "text": {
+          "en": "If anyone asks, we answer together. Nobody volunteers the others.",
+          "th": "ถ้าเขาถามอะไร เราตอบด้วยกันนะ อย่าไปอาสาแทนเพื่อน"
+        }
+      }
+    ]
+  },
+  "court_peer_c27": {
+    "lines": [
+      {
+        "speaker": "c27",
+        "text": {
+          "en": "I cannot remember the last thing I said to my brother.",
+          "th": "นึกไม่ออกว่าพูดอะไรกับน้องเป็นคำสุดท้าย"
+        }
+      }
+    ]
+  },
+  "court_peer_c28": {
+    "lines": [
+      {
+        "speaker": "c28",
+        "text": {
+          "en": "That woman said she did not mean to take us. She still did it.",
+          "th": "เธอบอกไม่ได้ตั้งใจพาพวกเรามา แต่ก็ทำไปแล้ว"
+        }
+      }
+    ]
+  },
+  "court_peer_c29": {
+    "lines": [
+      {
+        "speaker": "c29",
+        "text": {
+          "en": "My hands keep shaking. Can you hold this for a second?",
+          "th": "มือสั่นไม่หยุดเลย ฝากถืออันนี้แป๊บนึงได้ไหม"
+        }
+      }
+    ]
+  },
+  "court_peer_c30": {
+    "lines": [
+      {
+        "speaker": "c30",
+        "text": {
+          "en": "When we get home, I am taking the long way back. Past the bakery.",
+          "th": "ถ้าได้กลับบ้าน ฉันจะเดินอ้อมผ่านร้านขนมปังด้วย"
+        }
+      }
+    ]
+  }
+}

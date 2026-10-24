@@ -1,0 +1,19 @@
+{
+  "cell": 64,
+  "frames": 8,
+  "rows": [
+    "slash",
+    "impact",
+    "burst",
+    "ring",
+    "heal",
+    "dodge",
+    "lightning",
+    "bolt",
+    "arrow",
+    "hostile"
+  ],
+  "source": "tools/build_vertical_vfx.py",
+  "provenance": "Original authored Astral Veil pixel effect artwork; no third-party asset pack",
+  "texture_bytes": 38849
+}

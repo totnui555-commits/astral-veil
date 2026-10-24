@@ -1,0 +1,1775 @@
+{
+  "version": 1,
+  "native_ground_size": [
+    800,
+    500
+  ],
+  "world_ground_size": [
+    1600,
+    1000
+  ],
+  "atlas": "prop_atlas.png",
+  "atlas_size": [
+    1254,
+    1254
+  ],
+  "definitions": {
+    "oak": {
+      "region": [
+        0,
+        0,
+        367,
+        348
+      ],
+      "anchor": [
+        179,
+        332
+      ],
+      "scale": 0.50016
+    },
+    "birch": {
+      "region": [
+        367,
+        0,
+        257,
+        347
+      ],
+      "anchor": [
+        132,
+        328
+      ],
+      "scale": 0.51037
+    },
+    "cedar": {
+      "region": [
+        623,
+        0,
+        351,
+        347
+      ],
+      "anchor": [
+        180,
+        331
+      ],
+      "scale": 0.51037
+    },
+    "stump": {
+      "region": [
+        972,
+        126,
+        266,
+        227
+      ],
+      "anchor": [
+        140,
+        211
+      ],
+      "scale": 0.28581
+    },
+    "rock": {
+      "region": [
+        32,
+        370,
+        319,
+        257
+      ],
+      "anchor": [
+        144,
+        229
+      ],
+      "scale": 0.24498
+    },
+    "crystal": {
+      "region": [
+        369,
+        353,
+        245,
+        269
+      ],
+      "anchor": [
+        121,
+        244
+      ],
+      "scale": 0.29601
+    },
+    "pillar": {
+      "region": [
+        684,
+        337,
+        226,
+        284
+      ],
+      "anchor": [
+        114,
+        262
+      ],
+      "scale": 0.40829
+    },
+    "desk": {
+      "region": [
+        968,
+        391,
+        251,
+        224
+      ],
+      "anchor": [
+        127,
+        205
+      ],
+      "scale": 0.26539
+    },
+    "house": {
+      "region": [
+        0,
+        602,
+        393,
+        332
+      ],
+      "anchor": [
+        203,
+        307
+      ],
+      "scale": 0.57161
+    },
+    "thorn_pillar": {
+      "region": [
+        385,
+        619,
+        244,
+        314
+      ],
+      "anchor": [
+        121,
+        287
+      ],
+      "scale": 0.42871
+    },
+    "lamp": {
+      "region": [
+        689,
+        603,
+        202,
+        332
+      ],
+      "anchor": [
+        105,
+        312
+      ],
+      "scale": 0.30622
+    },
+    "flowers": {
+      "region": [
+        926,
+        719,
+        320,
+        222
+      ],
+      "anchor": [
+        160,
+        200
+      ],
+      "scale": 0.22456
+    },
+    "banner": {
+      "region": [
+        92,
+        911,
+        185,
+        307
+      ],
+      "anchor": [
+        96,
+        289
+      ],
+      "scale": 0.30622
+    },
+    "bookcase": {
+      "region": [
+        356,
+        936,
+        229,
+        287
+      ],
+      "anchor": [
+        116,
+        264
+      ],
+      "scale": 0.32663
+    },
+    "fallen": {
+      "region": [
+        610,
+        962,
+        342,
+        262
+      ],
+      "anchor": [
+        170,
+        234
+      ],
+      "scale": 0.22456
+    },
+    "ferns": {
+      "region": [
+        943,
+        963,
+        288,
+        265
+      ],
+      "anchor": [
+        139,
+        238
+      ],
+      "scale": 0.23477
+    },
+    "oak_canopy": {
+      "region": [
+        0,
+        0,
+        367,
+        233
+      ],
+      "anchor": [
+        179,
+        208
+      ],
+      "scale": 0.50016
+    },
+    "birch_canopy": {
+      "region": [
+        367,
+        0,
+        257,
+        233
+      ],
+      "anchor": [
+        132,
+        208
+      ],
+      "scale": 0.51037
+    },
+    "cedar_canopy": {
+      "region": [
+        623,
+        0,
+        351,
+        233
+      ],
+      "anchor": [
+        180,
+        208
+      ],
+      "scale": 0.51037
+    }
+  },
+  "placements": {
+    "0": [
+      {
+        "kind": "desk",
+        "pos": [
+          430,
+          166
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          570,
+          166
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          710,
+          166
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          850,
+          166
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          990,
+          166
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          1130,
+          166
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          430,
+          306
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          570,
+          306
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          710,
+          306
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          850,
+          306
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          990,
+          306
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          1130,
+          306
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          430,
+          446
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          570,
+          446
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          710,
+          446
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          850,
+          446
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          990,
+          446
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          1130,
+          446
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          430,
+          586
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          570,
+          586
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          710,
+          586
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          850,
+          586
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          990,
+          586
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          1130,
+          586
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          430,
+          726
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          570,
+          726
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          710,
+          726
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          850,
+          726
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          990,
+          726
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "desk",
+        "pos": [
+          1130,
+          726
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "bookcase",
+        "pos": [
+          92,
+          54
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.22
+      },
+      {
+        "kind": "bookcase",
+        "pos": [
+          1360,
+          54
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.22
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          90,
+          100
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.12
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          1500,
+          100
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.12
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          85,
+          905
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.12
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          1500,
+          905
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.12
+      }
+    ],
+    "1": [
+      {
+        "kind": "pillar",
+        "pos": [
+          500,
+          224
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          500,
+          804
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          224
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          804
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1100,
+          224
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1100,
+          804
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "house",
+        "pos": [
+          300,
+          284
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "house",
+        "pos": [
+          1280,
+          844
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          90,
+          100
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          1500,
+          100
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          90,
+          900
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          1500,
+          900
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          695,
+          90
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          940,
+          915
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "banner",
+        "pos": [
+          140,
+          80
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "banner",
+        "pos": [
+          1440,
+          880
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "banner",
+        "pos": [
+          1390,
+          95
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "banner",
+        "pos": [
+          130,
+          890
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          530,
+          95
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.23
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          1125,
+          910
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.23
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          220,
+          725
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.23
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          1410,
+          275
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.23
+      }
+    ],
+    "2": [
+      {
+        "kind": "oak",
+        "pos": [
+          430,
+          266
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          760,
+          226
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1090,
+          266
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          450,
+          796
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          800,
+          816
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1120,
+          786
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          198
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          228
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          838
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          808
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          138
+        ],
+        "fade": false,
+        "solid_visual": false
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          888
+        ],
+        "fade": false,
+        "solid_visual": false
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          45,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch_canopy",
+        "pos": [
+          98,
+          117
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          151,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak_canopy",
+        "pos": [
+          204,
+          106
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch_canopy",
+        "pos": [
+          257,
+          121
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          310,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak_canopy",
+        "pos": [
+          363,
+          102
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          416,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar_canopy",
+        "pos": [
+          469,
+          115
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          522,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          575,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          628,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          681,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch_canopy",
+        "pos": [
+          734,
+          121
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar_canopy",
+        "pos": [
+          787,
+          101
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          840,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          893,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar_canopy",
+        "pos": [
+          946,
+          119
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          999,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch_canopy",
+        "pos": [
+          1052,
+          114
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar_canopy",
+        "pos": [
+          1105,
+          102
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1158,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          1211,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1264,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1317,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch",
+        "pos": [
+          1370,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1423,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1476,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "birch_canopy",
+        "pos": [
+          1529,
+          112
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1582,
+          992
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.43
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1573,
+          120
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1580,
+          187
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1576,
+          254
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1565,
+          321
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1578,
+          388
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1570,
+          455
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          21,
+          522
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1574,
+          589
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          19,
+          656
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1575,
+          723
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "oak",
+        "pos": [
+          1587,
+          790
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "cedar",
+        "pos": [
+          1583,
+          857
+        ],
+        "fade": true,
+        "solid_visual": false,
+        "scale": 0.39
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          160,
+          155
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          595,
+          170
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          970,
+          130
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          1260,
+          140
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          160,
+          855
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          570,
+          890
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          945,
+          865
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "flowers",
+        "pos": [
+          1470,
+          880
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          100,
+          250
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          1490,
+          190
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          650,
+          840
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          1240,
+          900
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.2
+      }
+    ],
+    "3": [
+      {
+        "kind": "thorn_pillar",
+        "pos": [
+          430,
+          266
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "thorn_pillar",
+        "pos": [
+          760,
+          226
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "thorn_pillar",
+        "pos": [
+          1090,
+          266
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "thorn_pillar",
+        "pos": [
+          450,
+          796
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "thorn_pillar",
+        "pos": [
+          800,
+          816
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "thorn_pillar",
+        "pos": [
+          1120,
+          786
+        ],
+        "fade": true,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          198
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          228
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          838
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          808
+        ],
+        "fade": false,
+        "solid_visual": true
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          138
+        ],
+        "fade": false,
+        "solid_visual": false
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          888
+        ],
+        "fade": false,
+        "solid_visual": false
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          70,
+          75
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          230,
+          80
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          390,
+          75
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          590,
+          80
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          870,
+          60
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          1170,
+          70
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          1390,
+          70
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          100,
+          960
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          360,
+          960
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          690,
+          970
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          960,
+          960
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          1270,
+          970
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "ferns",
+        "pos": [
+          1480,
+          960
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.19
+      },
+      {
+        "kind": "fallen",
+        "pos": [
+          150,
+          85
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.18
+      },
+      {
+        "kind": "fallen",
+        "pos": [
+          1455,
+          850
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.18
+      },
+      {
+        "kind": "fallen",
+        "pos": [
+          900,
+          915
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.18
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          150,
+          180
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.22
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          150,
+          855
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.22
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          1400,
+          145
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.22
+      },
+      {
+        "kind": "lamp",
+        "pos": [
+          1440,
+          900
+        ],
+        "fade": false,
+        "solid_visual": false,
+        "scale": 0.22
+      }
+    ]
+  },
+  "source": "original host imagegen prop/material atlases + original deterministic authored pixel ground compositions",
+  "collision": "game/data/maps.json remains authoritative and unchanged"
+}

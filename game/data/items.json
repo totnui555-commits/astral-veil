@@ -1,0 +1,1628 @@
+[
+  {
+    "id": "potion",
+    "name": {
+      "en": "Field Tonic",
+      "th": "ยาฟื้นฟูภาคสนาม"
+    },
+    "kind": "consumable",
+    "rarity": "common",
+    "price": 28,
+    "stats": {},
+    "effect": "heal",
+    "value": 140,
+    "recipe": {
+      "fiber": 2
+    }
+  },
+  {
+    "id": "ether",
+    "name": {
+      "en": "Astral Ether",
+      "th": "อีเธอร์ดารา"
+    },
+    "kind": "consumable",
+    "rarity": "common",
+    "price": 32,
+    "stats": {},
+    "effect": "mana",
+    "value": 100,
+    "recipe": {
+      "crystal": 2
+    }
+  },
+  {
+    "id": "revive",
+    "name": {
+      "en": "Dawn Seed",
+      "th": "เมล็ดรุ่งอรุณ"
+    },
+    "kind": "consumable",
+    "rarity": "uncommon",
+    "price": 85,
+    "stats": {},
+    "effect": "revive",
+    "value": 40,
+    "recipe": {
+      "fiber": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "greater_potion",
+    "name": {
+      "en": "Restorative Draught",
+      "th": "น้ำยาฟื้นฟูเข้มข้น"
+    },
+    "kind": "consumable",
+    "rarity": "uncommon",
+    "price": 80,
+    "stats": {},
+    "effect": "heal",
+    "value": 350,
+    "recipe": {
+      "fiber": 4,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "greater_ether",
+    "name": {
+      "en": "Condensed Ether",
+      "th": "อีเธอร์เข้มข้น"
+    },
+    "kind": "consumable",
+    "rarity": "uncommon",
+    "price": 85,
+    "stats": {},
+    "effect": "mana",
+    "value": 240,
+    "recipe": {
+      "crystal": 4
+    }
+  },
+  {
+    "id": "elixir",
+    "name": {
+      "en": "Starlight Elixir",
+      "th": "น้ำทิพย์แสงดาว"
+    },
+    "kind": "consumable",
+    "rarity": "rare",
+    "price": 180,
+    "stats": {},
+    "effect": "elixir",
+    "value": 100,
+    "recipe": {
+      "fiber": 4,
+      "crystal": 4,
+      "core": 1
+    },
+    "description": {
+      "en": "Fully restores the active hero's HP and MP.",
+      "th": "ฟื้นพลังชีวิตและมานาของตัวละครที่ควบคุมจนเต็ม"
+    }
+  },
+  {
+    "id": "iron",
+    "name": {
+      "en": "Tempered Iron",
+      "th": "เหล็กหลอม"
+    },
+    "kind": "material",
+    "rarity": "common",
+    "price": 12,
+    "stats": {},
+    "effect": "",
+    "value": 0
+  },
+  {
+    "id": "crystal",
+    "name": {
+      "en": "Astral Crystal",
+      "th": "ผลึกดารา"
+    },
+    "kind": "material",
+    "rarity": "common",
+    "price": 16,
+    "stats": {},
+    "effect": "",
+    "value": 0
+  },
+  {
+    "id": "fiber",
+    "name": {
+      "en": "Wild Fiber",
+      "th": "เส้นใยพงไพร"
+    },
+    "kind": "material",
+    "rarity": "common",
+    "price": 10,
+    "stats": {},
+    "effect": "",
+    "value": 0
+  },
+  {
+    "id": "core",
+    "name": {
+      "en": "Tower Core",
+      "th": "แกนหอคอย"
+    },
+    "kind": "material",
+    "rarity": "rare",
+    "price": 60,
+    "stats": {},
+    "effect": "",
+    "value": 0
+  },
+  {
+    "id": "w01",
+    "name": {
+      "en": "Register Blade",
+      "th": "ดาบทะเบียน"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 88,
+    "stats": {
+      "attack": 12.9,
+      "power": 2.3
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w02",
+    "name": {
+      "en": "Shelter Shield",
+      "th": "โล่คุ้มภัย"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 96,
+    "stats": {
+      "attack": 13.8,
+      "power": 2.6
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w03",
+    "name": {
+      "en": "Arcsteel Saber",
+      "th": "กระบี่เหล็กอาคม"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 104,
+    "stats": {
+      "attack": 14.7,
+      "power": 2.9
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w04",
+    "name": {
+      "en": "Prism Wand",
+      "th": "คทาปริซึม"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 112,
+    "stats": {
+      "attack": 15.6,
+      "power": 21
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w05",
+    "name": {
+      "en": "Horizon Bow",
+      "th": "ธนูขอบฟ้า"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 120,
+    "stats": {
+      "attack": 16.5,
+      "power": 3.5
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w06",
+    "name": {
+      "en": "Bond Whistle",
+      "th": "นกหวีดพันธสัญญา"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 128,
+    "stats": {
+      "attack": 17.4,
+      "power": 3.8
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w07",
+    "name": {
+      "en": "Daybreak Staff",
+      "th": "ไม้เท้ารุ่งสาง"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 136,
+    "stats": {
+      "attack": 18.3,
+      "power": 24
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w08",
+    "name": {
+      "en": "Oathless Codex",
+      "th": "ตำราไร้คำสัตย์"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 144,
+    "stats": {
+      "attack": 19.2,
+      "power": 25
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w09",
+    "name": {
+      "en": "Minute Hand",
+      "th": "เข็มนาที"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 152,
+    "stats": {
+      "attack": 20.1,
+      "power": 26
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w10",
+    "name": {
+      "en": "Catalyst Sling",
+      "th": "สลิงตัวเร่ง"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 160,
+    "stats": {
+      "attack": 21.0,
+      "power": 5.0
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w11",
+    "name": {
+      "en": "Rune Toolset",
+      "th": "เครื่องมืออักขระ"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 168,
+    "stats": {
+      "attack": 21.9,
+      "power": 5.3
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 1
+    }
+  },
+  {
+    "id": "w12",
+    "name": {
+      "en": "Gap Dagger",
+      "th": "กริชช่องมิติ"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 176,
+    "stats": {
+      "attack": 22.8,
+      "power": 5.6
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w13",
+    "name": {
+      "en": "Crimson Spear",
+      "th": "หอกโลหิต"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 184,
+    "stats": {
+      "attack": 23.700000000000003,
+      "power": 5.9
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w14",
+    "name": {
+      "en": "Etcher's Hammer",
+      "th": "ค้อนจารึก"
+    },
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "price": 192,
+    "stats": {
+      "attack": 24.6,
+      "power": 6.2
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w15",
+    "name": {
+      "en": "Storm Conductor",
+      "th": "แท่งนำพายุ"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 200,
+    "stats": {
+      "attack": 25.5,
+      "power": 32
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w16",
+    "name": {
+      "en": "Ember Scepter",
+      "th": "คทาถ่านเพลิง"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 208,
+    "stats": {
+      "attack": 26.4,
+      "power": 33
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w17",
+    "name": {
+      "en": "Winter Needle",
+      "th": "เข็มเหมันต์"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 216,
+    "stats": {
+      "attack": 27.3,
+      "power": 34
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w18",
+    "name": {
+      "en": "Dusk Knife",
+      "th": "มีดสนธยา"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 224,
+    "stats": {
+      "attack": 28.2,
+      "power": 7.3999999999999995
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w19",
+    "name": {
+      "en": "Pact Focus",
+      "th": "สื่อพันธสัญญา"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 232,
+    "stats": {
+      "attack": 29.1,
+      "power": 36
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w20",
+    "name": {
+      "en": "Possibility Lens",
+      "th": "เลนส์ความเป็นไปได้"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 240,
+    "stats": {
+      "attack": 30.0,
+      "power": 37
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w21",
+    "name": {
+      "en": "Classroom Lute",
+      "th": "พิณห้องเรียน"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 248,
+    "stats": {
+      "attack": 30.900000000000002,
+      "power": 38
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w22",
+    "name": {
+      "en": "Memory Lantern",
+      "th": "ตะเกียงความทรงจำ"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 256,
+    "stats": {
+      "attack": 31.8,
+      "power": 39
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w23",
+    "name": {
+      "en": "Meridian Gunlance",
+      "th": "ทวนปืนเมอริเดียน"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 264,
+    "stats": {
+      "attack": 32.7,
+      "power": 8.899999999999999
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 2
+    }
+  },
+  {
+    "id": "w24",
+    "name": {
+      "en": "Steward Controller",
+      "th": "เครื่องควบคุมผู้ดูแล"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 272,
+    "stats": {
+      "attack": 33.6,
+      "power": 9.2
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "w25",
+    "name": {
+      "en": "Grove Branch",
+      "th": "กิ่งพงไม้"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 280,
+    "stats": {
+      "attack": 34.5,
+      "power": 42
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "w26",
+    "name": {
+      "en": "Mercy Scythe",
+      "th": "เคียวเมตตา"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 288,
+    "stats": {
+      "attack": 35.400000000000006,
+      "power": 9.8
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "w27",
+    "name": {
+      "en": "Constellation Wraps",
+      "th": "ผ้าพันหมัดกลุ่มดาว"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 296,
+    "stats": {
+      "attack": 36.3,
+      "power": 10.1
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 5,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "w28",
+    "name": {
+      "en": "Orbit Greatsword",
+      "th": "ดาบใหญ่โคจร"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 304,
+    "stats": {
+      "attack": 37.2,
+      "power": 10.4
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 5,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "w29",
+    "name": {
+      "en": "Living Quill",
+      "th": "ปากกามีชีวิต"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 312,
+    "stats": {
+      "attack": 38.1,
+      "power": 46
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 5,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "w30",
+    "name": {
+      "en": "Freewind Blades",
+      "th": "ดาบสายลมอิสระ"
+    },
+    "kind": "weapon",
+    "rarity": "rare",
+    "price": 320,
+    "stats": {
+      "attack": 39.0,
+      "power": 11.0
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 5,
+      "crystal": 3
+    }
+  },
+  {
+    "id": "a01",
+    "name": {
+      "en": "Road Coat",
+      "th": "เสื้อเดินทาง"
+    },
+    "kind": "armor",
+    "rarity": "common",
+    "price": 86,
+    "stats": {
+      "defense": 5.4,
+      "max_hp": 39
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "a02",
+    "name": {
+      "en": "Sanctuary Mail",
+      "th": "เกราะวิหาร"
+    },
+    "kind": "armor",
+    "rarity": "common",
+    "price": 102,
+    "stats": {
+      "defense": 6.8,
+      "max_hp": 48
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "a03",
+    "name": {
+      "en": "Grove Mantle",
+      "th": "ผ้าคลุมพงไม้"
+    },
+    "kind": "armor",
+    "rarity": "common",
+    "price": 118,
+    "stats": {
+      "defense": 8.2,
+      "max_hp": 57
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "a04",
+    "name": {
+      "en": "Warden Plate",
+      "th": "เกราะผู้พิทักษ์"
+    },
+    "kind": "armor",
+    "rarity": "common",
+    "price": 134,
+    "stats": {
+      "defense": 9.6,
+      "max_hp": 66
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 2,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "a05",
+    "name": {
+      "en": "Ember Apron",
+      "th": "ผ้ากันเปื้อนถ่านเพลิง"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 150,
+    "stats": {
+      "defense": 11.0,
+      "max_hp": 75
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "a06",
+    "name": {
+      "en": "Forge Mail",
+      "th": "เกราะเตาหลอม"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 166,
+    "stats": {
+      "defense": 12.399999999999999,
+      "max_hp": 84
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "a07",
+    "name": {
+      "en": "Archive Robe",
+      "th": "เสื้อคลุมหอจดหมายเหตุ"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 182,
+    "stats": {
+      "defense": 13.799999999999999,
+      "max_hp": 93
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "a08",
+    "name": {
+      "en": "Tide Scale",
+      "th": "เกราะเกล็ดกระแสน้ำ"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 198,
+    "stats": {
+      "defense": 15.2,
+      "max_hp": 102
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "a09",
+    "name": {
+      "en": "Storm Jacket",
+      "th": "เสื้อพายุ"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 214,
+    "stats": {
+      "defense": 16.6,
+      "max_hp": 111
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 3,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "a10",
+    "name": {
+      "en": "Winter Coat",
+      "th": "เสื้อเหมันต์"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 230,
+    "stats": {
+      "defense": 18.0,
+      "max_hp": 120
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "a11",
+    "name": {
+      "en": "Choir Vestment",
+      "th": "อาภรณ์บทเพลง"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 246,
+    "stats": {
+      "defense": 19.4,
+      "max_hp": 129
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "a12",
+    "name": {
+      "en": "Meridian Plate",
+      "th": "เกราะเมอริเดียน"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 262,
+    "stats": {
+      "defense": 20.799999999999997,
+      "max_hp": 138
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "a13",
+    "name": {
+      "en": "Aster Weave",
+      "th": "ผ้าทอแอสเตอร์"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 278,
+    "stats": {
+      "defense": 22.2,
+      "max_hp": 147
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "a14",
+    "name": {
+      "en": "Veil Mantle",
+      "th": "ผ้าคลุมม่านฟ้า"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 294,
+    "stats": {
+      "defense": 23.599999999999998,
+      "max_hp": 156
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 4,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "a15",
+    "name": {
+      "en": "Dawnweave",
+      "th": "ผ้าทอรุ่งอรุณ"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 310,
+    "stats": {
+      "defense": 25.0,
+      "max_hp": 165
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 5,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "a16",
+    "name": {
+      "en": "Thirtyfold Armor",
+      "th": "เกราะสามสิบสาย"
+    },
+    "kind": "armor",
+    "rarity": "rare",
+    "price": 326,
+    "stats": {
+      "defense": 26.4,
+      "max_hp": 174
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "iron": 5,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "x01",
+    "name": {
+      "en": "Class Ring",
+      "th": "แหวนห้องเรียน"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 79,
+    "stats": {
+      "max_mp": 22,
+      "power": 3.8
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 2,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "x02",
+    "name": {
+      "en": "Travel Compass",
+      "th": "เข็มทิศเดินทาง"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 93,
+    "stats": {
+      "speed": 7,
+      "crit": 0.012
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 2,
+      "fiber": 1
+    },
+    "description": {
+      "th": "เครื่องรางในกระเป๋าที่ฮานะทำหล่น เธอคงยังอยู่ไม่ไกล",
+      "en": "A charm from Hana’s dropped bag. She cannot be far away."
+    }
+  },
+  {
+    "id": "x03",
+    "name": {
+      "en": "Grove Charm",
+      "th": "เครื่องรางพงไม้"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 107,
+    "stats": {
+      "max_hp": 49,
+      "defense": 3.5
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 2,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "x04",
+    "name": {
+      "en": "Rune Lens",
+      "th": "เลนส์อักขระ"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 121,
+    "stats": {
+      "max_mp": 34,
+      "power": 6.2
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 2,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "x05",
+    "name": {
+      "en": "Cinder Token",
+      "th": "เหรียญถ่านเพลิง"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 135,
+    "stats": {
+      "speed": 10,
+      "crit": 0.015
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 3,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "x06",
+    "name": {
+      "en": "Smith's Badge",
+      "th": "ตราช่าง"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 149,
+    "stats": {
+      "max_hp": 73,
+      "defense": 5.0
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 3,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "x07",
+    "name": {
+      "en": "Archive Key",
+      "th": "กุญแจหอจดหมายเหตุ"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 163,
+    "stats": {
+      "max_mp": 46,
+      "power": 8.600000000000001
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 3,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x08",
+    "name": {
+      "en": "Tide Bracelet",
+      "th": "กำไลกระแสน้ำ"
+    },
+    "kind": "accessory",
+    "rarity": "uncommon",
+    "price": 177,
+    "stats": {
+      "speed": 13,
+      "crit": 0.018000000000000002
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 3,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x09",
+    "name": {
+      "en": "Wind Knot",
+      "th": "ปมสายลม"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 191,
+    "stats": {
+      "max_hp": 97,
+      "defense": 6.5
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 3,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x10",
+    "name": {
+      "en": "Winter Brooch",
+      "th": "เข็มกลัดเหมันต์"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 205,
+    "stats": {
+      "max_mp": 58,
+      "power": 11.0
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 4,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x11",
+    "name": {
+      "en": "Echo Pendant",
+      "th": "จี้เสียงสะท้อน"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 219,
+    "stats": {
+      "speed": 16,
+      "crit": 0.020999999999999998
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 4,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x12",
+    "name": {
+      "en": "Orbit Band",
+      "th": "แหวนโคจร"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 233,
+    "stats": {
+      "max_hp": 121,
+      "defense": 8.0
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 4,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x13",
+    "name": {
+      "en": "Aster Link",
+      "th": "ตัวเชื่อมแอสเตอร์"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 247,
+    "stats": {
+      "max_mp": 70,
+      "power": 13.4
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 4,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "x14",
+    "name": {
+      "en": "Veil Thread",
+      "th": "ด้ายม่านฟ้า"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 261,
+    "stats": {
+      "speed": 19,
+      "crit": 0.024
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 4,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "x15",
+    "name": {
+      "en": "Homeward Ribbon",
+      "th": "ริบบิ้นกลับบ้าน"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 275,
+    "stats": {
+      "max_hp": 145,
+      "defense": 9.5
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 5,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "x16",
+    "name": {
+      "en": "Shared Horizon",
+      "th": "ขอบฟ้าร่วมกัน"
+    },
+    "kind": "accessory",
+    "rarity": "rare",
+    "price": 289,
+    "stats": {
+      "max_mp": 82,
+      "power": 15.8
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "crystal": 5,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "r01",
+    "name": {
+      "en": "Warden Memory",
+      "th": "ความทรงจำผู้พิทักษ์"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 320,
+    "stats": {
+      "attack": 7,
+      "power": 7,
+      "max_hp": 35,
+      "max_mp": 18
+    },
+    "effect": "second_wind",
+    "value": 0,
+    "recipe": {
+      "core": 1,
+      "crystal": 4
+    },
+    "description": {
+      "th": "เมื่อกดหลบ ฟื้น HP 6% และมานา 4 หน่วย จังหวะพักหายใจที่ผู้พิทักษ์ทิ้งไว้",
+      "en": "Each dodge restores 6% HP and 4 mana. A little breathing room left by the Warden."
+    }
+  },
+  {
+    "id": "r02",
+    "name": {
+      "en": "Cartographer's Heart",
+      "th": "หัวใจผู้เขียนแผนที่"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 390,
+    "stats": {
+      "attack": 9,
+      "power": 9,
+      "max_hp": 50,
+      "max_mp": 26
+    },
+    "effect": "breaker",
+    "value": 0,
+    "recipe": {
+      "core": 1,
+      "crystal": 5
+    },
+    "description": {
+      "th": "โจมตีหนักแรงขึ้น 25% ใช้มานาลดลงครึ่งหนึ่ง เหมาะกับการขัดจังหวะศัตรู",
+      "en": "Heavy attacks deal 25% more damage and cost half the mana. Built for breaking enemy windups."
+    }
+  },
+  {
+    "id": "r03",
+    "name": {
+      "en": "Custodian Record",
+      "th": "บันทึกผู้ดูแล"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 460,
+    "stats": {
+      "attack": 11,
+      "power": 11,
+      "max_hp": 65,
+      "max_mp": 34
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "core": 1,
+      "crystal": 6
+    }
+  },
+  {
+    "id": "r04",
+    "name": {
+      "en": "Leviathan Pearl",
+      "th": "ไข่มุกเลวีอาธาน"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 530,
+    "stats": {
+      "attack": 13,
+      "power": 13,
+      "max_hp": 80,
+      "max_mp": 42
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "core": 1,
+      "crystal": 7
+    }
+  },
+  {
+    "id": "r05",
+    "name": {
+      "en": "Choir Fragment",
+      "th": "เศษบทเพลง"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 600,
+    "stats": {
+      "attack": 15,
+      "power": 15,
+      "max_hp": 95,
+      "max_mp": 50
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "core": 2,
+      "crystal": 8
+    }
+  },
+  {
+    "id": "r06",
+    "name": {
+      "en": "Sentinel Covenant",
+      "th": "ข้อตกลงผู้เฝ้าประตู"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 670,
+    "stats": {
+      "attack": 17,
+      "power": 17,
+      "max_hp": 110,
+      "max_mp": 58
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "core": 2,
+      "crystal": 9
+    }
+  },
+  {
+    "id": "r07",
+    "name": {
+      "en": "Architect's Seal",
+      "th": "ตราสถาปนิก"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 740,
+    "stats": {
+      "attack": 19,
+      "power": 19,
+      "max_hp": 125,
+      "max_mp": 66
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "core": 2,
+      "crystal": 10
+    }
+  },
+  {
+    "id": "r08",
+    "name": {
+      "en": "Thirtyfold Promise",
+      "th": "คำสัญญาสามสิบสาย"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 810,
+    "stats": {
+      "attack": 21,
+      "power": 21,
+      "max_hp": 140,
+      "max_mp": 74
+    },
+    "effect": "",
+    "value": 0,
+    "recipe": {
+      "core": 2,
+      "crystal": 11
+    }
+  },
+  {
+    "id": "r09",
+    "name": {
+      "en": "Hearthlight Knot",
+      "th": "เงื่อนแสงเรือน"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 260,
+    "stats": {
+      "max_hp": 24,
+      "max_mp": 12
+    },
+    "effect": "hearthlight",
+    "value": 0,
+    "description": {
+      "en": "A perfect dodge restores 8% HP. Once per dodge, while inside a circle, cross or lane warning. A safe way back is worth keeping.",
+      "th": "หลบตรงจังหวะในวงเตือน กากบาท หรือแนวพุ่ง ฟื้น HP 8% หนึ่งครั้งต่อการหลบ แสงเล็ก ๆ ไว้พาตัวเองกลับบ้าน"
+    },
+    "quest_reward": true
+  },
+  {
+    "id": "r10",
+    "name": {
+      "en": "Skyglass Lens",
+      "th": "เลนส์แก้วฟ้า"
+    },
+    "kind": "relic",
+    "rarity": "epic",
+    "price": 260,
+    "stats": {
+      "attack": 4,
+      "power": 4
+    },
+    "effect": "skyglass",
+    "value": 0,
+    "description": {
+      "en": "Deal 20% more damage to weakened enemies, on top of the normal weakness bonus. Break a windup or expose a sealed core to create an opening.",
+      "th": "ทำความเสียหายเพิ่ม 20% ต่อศัตรูที่ติดอ่อนแอ เพิ่มจากโบนัสปกติ ขัดจังหวะโจมตีหรือเปิดผนึกแกนกลางเพื่อสร้างช่องว่าง"
+    },
+    "quest_reward": true
+  }
+]

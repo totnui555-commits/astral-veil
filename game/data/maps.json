@@ -1,0 +1,3617 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "en": "Aurelion · The Summoning Hall",
+      "th": "ออเรเลียน · ท้องพระโรงอัญเชิญ"
+    },
+    "region": "verdant",
+    "act": 1,
+    "theme": "throne",
+    "safe": true,
+    "spawn": [
+      800,
+      540
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        40,
+        50,
+        180,
+        850
+      ],
+      [
+        1380,
+        60,
+        170,
+        320
+      ],
+      [
+        1380,
+        620,
+        170,
+        300
+      ],
+      [
+        660,
+        50,
+        280,
+        110
+      ]
+    ],
+    "props": [],
+    "enemies": [],
+    "boss": {},
+    "npcs": [
+      {
+        "id": "c02",
+        "name": {
+          "en": "Leila Haddad",
+          "th": "ไลลา ฮัดดัด"
+        },
+        "pos": [
+          420,
+          356
+        ],
+        "story": "court_peer_c02",
+        "character_id": "c02"
+      },
+      {
+        "id": "c03",
+        "name": {
+          "en": "Rafael Costa",
+          "th": "ราฟาเอล คอสตา"
+        },
+        "pos": [
+          534,
+          365
+        ],
+        "story": "court_peer_c03",
+        "character_id": "c03"
+      },
+      {
+        "id": "c05",
+        "name": {
+          "en": "Hana Mori",
+          "th": "ฮานะ โมริ"
+        },
+        "pos": [
+          620,
+          374
+        ],
+        "story": "court_peer_c05",
+        "character_id": "c05"
+      },
+      {
+        "id": "c06",
+        "name": {
+          "en": "Samir Khan",
+          "th": "ซามีร์ ข่าน"
+        },
+        "pos": [
+          434,
+          440
+        ],
+        "story": "court_peer_c06",
+        "character_id": "c06"
+      },
+      {
+        "id": "c08",
+        "name": {
+          "en": "Nadia Petrov",
+          "th": "นาเดีย เปตรอฟ"
+        },
+        "pos": [
+          520,
+          449
+        ],
+        "story": "court_peer_c08",
+        "character_id": "c08"
+      },
+      {
+        "id": "c09",
+        "name": {
+          "en": "Elias Mensah",
+          "th": "อีเลียส เมนซาห์"
+        },
+        "pos": [
+          634,
+          458
+        ],
+        "story": "court_peer_c09",
+        "character_id": "c09"
+      },
+      {
+        "id": "c10",
+        "name": {
+          "en": "Sofia Alvarez",
+          "th": "โซเฟีย อัลวาเรซ"
+        },
+        "pos": [
+          420,
+          524
+        ],
+        "story": "court_peer_c10",
+        "character_id": "c10"
+      },
+      {
+        "id": "c11",
+        "name": {
+          "en": "Theo Fischer",
+          "th": "ธีโอ ฟิชเชอร์"
+        },
+        "pos": [
+          534,
+          533
+        ],
+        "story": "court_peer_c11",
+        "character_id": "c11"
+      },
+      {
+        "id": "c12",
+        "name": {
+          "en": "Zuri Ndlovu",
+          "th": "ซูรี เอ็นดโลวู"
+        },
+        "pos": [
+          620,
+          542
+        ],
+        "story": "court_peer_c12",
+        "character_id": "c12"
+      },
+      {
+        "id": "c13",
+        "name": {
+          "en": "Omar Farouk",
+          "th": "โอมาร์ ฟารุก"
+        },
+        "pos": [
+          960,
+          366
+        ],
+        "story": "court_peer_c13",
+        "character_id": "c13"
+      },
+      {
+        "id": "c14",
+        "name": {
+          "en": "Anika Rao",
+          "th": "อนิกา ราว"
+        },
+        "pos": [
+          1074,
+          375
+        ],
+        "story": "court_peer_c14",
+        "character_id": "c14"
+      },
+      {
+        "id": "c15",
+        "name": {
+          "en": "Luka Kovac",
+          "th": "ลูกา โควัช"
+        },
+        "pos": [
+          1160,
+          384
+        ],
+        "story": "court_peer_c15",
+        "character_id": "c15"
+      },
+      {
+        "id": "c16",
+        "name": {
+          "en": "Isabel Santos",
+          "th": "อิซาเบล ซานโตส"
+        },
+        "pos": [
+          974,
+          450
+        ],
+        "story": "court_peer_c16",
+        "character_id": "c16"
+      },
+      {
+        "id": "c17",
+        "name": {
+          "en": "Freya Lind",
+          "th": "เฟรยา ลินด์"
+        },
+        "pos": [
+          1060,
+          459
+        ],
+        "story": "court_peer_c17",
+        "character_id": "c17"
+      },
+      {
+        "id": "c18",
+        "name": {
+          "en": "Kenji Tan",
+          "th": "เคนจิ ตัน"
+        },
+        "pos": [
+          1174,
+          468
+        ],
+        "story": "court_peer_c18",
+        "character_id": "c18"
+      },
+      {
+        "id": "c19",
+        "name": {
+          "en": "Amina Diallo",
+          "th": "อามินา ดิอัลโล"
+        },
+        "pos": [
+          960,
+          534
+        ],
+        "story": "court_peer_c19",
+        "character_id": "c19"
+      },
+      {
+        "id": "c20",
+        "name": {
+          "en": "Noah Williams",
+          "th": "โนอาห์ วิลเลียมส์"
+        },
+        "pos": [
+          1074,
+          543
+        ],
+        "story": "court_peer_c20",
+        "character_id": "c20"
+      },
+      {
+        "id": "c21",
+        "name": {
+          "en": "Yuna Park",
+          "th": "ยูนา พัก"
+        },
+        "pos": [
+          1160,
+          552
+        ],
+        "story": "court_peer_c21",
+        "character_id": "c21"
+      },
+      {
+        "id": "c22",
+        "name": {
+          "en": "Ines Moreau",
+          "th": "อิเนส โมโร"
+        },
+        "pos": [
+          680,
+          656
+        ],
+        "story": "court_peer_c22",
+        "character_id": "c22"
+      },
+      {
+        "id": "c23",
+        "name": {
+          "en": "Diego Silva",
+          "th": "ดิเอโก ซิลวา"
+        },
+        "pos": [
+          794,
+          665
+        ],
+        "story": "court_peer_c23",
+        "character_id": "c23"
+      },
+      {
+        "id": "c24",
+        "name": {
+          "en": "Mina Rahman",
+          "th": "มินา เราะห์มาน"
+        },
+        "pos": [
+          880,
+          674
+        ],
+        "story": "court_peer_c24",
+        "character_id": "c24"
+      },
+      {
+        "id": "c25",
+        "name": {
+          "en": "Talia Rosen",
+          "th": "ทาเลีย โรเซน"
+        },
+        "pos": [
+          694,
+          740
+        ],
+        "story": "court_peer_c25",
+        "character_id": "c25"
+      },
+      {
+        "id": "c26",
+        "name": {
+          "en": "Mateo Ruiz",
+          "th": "มาเตโอ รุยซ์"
+        },
+        "pos": [
+          780,
+          749
+        ],
+        "story": "court_peer_c26",
+        "character_id": "c26"
+      },
+      {
+        "id": "c27",
+        "name": {
+          "en": "Asha Mwangi",
+          "th": "อาชา มวังกี"
+        },
+        "pos": [
+          894,
+          758
+        ],
+        "story": "court_peer_c27",
+        "character_id": "c27"
+      },
+      {
+        "id": "c28",
+        "name": {
+          "en": "Pavel Novak",
+          "th": "พาเวล โนวัค"
+        },
+        "pos": [
+          680,
+          824
+        ],
+        "story": "court_peer_c28",
+        "character_id": "c28"
+      },
+      {
+        "id": "c29",
+        "name": {
+          "en": "Salma Benali",
+          "th": "ซัลมา เบนาลี"
+        },
+        "pos": [
+          794,
+          833
+        ],
+        "story": "court_peer_c29",
+        "character_id": "c29"
+      },
+      {
+        "id": "c30",
+        "name": {
+          "en": "Jules Laurent",
+          "th": "จูลส์ โลรองต์"
+        },
+        "pos": [
+          880,
+          842
+        ],
+        "story": "court_peer_c30",
+        "character_id": "c30"
+      },
+      {
+        "id": "court_king_27",
+        "character_id": "king",
+        "name": {
+          "en": "King Aldren",
+          "th": "ราชาอัลเดรน"
+        },
+        "pos": [
+          800,
+          210
+        ],
+        "story": "court_king"
+      },
+      {
+        "id": "court_archmage_28",
+        "character_id": "archmage",
+        "name": {
+          "en": "Archmage Vaelis",
+          "th": "จอมเวทย์เวลีส"
+        },
+        "pos": [
+          860,
+          300
+        ],
+        "story": "court_archmage"
+      },
+      {
+        "id": "court_chancellor_29",
+        "character_id": "chancellor",
+        "name": {
+          "en": "Chancellor Orven",
+          "th": "อัครเสนาบดีออร์เวน"
+        },
+        "pos": [
+          1050,
+          280
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_royal_guard_30",
+        "character_id": "royal_guard",
+        "name": {
+          "en": "Royal Guard",
+          "th": "องครักษ์หลวง"
+        },
+        "pos": [
+          1280,
+          455
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_royal_guard_31",
+        "character_id": "royal_guard",
+        "name": {
+          "en": "Royal Guard",
+          "th": "องครักษ์หลวง"
+        },
+        "pos": [
+          1280,
+          570
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lady_32",
+        "character_id": "lady",
+        "name": {
+          "en": "Lady Mereth",
+          "th": "เลดีเมเร็ธ"
+        },
+        "pos": [
+          290,
+          270
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lord_33",
+        "character_id": "lord",
+        "name": {
+          "en": "Lord Ceylan",
+          "th": "ลอร์ดเซย์ลัน"
+        },
+        "pos": [
+          290,
+          365
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lady_34",
+        "character_id": "lady",
+        "name": {
+          "en": "Lady Mereth",
+          "th": "เลดีเมเร็ธ"
+        },
+        "pos": [
+          290,
+          460
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lord_35",
+        "character_id": "lord",
+        "name": {
+          "en": "Lord Ceylan",
+          "th": "ลอร์ดเซย์ลัน"
+        },
+        "pos": [
+          290,
+          555
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lady_36",
+        "character_id": "lady",
+        "name": {
+          "en": "Lady Mereth",
+          "th": "เลดีเมเร็ธ"
+        },
+        "pos": [
+          290,
+          650
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lord_37",
+        "character_id": "lord",
+        "name": {
+          "en": "Lord Ceylan",
+          "th": "ลอร์ดเซย์ลัน"
+        },
+        "pos": [
+          290,
+          745
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lady_38",
+        "character_id": "lady",
+        "name": {
+          "en": "Lady Mereth",
+          "th": "เลดีเมเร็ธ"
+        },
+        "pos": [
+          1280,
+          270
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lord_39",
+        "character_id": "lord",
+        "name": {
+          "en": "Lord Ceylan",
+          "th": "ลอร์ดเซย์ลัน"
+        },
+        "pos": [
+          1280,
+          365
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lady_40",
+        "character_id": "lady",
+        "name": {
+          "en": "Lady Mereth",
+          "th": "เลดีเมเร็ธ"
+        },
+        "pos": [
+          1280,
+          460
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lord_41",
+        "character_id": "lord",
+        "name": {
+          "en": "Lord Ceylan",
+          "th": "ลอร์ดเซย์ลัน"
+        },
+        "pos": [
+          1280,
+          555
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lady_42",
+        "character_id": "lady",
+        "name": {
+          "en": "Lady Mereth",
+          "th": "เลดีเมเร็ธ"
+        },
+        "pos": [
+          1280,
+          650
+        ],
+        "story": "court_noble"
+      },
+      {
+        "id": "court_lord_43",
+        "character_id": "lord",
+        "name": {
+          "en": "Lord Ceylan",
+          "th": "ลอร์ดเซย์ลัน"
+        },
+        "pos": [
+          1280,
+          745
+        ],
+        "story": "court_noble"
+      }
+    ],
+    "chests": [
+      {
+        "id": "m00_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "w01"
+      },
+      {
+        "id": "m00_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "potion"
+      }
+    ],
+    "sigils": [],
+    "objective": {
+      "en": "Speak to your classmates and the royal court. Approach the eastern gateway when ready.",
+      "th": "คุยกับเพื่อนและคนในราชสำนัก เมื่อพร้อมแล้วไปยังประตูด้านตะวันออก"
+    },
+    "intro": "royal_summoning",
+    "outro": "m00_outro",
+    "recruits": [
+      "c01",
+      "c04",
+      "c07"
+    ],
+    "no_camp": true,
+    "ground": "throne_ground.png"
+  },
+  {
+    "id": 1,
+    "name": {
+      "en": "Hearthwell · Lantern Square",
+      "th": "ฮาร์ธเวล · ลานโคมไฟ"
+    },
+    "region": "verdant",
+    "act": 1,
+    "theme": "sanctuary",
+    "safe": true,
+    "spawn": [
+      250,
+      495
+    ],
+    "exit": [
+      1450,
+      490
+    ],
+    "obstacles": [
+      [
+        0,
+        0,
+        1600,
+        390
+      ],
+      [
+        0,
+        580,
+        385,
+        420
+      ],
+      [
+        400,
+        610,
+        255,
+        390
+      ],
+      [
+        685,
+        560,
+        220,
+        440
+      ],
+      [
+        950,
+        625,
+        650,
+        375
+      ],
+      [
+        0,
+        0,
+        125,
+        1000
+      ],
+      [
+        1600,
+        0,
+        1600,
+        335
+      ],
+      [
+        1600,
+        705,
+        1600,
+        295
+      ],
+      [
+        3160,
+        0,
+        40,
+        1000
+      ]
+    ],
+    "props": [],
+    "enemies": [],
+    "boss": {},
+    "npcs": [
+      {
+        "id": "n01",
+        "character_id": "n01",
+        "name": {
+          "en": "Sera · Gate watch",
+          "th": "เซรา · ยามประตู"
+        },
+        "pos": [
+          425,
+          460
+        ],
+        "story": "town_sera",
+        "visit_flag": "town_sera"
+      },
+      {
+        "id": "n02",
+        "character_id": "n02",
+        "name": {
+          "en": "Ilyen · Road guide",
+          "th": "อิลเยน · ผู้นำทาง"
+        },
+        "pos": [
+          1120,
+          515
+        ],
+        "story": "town_ilyen",
+        "visit_flag": "town_ilyen"
+      },
+      {
+        "id": "tailor",
+        "character_id": "n01",
+        "pos": [
+          1840,
+          465
+        ],
+        "story": "",
+        "activity": "wardrobe"
+      },
+      {
+        "id": "musician",
+        "character_id": "c03",
+        "pos": [
+          2170,
+          530
+        ],
+        "story": "",
+        "activity": "music"
+      },
+      {
+        "id": "baker",
+        "character_id": "c07",
+        "pos": [
+          1690,
+          570
+        ],
+        "story": "market_baker",
+        "activity": "shop"
+      },
+      {
+        "id": "stargazer",
+        "character_id": "c04",
+        "pos": [
+          2840,
+          440
+        ],
+        "story": "market_stargazer",
+        "activity": ""
+      },
+      {
+        "id": "courier",
+        "character_id": "c05",
+        "pos": [
+          2570,
+          565
+        ],
+        "story": "market_courier",
+        "activity": ""
+      },
+      {
+        "id": "guard_east",
+        "character_id": "c02",
+        "pos": [
+          3020,
+          560
+        ],
+        "story": "market_guard",
+        "activity": "",
+        "wander": true
+      },
+      {
+        "id": "leila_square",
+        "character_id": "c02",
+        "pos": [
+          850,
+          485
+        ],
+        "story": "leila_square",
+        "activity": ""
+      },
+      {
+        "id": "rafael_square",
+        "character_id": "c03",
+        "pos": [
+          1020,
+          460
+        ],
+        "story": "rafael_square",
+        "activity": ""
+      },
+      {
+        "id": "hana_square",
+        "character_id": "c05",
+        "pos": [
+          1250,
+          470
+        ],
+        "story": "hana_square",
+        "activity": ""
+      },
+      {
+        "id": "lantern_child",
+        "character_id": "c07",
+        "pos": [
+          2330,
+          430
+        ],
+        "story": "market_lantern",
+        "activity": "",
+        "wander": true
+      }
+    ],
+    "chests": [
+      {
+        "id": "m01_cache",
+        "pos": [
+          650,
+          505
+        ],
+        "item": "a01"
+      },
+      {
+        "id": "m01_supplies",
+        "pos": [
+          1320,
+          515
+        ],
+        "item": "potion"
+      },
+      {
+        "id": "market_starlock",
+        "pos": [
+          2730,
+          580
+        ],
+        "item": "x04",
+        "puzzle": true
+      }
+    ],
+    "sigils": [],
+    "objective": {
+      "en": "Meet the gate watch, collect supplies, then find Ilyen by the east road.",
+      "th": "คุยกับเซรา รับเสบียงข้างทาง แล้วพบอิลเยนทางตะวันออก"
+    },
+    "intro": "m01_intro",
+    "outro": "m01_outro",
+    "recruits": [
+      "c02",
+      "c03",
+      "c05",
+      "c06",
+      "n01"
+    ],
+    "camp": [
+      530,
+      540
+    ],
+    "width": 3200,
+    "height": 1000
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Verdant Road",
+      "th": "เส้นทางพงไพร"
+    },
+    "region": "verdant",
+    "act": 1,
+    "theme": "forest",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "tree",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "stalker",
+        "pos": [
+          670,
+          470
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          855,
+          590
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          1040,
+          390
+        ]
+      },
+      {
+        "kind": "brute",
+        "id": "thorn_captain",
+        "elite": true,
+        "name": {
+          "en": "Thorn Captain",
+          "th": "หัวหน้าหนาม"
+        },
+        "pos": [
+          1170,
+          540
+        ]
+      }
+    ],
+    "boss": {},
+    "npcs": [
+      {
+        "id": "n02",
+        "name": {
+          "en": "Ilyen Reed",
+          "th": "อิลเยน รีด"
+        },
+        "pos": [
+          320,
+          390
+        ],
+        "story": "npc_n02",
+        "character_id": "n02"
+      }
+    ],
+    "chests": [
+      {
+        "id": "m02_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "x02",
+        "story": "field_bag"
+      },
+      {
+        "id": "m02_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "potion"
+      },
+      {
+        "id": "courier_case",
+        "pos": [
+          870,
+          700
+        ],
+        "item": "fiber",
+        "story": "lantern_case"
+      }
+    ],
+    "sigils": [
+      [
+        1060,
+        340
+      ]
+    ],
+    "objective": {
+      "en": "Find the lost bag. Break the Thorn Captain and reopen the road.",
+      "th": "หากระเป๋าของฮานะ กำจัดหัวหน้าหนาม และเปิดเส้นทาง"
+    },
+    "intro": "m02_intro",
+    "outro": "m02_outro",
+    "recruits": [
+      "c08",
+      "c09",
+      "c10",
+      "n02"
+    ],
+    "required_chest": "m02_cache",
+    "priority_enemy": "thorn_captain",
+    "return_gate": {
+      "pos": [
+        130,
+        500
+      ],
+      "stage": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Thornlight Tower",
+      "th": "หอคอยแสงหนาม"
+    },
+    "region": "verdant",
+    "act": 1,
+    "theme": "tower",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "archer",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          1020,
+          550
+        ]
+      }
+    ],
+    "boss": {
+      "id": "thorn_warden",
+      "name": {
+        "en": "Thornlight Warden",
+        "th": "ผู้พิทักษ์แสงหนาม"
+      },
+      "kind": "warden",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 680,
+      "phases": 3,
+      "sky_seal": true
+    },
+    "npcs": [],
+    "chests": [
+      {
+        "id": "m03_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r01"
+      },
+      {
+        "id": "m03_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m03_intro",
+    "outro": "m03_outro",
+    "recruits": [
+      "c11",
+      "c12",
+      "c13"
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Ember Pass",
+      "th": "ช่องเขาถ่านเพลิง"
+    },
+    "region": "ember",
+    "act": 2,
+    "theme": "ember",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "brute",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          1020,
+          550
+        ]
+      }
+    ],
+    "boss": {},
+    "npcs": [
+      {
+        "id": "n03",
+        "name": {
+          "en": "Borun Emberhand",
+          "th": "โบรุน เอมเบอร์แฮนด์"
+        },
+        "pos": [
+          320,
+          390
+        ],
+        "story": "npc_n03",
+        "character_id": "n03"
+      }
+    ],
+    "chests": [
+      {
+        "id": "m04_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "w14"
+      },
+      {
+        "id": "m04_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        1060,
+        340
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m04_intro",
+    "outro": "m04_outro",
+    "recruits": [
+      "c14",
+      "c15",
+      "c16",
+      "n03"
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Furnace Tower",
+      "th": "หอคอยเตาหลอม"
+    },
+    "region": "ember",
+    "act": 2,
+    "theme": "ember",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "brute",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {
+      "id": "ember_cartographer",
+      "name": {
+        "en": "Ember Cartographer",
+        "th": "ผู้เขียนแผนที่ถ่านเพลิง"
+      },
+      "kind": "cartographer",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 1000,
+      "phases": 3
+    },
+    "npcs": [],
+    "chests": [
+      {
+        "id": "m05_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r02"
+      },
+      {
+        "id": "m05_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m05_intro",
+    "outro": "m05_outro",
+    "recruits": [
+      "c17",
+      "c18"
+    ]
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Sunken Archive",
+      "th": "หอจดหมายเหตุใต้น้ำ"
+    },
+    "region": "tide",
+    "act": 2,
+    "theme": "archive",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ],
+      [
+        700,
+        822,
+        140,
+        56
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      },
+      {
+        "kind": "water",
+        "pos": [
+          770,
+          850
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "mage",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {
+      "id": "archive_custodian",
+      "name": {
+        "en": "Archive Custodian",
+        "th": "ผู้ดูแลหอจดหมายเหตุ"
+      },
+      "kind": "custodian",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 1100,
+      "phases": 3
+    },
+    "npcs": [
+      {
+        "id": "n04",
+        "name": {
+          "en": "Nyra of Tides",
+          "th": "ไนราแห่งกระแสน้ำ"
+        },
+        "pos": [
+          320,
+          390
+        ],
+        "story": "npc_n04",
+        "character_id": "n04"
+      },
+      {
+        "id": "n06",
+        "name": {
+          "en": "Ossian Vale",
+          "th": "ออสเซียน เวล"
+        },
+        "pos": [
+          415,
+          390
+        ],
+        "story": "npc_n06",
+        "character_id": "n06"
+      }
+    ],
+    "chests": [
+      {
+        "id": "m06_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r03"
+      },
+      {
+        "id": "m06_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m06_intro",
+    "outro": "m06_outro",
+    "recruits": [
+      "c19",
+      "c20",
+      "c21",
+      "n04",
+      "n06"
+    ]
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Tideglass Tower",
+      "th": "หอคอยกระจกกระแสน้ำ"
+    },
+    "region": "tide",
+    "act": 2,
+    "theme": "coast",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ],
+      [
+        700,
+        822,
+        140,
+        56
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      },
+      {
+        "kind": "water",
+        "pos": [
+          770,
+          850
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "mage",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {
+      "id": "tide_leviathan",
+      "name": {
+        "en": "Tidebound Leviathan",
+        "th": "เลวีอาธานพันธกระแสน้ำ"
+      },
+      "kind": "leviathan",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 1300,
+      "phases": 3
+    },
+    "npcs": [],
+    "chests": [
+      {
+        "id": "m07_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r04"
+      },
+      {
+        "id": "m07_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m07_intro",
+    "outro": "m07_outro",
+    "recruits": [
+      "c22",
+      "c23",
+      "c24"
+    ]
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Frost Reach",
+      "th": "ดินแดนเหมันต์"
+    },
+    "region": "frost",
+    "act": 3,
+    "theme": "frost",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "tree",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "tree",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "stalker",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {},
+    "npcs": [
+      {
+        "id": "n05",
+        "name": {
+          "en": "Vel Mosswake",
+          "th": "เวล มอสเวก"
+        },
+        "pos": [
+          320,
+          390
+        ],
+        "story": "npc_n05",
+        "character_id": "n05"
+      },
+      {
+        "id": "n07",
+        "name": {
+          "en": "Edda Snowglass",
+          "th": "เอดดา สโนว์กลาส"
+        },
+        "pos": [
+          415,
+          390
+        ],
+        "story": "npc_n07",
+        "character_id": "n07"
+      }
+    ],
+    "chests": [
+      {
+        "id": "m08_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "a10"
+      },
+      {
+        "id": "m08_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        1060,
+        340
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m08_intro",
+    "outro": "m08_outro",
+    "recruits": [
+      "c25",
+      "c26",
+      "c27",
+      "n05",
+      "n07"
+    ]
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Choir Tower",
+      "th": "หอคอยบทเพลง"
+    },
+    "region": "frost",
+    "act": 3,
+    "theme": "frost",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "stalker",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {
+      "id": "frost_choir",
+      "name": {
+        "en": "The Fractured Choir",
+        "th": "คณะเสียงที่แตกสลาย"
+      },
+      "kind": "choir",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 1600,
+      "phases": 3
+    },
+    "npcs": [],
+    "chests": [
+      {
+        "id": "m09_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r05"
+      },
+      {
+        "id": "m09_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m09_intro",
+    "outro": "m09_outro",
+    "recruits": [
+      "c28",
+      "c29"
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Meridian Gate",
+      "th": "ประตูเมอริเดียน"
+    },
+    "region": "frost",
+    "act": 3,
+    "theme": "void",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "archer",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "archer",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {
+      "id": "meridian_sentinel",
+      "name": {
+        "en": "Meridian Sentinel",
+        "th": "ผู้เฝ้าเมอริเดียน"
+      },
+      "kind": "sentinel",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 1750,
+      "phases": 3
+    },
+    "npcs": [
+      {
+        "id": "n08",
+        "name": {
+          "en": "Aster-9",
+          "th": "แอสเตอร์-9"
+        },
+        "pos": [
+          320,
+          390
+        ],
+        "story": "npc_n08",
+        "character_id": "n08"
+      }
+    ],
+    "chests": [
+      {
+        "id": "m10_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r06"
+      },
+      {
+        "id": "m10_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m10_intro",
+    "outro": "m10_outro",
+    "recruits": [
+      "c30",
+      "n08"
+    ]
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Final Spire",
+      "th": "ยอดหอคอยสุดท้าย"
+    },
+    "region": "frost",
+    "act": 3,
+    "theme": "void",
+    "safe": false,
+    "spawn": [
+      180,
+      500
+    ],
+    "exit": [
+      1450,
+      500
+    ],
+    "obstacles": [
+      [
+        410,
+        214,
+        40,
+        52
+      ],
+      [
+        740,
+        174,
+        40,
+        52
+      ],
+      [
+        1070,
+        214,
+        40,
+        52
+      ],
+      [
+        430,
+        744,
+        40,
+        52
+      ],
+      [
+        780,
+        764,
+        40,
+        52
+      ],
+      [
+        1100,
+        734,
+        40,
+        52
+      ],
+      [
+        256,
+        162,
+        48,
+        36
+      ],
+      [
+        1316,
+        192,
+        48,
+        36
+      ],
+      [
+        246,
+        802,
+        48,
+        36
+      ],
+      [
+        1356,
+        772,
+        48,
+        36
+      ]
+    ],
+    "props": [
+      {
+        "kind": "pillar",
+        "pos": [
+          430,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          760,
+          200
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1090,
+          240
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          450,
+          770
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          800,
+          790
+        ]
+      },
+      {
+        "kind": "pillar",
+        "pos": [
+          1120,
+          760
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          280,
+          180
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1340,
+          210
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          270,
+          820
+        ]
+      },
+      {
+        "kind": "rock",
+        "pos": [
+          1380,
+          790
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          670,
+          130
+        ]
+      },
+      {
+        "kind": "crystal",
+        "pos": [
+          1020,
+          880
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "kind": "archer",
+        "pos": [
+          550,
+          460
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          710,
+          570
+        ]
+      },
+      {
+        "kind": "brute",
+        "pos": [
+          820,
+          440
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          1020,
+          550
+        ]
+      },
+      {
+        "kind": "mage",
+        "pos": [
+          890,
+          650
+        ]
+      },
+      {
+        "kind": "stalker",
+        "pos": [
+          1130,
+          370
+        ]
+      }
+    ],
+    "boss": {
+      "id": "veil_architect",
+      "name": {
+        "en": "The Veil Architect",
+        "th": "สถาปนิกม่านฟ้า"
+      },
+      "kind": "architect",
+      "pos": [
+        1210,
+        500
+      ],
+      "hp": 2200,
+      "phases": 4
+    },
+    "npcs": [],
+    "chests": [
+      {
+        "id": "m11_cache",
+        "pos": [
+          360,
+          660
+        ],
+        "item": "r07"
+      },
+      {
+        "id": "m11_supplies",
+        "pos": [
+          1320,
+          650
+        ],
+        "item": "greater_potion"
+      }
+    ],
+    "sigils": [
+      [
+        690,
+        330
+      ],
+      [
+        1040,
+        700
+      ]
+    ],
+    "objective": {
+      "en": "Defeat every foe, awaken all astral sigils with E, then use the eastern gate.",
+      "th": "กำจัดศัตรูทุกตัว กด E ปลุกอักขระทุกจุด แล้วใช้ประตูตะวันออก"
+    },
+    "intro": "m11_intro",
+    "outro": "m11_outro",
+    "recruits": []
+  }
+]

@@ -1,0 +1,534 @@
+{
+  "save_pending": {
+    "en": "Saving to browser storage…",
+    "th": "กำลังบันทึกลงเบราว์เซอร์…"
+  },
+  "new_game": {
+    "en": "Begin the journey",
+    "th": "เริ่มการเดินทาง"
+  },
+  "continue": {
+    "en": "Continue",
+    "th": "เล่นต่อ"
+  },
+  "settings": {
+    "en": "Settings",
+    "th": "ตั้งค่า"
+  },
+  "credits": {
+    "en": "Credits",
+    "th": "ผู้จัดทำ"
+  },
+  "offline": {
+    "en": "OFFLINE ADVENTURE",
+    "th": "เล่นออฟไลน์"
+  },
+  "title_blurb": {
+    "en": "Thirty classmates. A fractured world.\nThe stars have been waiting for you.",
+    "th": "เพื่อนร่วมชั้นสามสิบคน โลกที่แตกร้าว\nดวงดาวกำลังรอพวกคุณอยู่"
+  },
+  "current_objective": {
+    "en": "CURRENT OBJECTIVE",
+    "th": "เป้าหมายปัจจุบัน"
+  },
+  "party": {
+    "en": "Party",
+    "th": "ปาร์ตี้"
+  },
+  "inventory": {
+    "en": "Inventory",
+    "th": "สัมภาระ"
+  },
+  "journal": {
+    "en": "Journal",
+    "th": "บันทึกภารกิจ"
+  },
+  "map": {
+    "en": "World map",
+    "th": "แผนที่โลก"
+  },
+  "pause": {
+    "en": "Pause",
+    "th": "หยุดพัก"
+  },
+  "saves": {
+    "en": "Save & load",
+    "th": "บันทึกและโหลด"
+  },
+  "save_io": {
+    "en": "Save backup",
+    "th": "สำรองบันทึก"
+  },
+  "camp": {
+    "en": "Camp",
+    "th": "ค่ายพัก"
+  },
+  "craft": {
+    "en": "Craft",
+    "th": "สร้างไอเทม"
+  },
+  "shop": {
+    "en": "Merchant",
+    "th": "ร้านค้า"
+  },
+  "ending": {
+    "en": "Epilogue",
+    "th": "บทส่งท้าย"
+  },
+  "defeat": {
+    "en": "A moment to recover",
+    "th": "ลุกขึ้นอีกครั้ง"
+  },
+  "attack": {
+    "en": "Attack",
+    "th": "โจมตี"
+  },
+  "heavy": {
+    "en": "Heavy",
+    "th": "โจมตีหนัก"
+  },
+  "dodge": {
+    "en": "Dodge",
+    "th": "หลบ"
+  },
+  "interact": {
+    "en": "Interact",
+    "th": "สำรวจ"
+  },
+  "potion": {
+    "en": "Potion",
+    "th": "ยาฟื้นฟู"
+  },
+  "ultimate": {
+    "en": "Ultimate",
+    "th": "ท่าไม้ตาย"
+  },
+  "switch": {
+    "en": "Switch active hero",
+    "th": "สลับตัวละคร"
+  },
+  "act": {
+    "en": "ACT",
+    "th": "บทที่"
+  },
+  "threat": {
+    "en": "THREAT",
+    "th": "ภัยคุกคาม"
+  },
+  "enemies": {
+    "en": "hostiles",
+    "th": "ศัตรู"
+  },
+  "controls_hint": {
+    "en": "WASD move · J / click attack · Q skill · Space dodge · E interact · Tab switch",
+    "th": "WASD เคลื่อนที่ · J / คลิกโจมตี · Q สกิล · Space หลบ · E สำรวจ · Tab สลับ"
+  },
+  "controls_full": {
+    "en": "Move: WASD or arrows. Attack: J or left click; heavy: K or right click. Skill: Q; ultimate: R; dodge: Space; interact: E. Switch: Tab or 1–3. Potion: H. Party: C; inventory: I; journal: L; map: M. Quick save: F5; quick load: F9. Controller: left stick, X attack, Y heavy, A dodge, B interact, LB skill, RB switch, Back ultimate, Start pause.",
+    "th": "เคลื่อนที่: WASD หรือลูกศร โจมตี: J หรือคลิกซ้าย โจมตีหนัก: K หรือคลิกขวา สกิล: Q ท่าไม้ตาย: R หลบ: Space สำรวจ: E สลับตัวละคร: Tab หรือ 1–3 ใช้ยา: H ปาร์ตี้: C สัมภาระ: I บันทึก: L แผนที่: M บันทึกด่วน: F5 โหลดด่วน: F9 จอย: คันโยกซ้ายเคลื่อนที่ X โจมตี Y โจมตีหนัก A หลบ B สำรวจ LB สกิล RB สลับ Back ท่าไม้ตาย Start พัก"
+  },
+  "gate_open": {
+    "en": "The way forward is open. Find the glowing exit and press E.",
+    "th": "เส้นทางเปิดแล้ว ไปยังประตูเรืองแสงแล้วกด E"
+  },
+  "narrator": {
+    "en": "The Veil",
+    "th": "ม่านดารา"
+  },
+  "next": {
+    "en": "Continue",
+    "th": "ถัดไป"
+  },
+  "close": {
+    "en": "Close",
+    "th": "ปิด"
+  },
+  "back": {
+    "en": "Back",
+    "th": "กลับ"
+  },
+  "gold": {
+    "en": "Gold",
+    "th": "ทอง"
+  },
+  "level": {
+    "en": "Level",
+    "th": "เลเวล"
+  },
+  "points": {
+    "en": "Points",
+    "th": "แต้ม"
+  },
+  "rank": {
+    "en": "Rank",
+    "th": "ระดับ"
+  },
+  "upgrade_skill": {
+    "en": "Upgrade skill",
+    "th": "พัฒนาสกิล"
+  },
+  "respec": {
+    "en": "Reset growth",
+    "th": "จัดสรรใหม่"
+  },
+  "deploy": {
+    "en": "Deploy in slot",
+    "th": "ลงช่อง"
+  },
+  "reunited": {
+    "en": "ALLIES REUNITED",
+    "th": "สหายที่พบแล้ว"
+  },
+  "equipment": {
+    "en": "Equipment",
+    "th": "อุปกรณ์"
+  },
+  "strength": {
+    "en": "Strength",
+    "th": "กำลัง"
+  },
+  "dexterity": {
+    "en": "Dexterity",
+    "th": "ความแม่นยำ"
+  },
+  "intelligence": {
+    "en": "Intelligence",
+    "th": "ปัญญา"
+  },
+  "vitality": {
+    "en": "Vitality",
+    "th": "พลังชีวิต"
+  },
+  "agility": {
+    "en": "Agility",
+    "th": "ความคล่องตัว"
+  },
+  "spirit": {
+    "en": "Spirit",
+    "th": "จิตวิญญาณ"
+  },
+  "max_hp": {
+    "en": "Max HP",
+    "th": "พลังชีวิตสูงสุด"
+  },
+  "max_mp": {
+    "en": "Max MP",
+    "th": "มานาสูงสุด"
+  },
+  "defense": {
+    "en": "Defense",
+    "th": "ป้องกัน"
+  },
+  "power": {
+    "en": "Magic power",
+    "th": "พลังเวท"
+  },
+  "speed": {
+    "en": "Speed",
+    "th": "ความเร็ว"
+  },
+  "crit": {
+    "en": "Critical chance",
+    "th": "โอกาสคริติคอล"
+  },
+  "weapon": {
+    "en": "Weapons",
+    "th": "อาวุธ"
+  },
+  "armor": {
+    "en": "Armor",
+    "th": "เกราะ"
+  },
+  "accessory": {
+    "en": "Accessories",
+    "th": "เครื่องประดับ"
+  },
+  "relic": {
+    "en": "Relics",
+    "th": "โบราณวัตถุ"
+  },
+  "consumable": {
+    "en": "Supplies",
+    "th": "ของใช้"
+  },
+  "material": {
+    "en": "Materials",
+    "th": "วัสดุ"
+  },
+  "all": {
+    "en": "All",
+    "th": "ทั้งหมด"
+  },
+  "common": {
+    "en": "Common",
+    "th": "ธรรมดา"
+  },
+  "uncommon": {
+    "en": "Uncommon",
+    "th": "พิเศษ"
+  },
+  "rare": {
+    "en": "Rare",
+    "th": "หายาก"
+  },
+  "epic": {
+    "en": "Epic",
+    "th": "มหากาพย์"
+  },
+  "legendary": {
+    "en": "Legendary",
+    "th": "ตำนาน"
+  },
+  "ancient": {
+    "en": "Ancient",
+    "th": "ยุคโบราณ"
+  },
+  "equip": {
+    "en": "Equip",
+    "th": "สวมใส่"
+  },
+  "unequip": {
+    "en": "Remove",
+    "th": "ถอด"
+  },
+  "equip_to": {
+    "en": "Assign to a deployed ally",
+    "th": "สวมให้สหายที่ลงสนาม"
+  },
+  "owned": {
+    "en": "Owned",
+    "th": "มีอยู่"
+  },
+  "buy": {
+    "en": "Buy",
+    "th": "ซื้อ"
+  },
+  "sell": {
+    "en": "Sell",
+    "th": "ขาย"
+  },
+  "use": {
+    "en": "Use",
+    "th": "ใช้"
+  },
+  "heal": {
+    "en": "Restore HP",
+    "th": "ฟื้นพลังชีวิต"
+  },
+  "mana": {
+    "en": "Restore MP",
+    "th": "ฟื้นมานา"
+  },
+  "revive": {
+    "en": "Revive",
+    "th": "ชุบชีวิต"
+  },
+  "empty_inventory": {
+    "en": "No items in this category.",
+    "th": "ไม่มีไอเทมในหมวดนี้"
+  },
+  "craft_at_camp": {
+    "en": "This item can also be crafted at camp.",
+    "th": "ไอเทมนี้สร้างได้ที่ค่ายพัก"
+  },
+  "claimed": {
+    "en": "Claimed",
+    "th": "รับแล้ว"
+  },
+  "claim": {
+    "en": "Claim reward",
+    "th": "รับรางวัล"
+  },
+  "map_help": {
+    "en": "Travel to any discovered route. Completed encounters can be replayed; unopened chests remain.",
+    "th": "เดินทางไปยังเส้นทางที่ค้นพบแล้ว เล่นการต่อสู้ซ้ำได้ หีบที่ยังไม่เปิดยังคงอยู่"
+  },
+  "language": {
+    "en": "Language",
+    "th": "ภาษา"
+  },
+  "difficulty": {
+    "en": "Difficulty",
+    "th": "ความยาก"
+  },
+  "story": {
+    "en": "Story",
+    "th": "เน้นเนื้อเรื่อง"
+  },
+  "normal": {
+    "en": "Adventure",
+    "th": "ผจญภัย"
+  },
+  "hard": {
+    "en": "Veteran",
+    "th": "ท้าทาย"
+  },
+  "master": {
+    "en": "Master volume",
+    "th": "เสียงทั้งหมด"
+  },
+  "music": {
+    "en": "Music",
+    "th": "ดนตรี"
+  },
+  "effects": {
+    "en": "Effects",
+    "th": "เสียงเอฟเฟกต์"
+  },
+  "touch_controls": {
+    "en": "Show touch controls",
+    "th": "แสดงปุ่มสัมผัส"
+  },
+  "on": {
+    "en": "On",
+    "th": "เปิด"
+  },
+  "off": {
+    "en": "Off",
+    "th": "ปิด"
+  },
+  "fullscreen": {
+    "en": "Fullscreen / window",
+    "th": "เต็มจอ / หน้าต่าง"
+  },
+  "save_advice": {
+    "en": "Browser saves belong to this site and browser. Export a backup before clearing site data or changing devices.",
+    "th": "บันทึกในเบราว์เซอร์ผูกกับเว็บไซต์และเบราว์เซอร์นี้ ส่งออกสำรองก่อนล้างข้อมูลหรือเปลี่ยนอุปกรณ์"
+  },
+  "saved": {
+    "en": "Journey saved.",
+    "th": "บันทึกการเดินทางแล้ว"
+  },
+  "loaded": {
+    "en": "Journey restored.",
+    "th": "โหลดการเดินทางแล้ว"
+  },
+  "save_failed": {
+    "en": "Could not save. Please export a backup.",
+    "th": "บันทึกไม่สำเร็จ กรุณาส่งออกสำรอง"
+  },
+  "load_failed": {
+    "en": "Save could not be loaded. It may be empty or invalid.",
+    "th": "โหลดบันทึกไม่ได้ อาจว่างหรือไม่ถูกต้อง"
+  },
+  "autosave": {
+    "en": "Autosave",
+    "th": "บันทึกอัตโนมัติ"
+  },
+  "slot": {
+    "en": "Save slot",
+    "th": "ช่องบันทึก"
+  },
+  "empty_slot": {
+    "en": "No journey saved here.",
+    "th": "ยังไม่มีบันทึกในช่องนี้"
+  },
+  "load": {
+    "en": "Load",
+    "th": "โหลด"
+  },
+  "save": {
+    "en": "Save",
+    "th": "บันทึก"
+  },
+  "backup_restore": {
+    "en": "Export / import backup",
+    "th": "ส่งออก / นำเข้าบันทึก"
+  },
+  "export_save": {
+    "en": "Export current journey",
+    "th": "ส่งออกการเดินทาง"
+  },
+  "import_save": {
+    "en": "Import pasted backup",
+    "th": "นำเข้าบันทึกที่วาง"
+  },
+  "backup_help": {
+    "en": "Export downloads a JSON backup on web. You can also copy the text below. To restore, paste a complete Astral Veil backup and select Import. Invalid backups leave your current journey intact.",
+    "th": "ส่งออกจะดาวน์โหลดไฟล์ JSON บนเว็บ หรือคัดลอกข้อความด้านล่าง หากต้องการกู้คืน ให้วางบันทึก Astral Veil ทั้งหมดแล้วกดนำเข้า บันทึกที่ไม่ถูกต้องจะไม่เปลี่ยนการเดินทางปัจจุบัน"
+  },
+  "pause_help": {
+    "en": "The world waits while you prepare.",
+    "th": "โลกหยุดรอขณะที่คุณเตรียมตัว"
+  },
+  "resume": {
+    "en": "Return to adventure",
+    "th": "กลับสู่การผจญภัย"
+  },
+  "title": {
+    "en": "Return to title",
+    "th": "กลับหน้าหลัก"
+  },
+  "camp_help": {
+    "en": "A quiet fire beneath unfamiliar stars.",
+    "th": "กองไฟสงบใต้ดวงดาวที่ไม่คุ้นเคย"
+  },
+  "rest": {
+    "en": "Rest and restore the party",
+    "th": "พักและฟื้นฟูปาร์ตี้"
+  },
+  "rested": {
+    "en": "The party is fully restored.",
+    "th": "ปาร์ตี้ฟื้นฟูเต็มแล้ว"
+  },
+  "camp_story": {
+    "en": "You take turns keeping watch. The school friendships are changing, but no one will face this world alone. Speak to nearby allies to hear their stories.",
+    "th": "พวกคุณผลัดกันเฝ้ายาม มิตรภาพในโรงเรียนกำลังเปลี่ยนไป แต่ไม่มีใครต้องเผชิญโลกนี้เพียงลำพัง พูดกับสหายใกล้ค่ายเพื่อฟังเรื่องราวของพวกเขา"
+  },
+  "craft_help": {
+    "en": "Combine gathered materials into supplies and equipment. Each recipe consumes the listed materials once.",
+    "th": "นำวัสดุที่เก็บได้มาสร้างของใช้และอุปกรณ์ แต่ละสูตรใช้วัสดุที่ระบุหนึ่งครั้ง"
+  },
+  "ending_heading": {
+    "en": "The dawn belongs to everyone.",
+    "th": "รุ่งอรุณเป็นของทุกคน"
+  },
+  "ending_complete": {
+    "en": "You have completed all three acts of the compact campaign. The thirty classmates have a future again.",
+    "th": "คุณผ่านทั้งสามบทของแคมเปญฉบับกระชับแล้ว เพื่อนร่วมชั้นทั้งสามสิบมีอนาคตอีกครั้ง"
+  },
+  "ending_postgame": {
+    "en": "Return to discovered regions, finish side quests, try new party combinations, and replay the towers. Your cleared stages and ending are saved.",
+    "th": "กลับไปยังภูมิภาคที่ค้นพบ ทำภารกิจเสริม ลองปาร์ตี้ใหม่ และเล่นหอคอยซ้ำ บทที่ผ่านและตอนจบถูกบันทึกไว้แล้ว"
+  },
+  "minutes": {
+    "en": "minutes",
+    "th": "นาที"
+  },
+  "explore_again": {
+    "en": "Continue exploring",
+    "th": "สำรวจต่อ"
+  },
+  "credits_text": {
+    "en": "An original adventure developed with Codex.\nThank you for carrying the thirty through the Veil.\nThis compact campaign is an early production milestone.",
+    "th": "การผจญภัยต้นฉบับที่พัฒนาร่วมกับ Codex\nขอบคุณที่พาสหายทั้งสามสิบผ่านม่านดารา\nแคมเปญฉบับกระชับนี้เป็นหมุดหมายแรกของการผลิต"
+  },
+  "defeat_heading": {
+    "en": "The light has not gone out.",
+    "th": "แสงยังไม่ดับลง"
+  },
+  "defeat_help": {
+    "en": "Regroup at this area’s camp for 10 gold. The encounter resets, and the story remains reachable. You can lower the difficulty in Settings.",
+    "th": "กลับมาตั้งหลักที่ค่ายในพื้นที่นี้โดยใช้ทอง 10 เหรียญ การต่อสู้จะเริ่มใหม่ เนื้อเรื่องยังเดินต่อได้ ปรับความยากในเมนูตั้งค่าได้"
+  },
+  "recover": {
+    "en": "Regroup at camp · 10 G",
+    "th": "ตั้งหลักที่ค่าย · 10 ทอง"
+  },
+  "recovered": {
+    "en": "A new attempt begins.",
+    "th": "เริ่มความพยายามอีกครั้ง"
+  },
+  "treasure_found": {
+    "en": "Treasure recovered.",
+    "th": "พบสมบัติแล้ว"
+  },
+  "chronicle": {
+    "en": "Story scenes",
+    "th": "ฉากเนื้อเรื่อง"
+  },
+  "tactics": {
+    "en": "Tactics",
+    "th": "วางแผนการต่อสู้"
+  }
+}

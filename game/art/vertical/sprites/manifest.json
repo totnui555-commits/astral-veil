@@ -1,0 +1,6776 @@
+{
+  "schema": 1,
+  "source": "asset_sources/vertical/sprites/turnarounds.png",
+  "source_sha256": "5b89c14ce7245009ccfc78ad65b8bc935c81031da9d7ec16f23f70915fc48956",
+  "method": "Original generated 4-view character art, hard-alpha nearest normalization, shared per-character palette, articulated pixel cutout rigs.",
+  "direction_order": [
+    "down",
+    "left",
+    "right",
+    "up"
+  ],
+  "assets": {
+    "c01": {
+      "texture": "res://art/vertical/sprites/c01.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "e362c0662d462ad6afcd642851aed8a5c4b5261c166da92abc57c5422043cc0d",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 780777,
+      "method": "128px unquantized source-art articulated rig; not upscaled legacy sprites"
+    },
+    "c04": {
+      "texture": "res://art/vertical/sprites/c04.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "83dbf4d07753013323080c26dc245c8a4554d016629f03e33784755dd882c88b",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 680097,
+      "method": "128px unquantized source-art articulated rig; not upscaled legacy sprites"
+    },
+    "c07": {
+      "texture": "res://art/vertical/sprites/c07.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "6a4ceefa013360584708c451b8c13773eedfdabc11b2835c586d910d5a630691",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 745799,
+      "method": "128px unquantized source-art articulated rig; not upscaled legacy sprites"
+    },
+    "stalker": {
+      "texture": "res://art/vertical/sprites/stalker.png",
+      "frame_size": 64,
+      "atlas_size": [
+        384,
+        1024
+      ],
+      "anchor": [
+        32,
+        58
+      ],
+      "draw_scale": 0.9,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        }
+      },
+      "used_frames": 76,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        }
+      },
+      "sha256": "a1380228b07c9585ed16e34f9438345f04cde03ec3d8ba49658d53db30274ad5",
+      "decoded_rgba_bytes": 1572864,
+      "png_bytes": 135735
+    },
+    "warden": {
+      "texture": "res://art/vertical/sprites/warden.png",
+      "frame_size": 128,
+      "atlas_size": [
+        768,
+        2048
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.9,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        }
+      },
+      "used_frames": 76,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        }
+      },
+      "sha256": "43b378d3f383862a5d55862adcf7de8fab4ef9e96206f69966d208f141100d2f",
+      "decoded_rgba_bytes": 6291456,
+      "png_bytes": 533857
+    },
+    "archer": {
+      "texture": "res://art/vertical/sprites/archer.png",
+      "frame_size": 64,
+      "atlas_size": [
+        384,
+        1024
+      ],
+      "anchor": [
+        32,
+        58
+      ],
+      "draw_scale": 0.9,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        }
+      },
+      "used_frames": 76,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        }
+      },
+      "source": "asset_sources/vertical/enemies/turnarounds.png",
+      "decoded_rgba_bytes": 1572864,
+      "png_bytes": 102871,
+      "method": "Original independent four views; AV-1 articulated pixel rig"
+    },
+    "brute": {
+      "texture": "res://art/vertical/sprites/brute.png",
+      "frame_size": 64,
+      "atlas_size": [
+        384,
+        1024
+      ],
+      "anchor": [
+        32,
+        58
+      ],
+      "draw_scale": 0.9,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        }
+      },
+      "used_frames": 76,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        }
+      },
+      "source": "asset_sources/vertical/enemies/turnarounds.png",
+      "decoded_rgba_bytes": 1572864,
+      "png_bytes": 154370,
+      "method": "Original independent four views; AV-1 articulated pixel rig"
+    },
+    "mage": {
+      "texture": "res://art/vertical/sprites/mage.png",
+      "frame_size": 64,
+      "atlas_size": [
+        384,
+        1024
+      ],
+      "anchor": [
+        32,
+        58
+      ],
+      "draw_scale": 0.9,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        }
+      },
+      "used_frames": 76,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        }
+      },
+      "source": "asset_sources/vertical/enemies/turnarounds.png",
+      "decoded_rgba_bytes": 1572864,
+      "png_bytes": 106186,
+      "method": "Original independent four views; AV-1 articulated pixel rig"
+    },
+    "n01": {
+      "texture": "res://art/vertical/sprites/n01.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "3571fd08ae382e8f60e61e2ae7004e05dd9241bca50ba0770ebd3807e51f4424",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 601856,
+      "source": "asset_sources/full_cast/pixel_turnarounds/town_pair.png",
+      "source_row": 0,
+      "source_sha256": "3f105f190bdc63c83c3294816e21eba370ce8afb6d960a4ca49ec6cc13e47a9d",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n02": {
+      "texture": "res://art/vertical/sprites/n02.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "9e7e8d8d8409452fcdba91d477b4b1351db958eb32fa706ecb03a16d778a9355",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 552337,
+      "source": "asset_sources/full_cast/pixel_turnarounds/town_pair.png",
+      "source_row": 1,
+      "source_sha256": "3f105f190bdc63c83c3294816e21eba370ce8afb6d960a4ca49ec6cc13e47a9d",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c02": {
+      "texture": "res://art/vertical/sprites/c02.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "71f4852f68bc0b50f3ced4026c8d815e8d503a7f63875f306348545ef76edf6b",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 628306,
+      "source": "asset_sources/full_cast/pixel_turnarounds/core_trio.png",
+      "source_row": 0,
+      "source_sha256": "857f1ac7654558d17d4da149189825e0e884c99535932c6932466502d67304b2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c02_festival": {
+      "texture": "res://art/vertical/sprites/c02_festival.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "382a26234f9ae9932982f2c0e48f2cb91b125f34d1292c22b1b87a1d70bab4bb",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 634978,
+      "method": "128px unquantized source-art articulated rig; not upscaled legacy sprites"
+    },
+    "c03": {
+      "texture": "res://art/vertical/sprites/c03.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "e0fc50a880b24e3b294c026d6b5d4219a978061dd7572158b797d8b2f120a22c",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 589404,
+      "source": "asset_sources/full_cast/pixel_turnarounds/core_trio.png",
+      "source_row": 1,
+      "source_sha256": "857f1ac7654558d17d4da149189825e0e884c99535932c6932466502d67304b2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c03_festival": {
+      "texture": "res://art/vertical/sprites/c03_festival.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "c8627165c346d91f28c20751d9ac6801c077f372c0a9ffd5db4101376ab571d7",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 588620,
+      "method": "128px unquantized source-art articulated rig; not upscaled legacy sprites"
+    },
+    "c05": {
+      "texture": "res://art/vertical/sprites/c05.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "f825227527d87660a4e5a831ef7cce1ae2ac4472045302af88c4b401e6d5e2b2",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 756448,
+      "source": "asset_sources/full_cast/pixel_turnarounds/core_trio.png",
+      "source_row": 2,
+      "source_sha256": "857f1ac7654558d17d4da149189825e0e884c99535932c6932466502d67304b2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c05_festival": {
+      "texture": "res://art/vertical/sprites/c05_festival.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "84fffef0628d16a1c1fcfea06d3cf6c46098e8e68ad8c918e2ecfb10e911a0b5",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 705974,
+      "source": "asset_sources/living_city/festival.png",
+      "source_row": 0,
+      "source_sha256": "93f9cb9001a53ecc9958610dfbb511456097941d1a0738dd3aac09e70b242dab",
+      "method": "Original 4-view design, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c06": {
+      "texture": "res://art/vertical/sprites/c06.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "b6a0b92e0a0f6ef69fbc556a1f648beb6ebdb0120af53268efef69a260b48deb",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 802173,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_1.png",
+      "source_row": 0,
+      "source_sha256": "86483b21773ffb74fd789d86668b68c5c267093a379a1a3092f4712be22020c2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c08": {
+      "texture": "res://art/vertical/sprites/c08.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "ed0e2e0cb3ea4760f8b50838896201081a53c4ee79c38d4c49b0aea1f67dd6a0",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 847351,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_1.png",
+      "source_row": 1,
+      "source_sha256": "86483b21773ffb74fd789d86668b68c5c267093a379a1a3092f4712be22020c2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c09": {
+      "texture": "res://art/vertical/sprites/c09.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "87a58d32c1aefc2c3a014af165d7910643c2eb544ee48a056b69aa6598be0857",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 846190,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_1.png",
+      "source_row": 2,
+      "source_sha256": "86483b21773ffb74fd789d86668b68c5c267093a379a1a3092f4712be22020c2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c10": {
+      "texture": "res://art/vertical/sprites/c10.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "745068cfc36135dfa1e9efa843adbf86eb9baadc3c5c51875a56f7c03c99c2c0",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 872353,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_1.png",
+      "source_row": 3,
+      "source_sha256": "86483b21773ffb74fd789d86668b68c5c267093a379a1a3092f4712be22020c2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c11": {
+      "texture": "res://art/vertical/sprites/c11.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "177ce271c283a4af5a46b1e22834bdc059e2a500b9c249f8560cdadac8a918c0",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 782897,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_1.png",
+      "source_row": 4,
+      "source_sha256": "86483b21773ffb74fd789d86668b68c5c267093a379a1a3092f4712be22020c2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c12": {
+      "texture": "res://art/vertical/sprites/c12.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "e9b88f29954f441a15c3aa40ef2f687cce73e9cf478fdd72fea5f24a5201cd02",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 891682,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_1.png",
+      "source_row": 5,
+      "source_sha256": "86483b21773ffb74fd789d86668b68c5c267093a379a1a3092f4712be22020c2",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c13": {
+      "texture": "res://art/vertical/sprites/c13.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "08e76920936193df3a02d45d54894f3c5a2922522f63ea163acb449a9c403c71",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 722533,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_2.png",
+      "source_row": 0,
+      "source_sha256": "8d3abe825cd1cd56b011b138f546f76c969591ed281547b0591e29b84450cf39",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c14": {
+      "texture": "res://art/vertical/sprites/c14.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "30cd2ef7191da30d9ce036e13ed2e0f75b62fc2ec0808c56e1b7d802b822cf32",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 710995,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_2.png",
+      "source_row": 1,
+      "source_sha256": "8d3abe825cd1cd56b011b138f546f76c969591ed281547b0591e29b84450cf39",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c15": {
+      "texture": "res://art/vertical/sprites/c15.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "60b9c6b25a152ba53151d3eb5f007d54e56f4b65312968689a88acf38cb9ca92",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 822260,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_2.png",
+      "source_row": 2,
+      "source_sha256": "8d3abe825cd1cd56b011b138f546f76c969591ed281547b0591e29b84450cf39",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c16": {
+      "texture": "res://art/vertical/sprites/c16.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "01b751fc6b0c1dc67fadbf08fda07c0fa8b98f4946d842c1a19e0e4a2cfb12c1",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 932111,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_2.png",
+      "source_row": 3,
+      "source_sha256": "8d3abe825cd1cd56b011b138f546f76c969591ed281547b0591e29b84450cf39",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c17": {
+      "texture": "res://art/vertical/sprites/c17.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "3a46c5cf02aa026799218347224ae2a2ec504d7fd8eecf70c6426396e97bec44",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 901642,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_2.png",
+      "source_row": 4,
+      "source_sha256": "8d3abe825cd1cd56b011b138f546f76c969591ed281547b0591e29b84450cf39",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c18": {
+      "texture": "res://art/vertical/sprites/c18.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "890608c5c48ee53a5f52e52df38e905a6b6b8b4e3041eada4894f8d58e911a3e",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 782307,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_2.png",
+      "source_row": 5,
+      "source_sha256": "8d3abe825cd1cd56b011b138f546f76c969591ed281547b0591e29b84450cf39",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c19": {
+      "texture": "res://art/vertical/sprites/c19.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "f1b33cccb47d475f1d1651ca56491624c1694382a6847aeecddd4be13d8c9770",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 834139,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_3.png",
+      "source_row": 0,
+      "source_sha256": "dcf4ecb9b79bb685f4484f1ba6ab9994868a34612b064b15ee8ff56b15b3c688",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c20": {
+      "texture": "res://art/vertical/sprites/c20.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "cc276c7f39b6346b5ff5b4580302ea448b54ae6476028fd9e8d9ecd56219d752",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 803691,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_3.png",
+      "source_row": 1,
+      "source_sha256": "dcf4ecb9b79bb685f4484f1ba6ab9994868a34612b064b15ee8ff56b15b3c688",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c21": {
+      "texture": "res://art/vertical/sprites/c21.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "3a89ceb78fc5e2999761a3dab3b0d68adad9adefc15b8e091c6d1479437857cd",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 744294,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_3.png",
+      "source_row": 2,
+      "source_sha256": "dcf4ecb9b79bb685f4484f1ba6ab9994868a34612b064b15ee8ff56b15b3c688",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c22": {
+      "texture": "res://art/vertical/sprites/c22.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "5eb900c6641859a5f08cf36477a607eb7299c9e5b2e17b2391f27dbef0d45cfb",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 905438,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_3.png",
+      "source_row": 3,
+      "source_sha256": "dcf4ecb9b79bb685f4484f1ba6ab9994868a34612b064b15ee8ff56b15b3c688",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c23": {
+      "texture": "res://art/vertical/sprites/c23.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "82786ce7fd198ffccb59f8552aa07e0606cbb3768997f00f651a9bc66f8de1b7",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 805523,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_3.png",
+      "source_row": 4,
+      "source_sha256": "dcf4ecb9b79bb685f4484f1ba6ab9994868a34612b064b15ee8ff56b15b3c688",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c24": {
+      "texture": "res://art/vertical/sprites/c24.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "becad23e8710df5cc53875d76c1696bf710a830d711d8acdf04f70feb548d5c0",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 673911,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_3.png",
+      "source_row": 5,
+      "source_sha256": "dcf4ecb9b79bb685f4484f1ba6ab9994868a34612b064b15ee8ff56b15b3c688",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c25": {
+      "texture": "res://art/vertical/sprites/c25.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "faf079e01a96c7769bb6b914e95961194801e124739bb28b263db65f7950fab5",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 795325,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_4.png",
+      "source_row": 0,
+      "source_sha256": "45c15fc6a1cf16bdb5f7ab4cbc73795a4b8a46b8bba25697da10e222d588c537",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c26": {
+      "texture": "res://art/vertical/sprites/c26.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "38e3d7752819ee02ba320962e94ea30fbedcfb577900169341b960d6c503961d",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 846372,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_4.png",
+      "source_row": 1,
+      "source_sha256": "45c15fc6a1cf16bdb5f7ab4cbc73795a4b8a46b8bba25697da10e222d588c537",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c27": {
+      "texture": "res://art/vertical/sprites/c27.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "3a5e1011aaa8f50138c33b8e9e6d549789145353d48218047d42508891df5351",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 718160,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_4.png",
+      "source_row": 2,
+      "source_sha256": "45c15fc6a1cf16bdb5f7ab4cbc73795a4b8a46b8bba25697da10e222d588c537",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c28": {
+      "texture": "res://art/vertical/sprites/c28.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "2809701032c109da8177ae8b39eefd13494e447973a03dfa1b8d20566ff324bb",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 907604,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_4.png",
+      "source_row": 3,
+      "source_sha256": "45c15fc6a1cf16bdb5f7ab4cbc73795a4b8a46b8bba25697da10e222d588c537",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c29": {
+      "texture": "res://art/vertical/sprites/c29.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "9503fb9e0d255b973cc8083f11a825082efb11db0668587489ae75a7c61bfbc3",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 870057,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_4.png",
+      "source_row": 4,
+      "source_sha256": "45c15fc6a1cf16bdb5f7ab4cbc73795a4b8a46b8bba25697da10e222d588c537",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "c30": {
+      "texture": "res://art/vertical/sprites/c30.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "a556c47b38739e268717a80627193a65959cc15108e96f30a76d6ebfcd08152a",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 792647,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_4.png",
+      "source_row": 5,
+      "source_sha256": "45c15fc6a1cf16bdb5f7ab4cbc73795a4b8a46b8bba25697da10e222d588c537",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n03": {
+      "texture": "res://art/vertical/sprites/n03.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "f2f553cbf1c91508f6edad32aa760b3fcaad19e2462142d686dc2938da2127d8",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 743353,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_5.png",
+      "source_row": 0,
+      "source_sha256": "7344b77e13a369f9dc971c22501cf02d757983000c1881d5f365cd8294bd0a14",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n04": {
+      "texture": "res://art/vertical/sprites/n04.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "66895ba2745f4757a857228ccf35ea2b75a1d9430cc7c416e0403f89c743f704",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 998525,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_5.png",
+      "source_row": 1,
+      "source_sha256": "7344b77e13a369f9dc971c22501cf02d757983000c1881d5f365cd8294bd0a14",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n05": {
+      "texture": "res://art/vertical/sprites/n05.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "a7d3ea274e8be7ec0a9852ff72a5d23480ce9e2612e05dba0fd71c45f5d0e312",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 870890,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_5.png",
+      "source_row": 2,
+      "source_sha256": "7344b77e13a369f9dc971c22501cf02d757983000c1881d5f365cd8294bd0a14",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n06": {
+      "texture": "res://art/vertical/sprites/n06.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "71084d1d1c860be678bf2694a42c37694ff3fdeeda0c20536a99df63c75bd027",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 956818,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_5.png",
+      "source_row": 3,
+      "source_sha256": "7344b77e13a369f9dc971c22501cf02d757983000c1881d5f365cd8294bd0a14",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n07": {
+      "texture": "res://art/vertical/sprites/n07.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "6b3661d7f5dbba09f6e386b8682e2539abdf75d7945c23f3f0bee6c74f2a0dfd",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 987334,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_5.png",
+      "source_row": 4,
+      "source_sha256": "7344b77e13a369f9dc971c22501cf02d757983000c1881d5f365cd8294bd0a14",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    },
+    "n08": {
+      "texture": "res://art/vertical/sprites/n08.png",
+      "frame_size": 128,
+      "atlas_size": [
+        1536,
+        1536
+      ],
+      "anchor": [
+        64,
+        116
+      ],
+      "draw_scale": 0.6,
+      "columns": 6,
+      "directions": [
+        "down",
+        "left",
+        "right",
+        "up"
+      ],
+      "actions": {
+        "idle": {
+          "index": 0,
+          "frames": 4
+        },
+        "walk": {
+          "index": 1,
+          "frames": 6
+        },
+        "attack": {
+          "index": 2,
+          "frames": 6
+        },
+        "hit": {
+          "index": 3,
+          "frames": 3
+        },
+        "cast": {
+          "index": 4,
+          "frames": 6
+        },
+        "dodge": {
+          "index": 5,
+          "frames": 4
+        }
+      },
+      "used_frames": 116,
+      "frame_variation": {
+        "down/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "down/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "down/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "down/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "left/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "left/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "left/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "right/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "right/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "right/dodge": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/idle": {
+          "frames": 4,
+          "distinct": 4
+        },
+        "up/walk": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/attack": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/hit": {
+          "frames": 3,
+          "distinct": 3
+        },
+        "up/cast": {
+          "frames": 6,
+          "distinct": 6
+        },
+        "up/dodge": {
+          "frames": 4,
+          "distinct": 4
+        }
+      },
+      "sha256": "9396962cc03dd5c263b72eecfea957648e901718585e4c701d653c861a7c8eb8",
+      "decoded_rgba_bytes": 9437184,
+      "png_bytes": 852256,
+      "source": "asset_sources/full_cast/pixel_turnarounds/group_5.png",
+      "source_row": 5,
+      "source_sha256": "7344b77e13a369f9dc971c22501cf02d757983000c1881d5f365cd8294bd0a14",
+      "method": "Original 4-view design redrawn in anime pixel art, AV-2 128px articulated rig; character data and gameplay unchanged"
+    }
+  },
+  "total_decoded_rgba_bytes": 399507456,
+  "total_png_bytes": 33318446
+}

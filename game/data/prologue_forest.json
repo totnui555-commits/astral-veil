@@ -1,0 +1,199 @@
+{
+  "id": 0,
+  "name": {
+    "en": "Hearthwood · Scattered Lights",
+    "th": "ป่าฮาร์ธวูด · แสงที่พลัดพราก"
+  },
+  "region": "verdant",
+  "act": 1,
+  "theme": "forest",
+  "safe": true,
+  "spawn": [
+    180,
+    500
+  ],
+  "exit": [
+    1450,
+    500
+  ],
+  "obstacles": [
+    [
+      410,
+      214,
+      40,
+      52
+    ],
+    [
+      740,
+      174,
+      40,
+      52
+    ],
+    [
+      1070,
+      214,
+      40,
+      52
+    ],
+    [
+      430,
+      744,
+      40,
+      52
+    ],
+    [
+      780,
+      764,
+      40,
+      52
+    ],
+    [
+      1100,
+      734,
+      40,
+      52
+    ],
+    [
+      256,
+      162,
+      48,
+      36
+    ],
+    [
+      1316,
+      192,
+      48,
+      36
+    ],
+    [
+      246,
+      802,
+      48,
+      36
+    ],
+    [
+      1356,
+      772,
+      48,
+      36
+    ]
+  ],
+  "props": [
+    {
+      "kind": "tree",
+      "pos": [
+        430,
+        240
+      ]
+    },
+    {
+      "kind": "tree",
+      "pos": [
+        760,
+        200
+      ]
+    },
+    {
+      "kind": "tree",
+      "pos": [
+        1090,
+        240
+      ]
+    },
+    {
+      "kind": "tree",
+      "pos": [
+        450,
+        770
+      ]
+    },
+    {
+      "kind": "tree",
+      "pos": [
+        800,
+        790
+      ]
+    },
+    {
+      "kind": "tree",
+      "pos": [
+        1120,
+        760
+      ]
+    },
+    {
+      "kind": "rock",
+      "pos": [
+        280,
+        180
+      ]
+    },
+    {
+      "kind": "rock",
+      "pos": [
+        1340,
+        210
+      ]
+    },
+    {
+      "kind": "rock",
+      "pos": [
+        270,
+        820
+      ]
+    },
+    {
+      "kind": "rock",
+      "pos": [
+        1380,
+        790
+      ]
+    },
+    {
+      "kind": "crystal",
+      "pos": [
+        670,
+        130
+      ]
+    },
+    {
+      "kind": "crystal",
+      "pos": [
+        1020,
+        880
+      ]
+    }
+  ],
+  "enemies": [],
+  "boss": {},
+  "npcs": [
+    {
+      "id": "forest_sera",
+      "character_id": "n01",
+      "name": {
+        "en": "Sera",
+        "th": "เซรา"
+      },
+      "pos": [
+        330,
+        530
+      ],
+      "story": "forest_arrival"
+    }
+  ],
+  "chests": [],
+  "sigils": [],
+  "objective": {
+    "en": "Catch your breath. Speak to Sera and follow the eastern lantern to Hearthwell.",
+    "th": "พักหายใจ คุยกับเซรา แล้วตามโคมตะวันออกไปยังฮาร์ธเวล"
+  },
+  "intro": "forest_arrival",
+  "outro": "forest_departure",
+  "recruits": [
+    "c01",
+    "c04",
+    "c07"
+  ],
+  "visual_map": 2,
+  "ground": "map_2_ground.png"
+}

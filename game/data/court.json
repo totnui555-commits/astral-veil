@@ -1,0 +1,74 @@
+[
+  {
+    "id": "king",
+    "name": {
+      "en": "King Aldren",
+      "th": "ราชาอัลเดรน"
+    },
+    "class_name": {
+      "en": "King of Aurelion",
+      "th": "ราชาอัลเดรน"
+    },
+    "court": true
+  },
+  {
+    "id": "archmage",
+    "name": {
+      "en": "Archmage Vaelis",
+      "th": "จอมเวทย์เวลีส"
+    },
+    "class_name": {
+      "en": "Royal Summoner",
+      "th": "จอมเวทย์เวลีส"
+    },
+    "court": true
+  },
+  {
+    "id": "chancellor",
+    "name": {
+      "en": "Chancellor Orven",
+      "th": "อัครเสนาบดีออร์เวน"
+    },
+    "class_name": {
+      "en": "Chancellor",
+      "th": "อัครเสนาบดีออร์เวน"
+    },
+    "court": true
+  },
+  {
+    "id": "royal_guard",
+    "name": {
+      "en": "Royal Guard",
+      "th": "องครักษ์หลวง"
+    },
+    "class_name": {
+      "en": "Palace Guard",
+      "th": "องครักษ์หลวง"
+    },
+    "court": true
+  },
+  {
+    "id": "lady",
+    "name": {
+      "en": "Lady Mereth",
+      "th": "เลดีเมเร็ธ"
+    },
+    "class_name": {
+      "en": "Noble of the Western March",
+      "th": "เลดีเมเร็ธ"
+    },
+    "court": true
+  },
+  {
+    "id": "lord",
+    "name": {
+      "en": "Lord Ceylan",
+      "th": "ลอร์ดเซย์ลัน"
+    },
+    "class_name": {
+      "en": "Noble of the Court",
+      "th": "ลอร์ดเซย์ลัน"
+    },
+    "court": true
+  }
+]

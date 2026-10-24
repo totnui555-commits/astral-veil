@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "source": "asset_sources/vertical/interactables/astral_objects-master.png",
+  "source_sha256": "ce08467bfd2691ccdb6a18937fcd08e350e57e6d3f19e78aaec51d8fbdb424d4",
+  "atlas": "astral_objects.png",
+  "atlas_dimensions": [
+    512,
+    256
+  ],
+  "decoded_rgba_bytes": 524288,
+  "png_bytes": 70703,
+  "maps": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "objects": {
+    "chest_closed": {
+      "region": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        50,
+        110,
+        390,
+        290
+      ],
+      "master_anchor": [
+        200,
+        270
+      ],
+      "normalization_scale": 0.13
+    },
+    "chest_open": {
+      "region": [
+        128,
+        0,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        490,
+        30,
+        390,
+        365
+      ],
+      "master_anchor": [
+        190,
+        350
+      ],
+      "normalization_scale": 0.13
+    },
+    "fire_a": {
+      "region": [
+        256,
+        0,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        914,
+        5,
+        399,
+        394
+      ],
+      "master_anchor": [
+        195,
+        374
+      ],
+      "normalization_scale": 0.14
+    },
+    "fire_b": {
+      "region": [
+        384,
+        0,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        1350,
+        5,
+        399,
+        394
+      ],
+      "master_anchor": [
+        200,
+        374
+      ],
+      "normalization_scale": 0.14
+    },
+    "rune_dormant": {
+      "region": [
+        0,
+        128,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        60,
+        465,
+        370,
+        389
+      ],
+      "master_anchor": [
+        183,
+        362
+      ],
+      "normalization_scale": 0.145
+    },
+    "rune_active": {
+      "region": [
+        128,
+        128,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        496,
+        438,
+        385,
+        425
+      ],
+      "master_anchor": [
+        184,
+        389
+      ],
+      "normalization_scale": 0.145
+    },
+    "gate_dormant": {
+      "region": [
+        256,
+        128,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        905,
+        404,
+        405,
+        445
+      ],
+      "master_anchor": [
+        205,
+        420
+      ],
+      "normalization_scale": 0.23
+    },
+    "gate_active": {
+      "region": [
+        384,
+        128,
+        128,
+        128
+      ],
+      "anchor": [
+        64,
+        120
+      ],
+      "master_region": [
+        1342,
+        403,
+        420,
+        455
+      ],
+      "master_anchor": [
+        210,
+        430
+      ],
+      "normalization_scale": 0.23
+    }
+  },
+  "gameplay": "World retains all positions, interaction radii, flags and readiness"
+}

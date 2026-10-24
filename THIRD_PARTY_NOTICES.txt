@@ -1,0 +1,61 @@
+Godot Engine is distributed under the MIT License.
+Copyright (c) 2007-2026 Juan Linietsky, Ariel Manzur and Godot contributors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Font licenses:
+- Noto Sans: game/art/fonts/NotoSans-OFL.txt
+- Noto Sans Thai: game/art/fonts/NotoSansThai-OFL.txt
+- Noto Serif: game/art/fonts/NotoSerif-OFL.txt
+- DejaVu Sans: game/art/fonts/DejaVuSans-LICENSE.txt
+
+Original project artwork and audio:
+- Retained pixel artwork and synthesized audio are built by tools/generate_art.py.
+- The opening visual slice uses original character turnarounds, illustrated
+  portraits, sanctuary title imagery and a prop atlas generated for ASTRAL VEIL
+  with OpenAI's native ImageGen. Generation prompts, original masters and
+  normalization records are preserved under asset_sources/vertical/ where
+  applicable; the prop atlas's exact provenance is recorded in
+  game/art/vertical/environment/PROVENANCE.md.
+- tools/build_vertical_sprites.py normalizes the original turnarounds with hard
+  alpha, nearest sampling and shared palettes, then articulates pixel cutout rigs
+  into the committed directional animation atlases. These animation frames are
+  generated from articulated rigs rather than individually hand-drawn frames.
+- tools/build_enemy_packages.py normalizes the independently generated Archer,
+  Brute and Mage views and applies the same rig technique. Their exact source
+  and prompt remain in asset_sources/vertical/enemies/.
+- tools/build_vertical_interactables.py packs original ImageGen chest/fire/rune/
+  gate artwork at actual gameplay scale. The unmodified master and generation
+  provenance remain in asset_sources/vertical/interactables/.
+- The original generated herringbone/limestone/moss/thornstone material source
+  and provenance remain in tools/art_masters/; composition/normalization uses
+  those materials in the existing four grounds without a new runtime atlas.
+- tools/build_vertical_environments.py authors ground compositions and editable
+  prop placement; tools/build_vertical_vfx.py authors pixel combat effect cels;
+  tools/build_fantasy_ui.py authors the engraved interface materials and emblems.
+
+The source distribution includes the editable asset_sources masters/provenance
+and these builders. Runtime Web/native packs include game/ assets only, with
+generation masters and QA inspection sheets kept outside the runtime tree.
+No copied commercial game art, third-party asset pack or soundtrack recording is
+used. The font and Godot licenses above remain applicable to those components.
+
+2026-10-13 original town pass: Sera/Ilyen turnarounds and matching portraits, Hearthwell and Verdant grounds generated with native OpenAI ImageGen. Original masters and prompts: asset_sources/town_pass/provenance.json. No supplied commercial reference image was copied into the runtime.
+
+Living-city assets (generated 2026-10-13, admitted 2026-10-14): original native ImageGen Leila/Rafael/Hana turnarounds, default/festival portraits and costumes, market district, Skyfall cinematic and signature VFX. Exact prompts and masters in asset_sources/living_city/provenance.json. Runtime actor motion is articulated from source views. No commercial-reference art is copied into the runtime.

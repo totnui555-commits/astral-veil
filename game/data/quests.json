@@ -1,0 +1,272 @@
+[
+  {
+    "id": "q01",
+    "name": {
+      "en": "Names Before Crowns",
+      "th": "ชื่อก่อนมงกุฎ"
+    },
+    "description": {
+      "en": "Hear why Sera refuses to treat classmates as royal property.",
+      "th": "ฟังเหตุผลที่เซราไม่ยอมมองเพื่อนร่วมชั้นเป็นทรัพย์สินราชสำนัก"
+    },
+    "type": "talk",
+    "target": "n01",
+    "required": 1,
+    "unlock_stage": 0,
+    "reward_gold": 70,
+    "reward_xp": 100,
+    "reward_item": "x01"
+  },
+  {
+    "id": "q02",
+    "name": {
+      "en": "A Road for Everyone",
+      "th": "ถนนของทุกคน"
+    },
+    "description": {
+      "en": "Clear the Verdant Road so displaced villagers can travel.",
+      "th": "เปิดเส้นทางพงไพรให้ชาวบ้านที่พลัดถิ่นเดินทางได้"
+    },
+    "type": "kill",
+    "target": "any",
+    "required": 4,
+    "unlock_stage": 2,
+    "reward_gold": 90,
+    "reward_xp": 120,
+    "reward_item": "a02"
+  },
+  {
+    "id": "q03",
+    "name": {
+      "en": "The Keeper's Shelter",
+      "th": "ที่พักของผู้รักษา"
+    },
+    "description": {
+      "en": "Listen to Ilyen's account of life beneath the tower.",
+      "th": "ฟังอิลเยนเล่าชีวิตใต้หอคอย"
+    },
+    "type": "talk",
+    "target": "n02",
+    "required": 1,
+    "unlock_stage": 2,
+    "reward_gold": 60,
+    "reward_xp": 90,
+    "reward_item": "fiber"
+  },
+  {
+    "id": "q04",
+    "name": {
+      "en": "A Signal Answered",
+      "th": "ตอบสัญญาณ"
+    },
+    "description": {
+      "en": "Wake both Thornlight relays; prove the runes answer people.",
+      "th": "ปลุกจุดถ่ายทอดแสงหนามทั้งสองและพิสูจน์ว่าอักขระตอบผู้คน"
+    },
+    "type": "sigil",
+    "target": "3",
+    "required": 2,
+    "unlock_stage": 3,
+    "reward_gold": 110,
+    "reward_xp": 140,
+    "reward_item": "crystal"
+  },
+  {
+    "id": "q05",
+    "name": {
+      "en": "Thornlight Released",
+      "th": "ปลดแสงหนาม"
+    },
+    "description": {
+      "en": "Free the first tower from its corrupted warden.",
+      "th": "ปลดหอคอยแรกจากผู้พิทักษ์ที่เสียหาย"
+    },
+    "type": "kill",
+    "target": "thorn_warden",
+    "required": 1,
+    "unlock_stage": 3,
+    "reward_gold": 150,
+    "reward_xp": 160,
+    "reward_item": "r01"
+  },
+  {
+    "id": "q06",
+    "name": {
+      "en": "Tools, Not Tribute",
+      "th": "เครื่องมือแทนบรรณาการ"
+    },
+    "description": {
+      "en": "Forge Anika's rune hammer using recovered materials.",
+      "th": "หลอมค้อนอักขระของอนิกาด้วยวัตถุดิบที่เก็บคืนมา"
+    },
+    "type": "craft",
+    "target": "w14",
+    "required": 1,
+    "unlock_stage": 4,
+    "reward_gold": 140,
+    "reward_xp": 160,
+    "reward_item": "iron"
+  },
+  {
+    "id": "q07",
+    "name": {
+      "en": "Beyond the Guild Wall",
+      "th": "พ้นกำแพงกิลด์"
+    },
+    "description": {
+      "en": "Ask Borun why repair knowledge belongs to everyone.",
+      "th": "ถามโบรุนว่าเหตุใดความรู้ซ่อมแซมจึงเป็นของทุกคน"
+    },
+    "type": "talk",
+    "target": "n03",
+    "required": 1,
+    "unlock_stage": 4,
+    "reward_gold": 90,
+    "reward_xp": 120,
+    "reward_item": "a05"
+  },
+  {
+    "id": "q08",
+    "name": {
+      "en": "Map Without Owners",
+      "th": "แผนที่ไร้เจ้าของ"
+    },
+    "description": {
+      "en": "Silence the furnace tower and recover its hidden map.",
+      "th": "หยุดหอคอยเตาหลอมและกู้แผนที่ที่ซ่อนไว้"
+    },
+    "type": "stage",
+    "target": "5",
+    "required": 1,
+    "unlock_stage": 5,
+    "reward_gold": 180,
+    "reward_xp": 210,
+    "reward_item": "r02"
+  },
+  {
+    "id": "q09",
+    "name": {
+      "en": "A Record Kept Whole",
+      "th": "บันทึกไม่ขาดหาย"
+    },
+    "description": {
+      "en": "Recover the archive cache before deciding what to believe.",
+      "th": "กู้หีบหอจดหมายเหตุให้ได้ก่อนตัดสินว่าจะเชื่อสิ่งใด"
+    },
+    "type": "chest",
+    "target": "m06_cache",
+    "required": 1,
+    "unlock_stage": 6,
+    "reward_gold": 130,
+    "reward_xp": 160,
+    "reward_item": "x07"
+  },
+  {
+    "id": "q10",
+    "name": {
+      "en": "The Dead Cannot Vote",
+      "th": "ผู้ตายเลือกแทนไม่ได้"
+    },
+    "description": {
+      "en": "Hear Ossian explain why a memory cannot command the living.",
+      "th": "ฟังออสเซียนอธิบายว่าความทรงจำสั่งผู้มีชีวิตไม่ได้"
+    },
+    "type": "talk",
+    "target": "n06",
+    "required": 1,
+    "unlock_stage": 6,
+    "reward_gold": 100,
+    "reward_xp": 150,
+    "reward_item": "greater_ether"
+  },
+  {
+    "id": "q11",
+    "name": {
+      "en": "Coast Unbound",
+      "th": "ชายฝั่งปลดพันธะ"
+    },
+    "description": {
+      "en": "End the leviathan's forced service and reopen the coast.",
+      "th": "ยุติหน้าที่ที่เลวีอาธานถูกบังคับและเปิดชายฝั่งอีกครั้ง"
+    },
+    "type": "kill",
+    "target": "tide_leviathan",
+    "required": 1,
+    "unlock_stage": 7,
+    "reward_gold": 210,
+    "reward_xp": 240,
+    "reward_item": "r04"
+  },
+  {
+    "id": "q12",
+    "name": {
+      "en": "Shelter Above Orders",
+      "th": "ที่พักเหนือคำสั่ง"
+    },
+    "description": {
+      "en": "Listen to Edda and remember the homes lost to barrier policy.",
+      "th": "ฟังเอดดาและจดจำบ้านที่สูญเสียเพราะนโยบายม่านฟ้า"
+    },
+    "type": "talk",
+    "target": "n07",
+    "required": 1,
+    "unlock_stage": 8,
+    "reward_gold": 120,
+    "reward_xp": 180,
+    "reward_item": "a10"
+  },
+  {
+    "id": "q13",
+    "name": {
+      "en": "Voices in the Snow",
+      "th": "เสียงท่ามกลางหิมะ"
+    },
+    "description": {
+      "en": "Quiet the fractured choir without erasing its testimony.",
+      "th": "ให้คณะเสียงที่แตกสลายสงบโดยไม่ลบคำให้การ"
+    },
+    "type": "stage",
+    "target": "9",
+    "required": 1,
+    "unlock_stage": 9,
+    "reward_gold": 240,
+    "reward_xp": 270,
+    "reward_item": "r05"
+  },
+  {
+    "id": "q14",
+    "name": {
+      "en": "A Person, Not a Port",
+      "th": "บุคคลเหนือช่องเชื่อม"
+    },
+    "description": {
+      "en": "Ask Aster what freely chosen service would mean.",
+      "th": "ถามแอสเตอร์ว่าการเลือกทำหน้าที่อย่างอิสระหมายถึงอะไร"
+    },
+    "type": "talk",
+    "target": "n08",
+    "required": 1,
+    "unlock_stage": 10,
+    "reward_gold": 180,
+    "reward_xp": 220,
+    "reward_item": "x13"
+  },
+  {
+    "id": "q15",
+    "name": {
+      "en": "A Sky We Choose",
+      "th": "ฟ้าที่เราเลือก"
+    },
+    "description": {
+      "en": "Defeat the Architect so the thirty can choose the world's covenant.",
+      "th": "เอาชนะสถาปนิกให้สามสิบคนเลือกข้อตกลงของโลกได้"
+    },
+    "type": "kill",
+    "target": "veil_architect",
+    "required": 1,
+    "unlock_stage": 11,
+    "reward_gold": 400,
+    "reward_xp": 450,
+    "reward_item": "r08"
+  }
+]
