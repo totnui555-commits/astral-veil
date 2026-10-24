@@ -1,0 +1,63 @@
+(() => {
+  const artifacts = {"index.pck":{"size":90545860,"sha256":"587073a079f964c0646703a8fcd886a23899d1085f865652cadb9e35f1bf16b8","parts":[{"name":"index.pck-587073a079f964c0.part-000","size":5242880,"sha256":"edf28debf10b6791828f708a9b1730ca56ee8c098fcb70bee189dc1a7c038f87"},{"name":"index.pck-587073a079f964c0.part-001","size":5242880,"sha256":"3b4b2bc8427ea650ce310e7416e9f4a82dab3bf31f3982ccdec579e063b01065"},{"name":"index.pck-587073a079f964c0.part-002","size":5242880,"sha256":"c1a92e7ec7c5295601b5d9df13aede39b1b643ced62d70c37082db8bf6cd32b1"},{"name":"index.pck-587073a079f964c0.part-003","size":5242880,"sha256":"19970df02e9819f0cd2a5f262e17f849e733e85e3fc22f6fb50d42c69a0e03c2"},{"name":"index.pck-587073a079f964c0.part-004","size":5242880,"sha256":"b21e20704f42d690cebeceaa4ff19089d940fe1b3ec4a1d49f2ef56a83268e36"},{"name":"index.pck-587073a079f964c0.part-005","size":5242880,"sha256":"d18d7a8c2a8a3f12628889d4425a5d04b7d2a2817c06b73d9d6e4ee75bf0c213"},{"name":"index.pck-587073a079f964c0.part-006","size":5242880,"sha256":"0b822547f616708a6639a8b23dda6ee464f654166b7fecaadf319ad663c3ccd0"},{"name":"index.pck-587073a079f964c0.part-007","size":5242880,"sha256":"311b00198272d8d122a3cf4d5be94bcce783a415d0f9304e45e36c06bd63dfef"},{"name":"index.pck-587073a079f964c0.part-008","size":5242880,"sha256":"1c8fc9d8bb8caad3d08061fc14d54a2fdb23f5770f8ed66168c560c91375b84b"},{"name":"index.pck-587073a079f964c0.part-009","size":5242880,"sha256":"48df0020793496a7862c42c65ca357fc2f54201e44235f58f285683d25e23930"},{"name":"index.pck-587073a079f964c0.part-010","size":5242880,"sha256":"364a05a7918a9dcd4f807791cd08a06a56af279763ad83955ff62ebb69a102de"},{"name":"index.pck-587073a079f964c0.part-011","size":5242880,"sha256":"705a59e3a2318f66d8dc0a4e023d2a11654f5358ff4f44d15a0158be2d245a5a"},{"name":"index.pck-587073a079f964c0.part-012","size":5242880,"sha256":"4eaf6a47476c8316d7ccbb4287617685d98c270488db2019dbc984e175ef0262"},{"name":"index.pck-587073a079f964c0.part-013","size":5242880,"sha256":"0abeae1c6d7941205a617fd751369018e55af70c5f3039bb91011ac9b3a27fcc"},{"name":"index.pck-587073a079f964c0.part-014","size":5242880,"sha256":"3d055a448a7ac915f6b8cc825a5638d406fd609e37aa31bb2c2cca65d3e5f455"},{"name":"index.pck-587073a079f964c0.part-015","size":5242880,"sha256":"2165da4076be22ef52b12cab88fef93b39bf0ce64ba7ad8016810def5bb87551"},{"name":"index.pck-587073a079f964c0.part-016","size":5242880,"sha256":"7643b97f8475fc21ce1e5c604f57043e205ea1732cf35a5184a77f19f1c98867"},{"name":"index.pck-587073a079f964c0.part-017","size":1416900,"sha256":"b4c85d5c36bc93cc0f5551c8148414cb70828bc637187da45ba92357f3f3b46d"}]},"index.wasm":{"size":39514754,"sha256":"fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0","parts":[{"name":"index.wasm-fc74679e3b97f768.part-000","size":5242880,"sha256":"fa0e1eb80f0a12a2ec9c77ebd0bfe068fbdf90cd1b883f0e42dff1f13761cb1a"},{"name":"index.wasm-fc74679e3b97f768.part-001","size":5242880,"sha256":"e3db32fd8c4e3fd8548fc0c2bfcf1b6f91bb2f99db1ef277152d736d1e758a20"},{"name":"index.wasm-fc74679e3b97f768.part-002","size":5242880,"sha256":"fe2b452a8b969c92cb5a4d132d98560ca81c139495cf2ccf651de1972d9d8a5d"},{"name":"index.wasm-fc74679e3b97f768.part-003","size":5242880,"sha256":"ba95ec10851f3597723059e7666f3fc360105913b506836057007f398cb6f0bf"},{"name":"index.wasm-fc74679e3b97f768.part-004","size":5242880,"sha256":"e5ead106522da83e90de31d2219ccb2756b5fad2248041484087a37b898057f7"},{"name":"index.wasm-fc74679e3b97f768.part-005","size":5242880,"sha256":"cd9c2eba01fbd9a8abab22807709d35a01389e1008b7639cae4402fc319bd5a3"},{"name":"index.wasm-fc74679e3b97f768.part-006","size":5242880,"sha256":"0302d6831890e6b51531ee7588e5d9fc454c686d325cc20ae0972a2b5d5459d7"},{"name":"index.wasm-fc74679e3b97f768.part-007","size":2814594,"sha256":"68497b15ec76496611c0c4cf8fd2d49ebe736d61c4b413447eb33d003a1f978d"}]}};
+  const nativeFetch = window.fetch.bind(window);
+  const progress = {};
+  Object.defineProperty(window, 'ASTRAL_RUNTIME_DIAGNOSTIC', {
+    get: () => JSON.parse(JSON.stringify(progress)), configurable: false
+  });
+  window.fetch = (input, init) => {
+    const address = typeof input === 'string' ? input : input instanceof URL ? input.href : input.url;
+    const url = new URL(address, window.location.href);
+    const name = url.pathname.split('/').pop();
+    const artifact = artifacts[name];
+    const expected = new URL(name, window.location.href);
+    if (!artifact || url.origin !== expected.origin || url.pathname !== expected.pathname) return nativeFetch(input, init);
+    let index = 0;
+    const abort = new AbortController();
+    const external = init?.signal || (input instanceof Request ? input.signal : null);
+    if (external?.aborted) abort.abort();
+    external?.addEventListener('abort', () => abort.abort(), { once: true });
+    progress[name] = { loaded: 0, total: artifact.size, parts: 0, complete: false, verified: false };
+    const stream = new ReadableStream({
+      async pull(controller) {
+        try {
+          const part = artifact.parts[index];
+          const response = await nativeFetch(new URL('chunks/' + part.name, url), { signal: abort.signal, credentials: 'same-origin' });
+          if (!response.ok) throw new Error(`Could not load ${name}, part ${index + 1} (${response.status})`);
+          const buffer = await response.arrayBuffer();
+          if (buffer.byteLength !== part.size) throw new Error(`Incomplete download of ${name}, part ${index + 1}`);
+          const digest = Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256', buffer)), x => x.toString(16).padStart(2, '0')).join('');
+          if (digest !== part.sha256) throw new Error(`Integrity check failed for ${name}, part ${index + 1}. Reload to try again.`);
+          controller.enqueue(new Uint8Array(buffer));
+          index += 1;
+          progress[name].loaded += buffer.byteLength;
+          progress[name].parts = index;
+          if (index === artifact.parts.length) {
+            progress[name].complete = true;
+            progress[name].verified = progress[name].loaded === artifact.size;
+            controller.close();
+          }
+        } catch (error) {
+          progress[name].error = String(error.message || error);
+          // Godot's supplied instantiateWasm callback can remain pending when a
+          // streamed WASM body rejects. Always show a recoverable download error.
+          const overlay = document.getElementById('status');
+          const notice = document.getElementById('status-notice');
+          const bar = document.getElementById('status-progress');
+          if (overlay && notice) {
+            overlay.style.visibility = 'visible';
+            notice.style.display = 'block';
+            notice.textContent = progress[name].error + ' Reload this page to retry the download. / โหลดหน้าใหม่เพื่อลองดาวน์โหลดอีกครั้ง';
+            if (bar) bar.style.display = 'none';
+          }
+          controller.error(error);
+        }
+      },
+      cancel() { abort.abort(); }
+    });
+    return Promise.resolve(new Response(stream, { headers: {
+      'Content-Type': name.endsWith('.wasm') ? 'application/wasm' : 'application/octet-stream',
+      'Content-Length': String(artifact.size)
+    } }));
+  };
+})();

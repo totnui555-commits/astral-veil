@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b1118">
+  <meta name="description" content="Explore Hearthwell, choose your heroes, and face the demons descending from beyond the sky in ASTRAL VEIL.">
+  <title>ASTRAL VEIL — The Summoned Thirty</title>
+  <style>
+    :root{color-scheme:dark;--gold:#d2b77b;--ink:#eee8dc;--muted:#a9a393;--night:#080c12}
+    *{box-sizing:border-box}
+    html,body{width:100%;height:100%;margin:0;background:var(--night);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+    body{display:grid;grid-template-rows:56px minmax(0,1fr) 28px;overflow:hidden}
+    header,footer{display:flex;align-items:center;justify-content:space-between;padding:0 clamp(14px,3vw,34px);background:linear-gradient(90deg,#11141d,#172026 60%,#191a20)}
+    header{border-bottom:1px solid #8e744755;gap:16px}
+    .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:inherit}
+    .star{font-size:26px;color:#e4c47b;text-shadow:0 0 18px #e59d52}
+    .brand-copy{display:grid;gap:2px}.brand strong{font-size:13px;letter-spacing:.2em}.brand small{font-size:8px;letter-spacing:.22em;color:var(--gold)}
+    nav{display:flex;align-items:center;gap:18px;font-size:12px}
+    a{color:#d8d1c2;text-decoration:none}a:hover{color:#fff1ce}
+    .launch{padding:8px 12px;border:1px solid #d2b77b88;border-radius:3px;color:#f0dfbb}
+    main{min-width:0;min-height:0;background:#05080c}
+    iframe{display:block;width:100%;height:100%;border:0;background:#05080c}
+    footer{border-top:1px solid #8e744733;color:var(--muted);font-size:10px;gap:12px}
+    @media(max-width:560px){body{grid-template-rows:50px minmax(0,1fr) 24px}.brand strong{font-size:11px}.brand small{font-size:7px}.star{font-size:23px}nav{gap:10px;font-size:10px}.launch{padding:7px 8px}footer{font-size:8px}}
+  </style>
+</head>
+<body>
+  <header>
+    <a class="brand" href="./" aria-label="ASTRAL VEIL home"><span class="star" aria-hidden="true">✦</span><span class="brand-copy"><strong>ASTRAL VEIL</strong><small>THE SUMMONED THIRTY</small></span></a>
+    <nav aria-label="Game actions"><a class="launch" href="./game/index.html" target="_blank" rel="noopener">Open game ↗</a></nav>
+  </header>
+  <main aria-label="Playable ASTRAL VEIL action RPG"><iframe src="./game/index.html" title="ASTRAL VEIL: The Summoned Thirty — playable action RPG" allow="autoplay; fullscreen; gamepad" allowfullscreen></iframe></main>
+  <footer><span>New request · Meet Tavi in Hearthwell’s eastern market.</span><span>Progress saves in this browser.</span></footer>
+</body>
+</html>
